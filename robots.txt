@@ -1,4 +1,4 @@
-Sitemap: https://tabulearn.com/sitemap.xml
+Sitemap: https://pinsight.ai/sitemap.xml
 
 User-agent: *
 Disallow:
