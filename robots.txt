@@ -1,0 +1,4 @@
+Sitemap: https://tabulearn.com/sitemap.xml
+
+User-agent: *
+Disallow:
