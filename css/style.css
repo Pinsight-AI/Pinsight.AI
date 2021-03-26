@@ -4852,10 +4852,10 @@ blockquote.wp-block-pullquote p {
 .item > div {
     line-height: 22px;
     margin-bottom: 10px;
-    margin-top:100px;
+    margin-top: 100px;
 }
 
-.benefitsText{
+.benefitsText {
     text-align: left;
     font-family: Poppins;
     font-style: normal;
@@ -4863,7 +4863,8 @@ blockquote.wp-block-pullquote p {
     font-size: 24px;
     line-height: 24px;
 }
-.benefitsDescription{
+
+.benefitsDescription {
     margin-top: 10px;
     text-align: left;
     font-family: Poppins;
@@ -4872,6 +4873,7 @@ blockquote.wp-block-pullquote p {
     font-size: 15px;
     line-height: 24px;
 }
+
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -4885,3 +4887,32 @@ blockquote.wp-block-pullquote p {
     margin-bottom: 10px;
 }
 
+
+/*resourses*/
+.div-main {
+    width: 100%;
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.div-main div {
+    flex: 22%;
+    min-height: 100px;
+    margin-left: 2.4%;
+}
+
+
+#pagination {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 50px;
+}
+
+#pagination div {
+    width: 60px;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
