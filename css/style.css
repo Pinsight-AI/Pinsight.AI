@@ -23,6 +23,10 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 
+.elementor-inner > .elementor-section-wrap > section {
+    padding: 120px 0!important;
+}
+
 blockquote, q {
     quotes: none;
     box-sizing: border-box;
@@ -2279,6 +2283,7 @@ footer .tagcloud {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    padding: 107px 0 140px 0;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: flex-start;
@@ -2287,10 +2292,21 @@ footer .tagcloud {
 .footer-sidebar {
     width: 27%;
     height: 100%;
-    padding: 80px 20px;
     position: relative;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+.fs-2 {
+    margin-left: 80px;
+}
+
+.fs-3 {
+    margin-left: 106px;
+}
+
+.fs-4 {
+    margin-left: 167px;
 }
 
 .footer-sidebar .s-one-widget {
@@ -2309,7 +2325,8 @@ footer .tagcloud {
     justify-content: flex-start;
     background: transparent;
     color: #f3f3f3;
-    font-size: 1.6em;
+    font-size: 26px;
+    line-height: 26px;
     font-weight: 500;
     min-height: 0;
     margin-bottom: 35px;
@@ -4915,4 +4932,214 @@ blockquote.wp-block-pullquote p {
     padding: 20px;
     text-align: center;
     color: white;
+}
+
+.pinsight-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.m-l-50 {
+    margin-left: 50px;
+}
+
+.step-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 34px;
+    color: #FF9A75;
+}
+
+.step-text-number {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 93px;
+    line-height: 34px;
+    color: #7C7CD9;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-member-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px;
+}
+
+.team-member-name {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #30353D;
+    margin-top: 30px;
+}
+
+.team-member-position {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(48, 53, 61, 0.8);
+    margin-top: 8px;
+}
+
+.elementor-element .elementor-element .elementor-widget-container .elementor-divider .margin-0 {
+    margin: 0;
+}
+
+.flex-start {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.elementor-inner .elementor-section-wrap .job-page-section {
+    padding: 120px 135px!important;
+}
+
+.job-page-h2 {
+    text-align: left;
+}
+
+.m-t-34 {
+    margin-top: 34px;
+}
+
+.m-t-97 {
+    margin-top: 97px;
+}
+
+.m-t-42 {
+    margin-top: 42px;
+}
+
+.m-t-67 {
+    margin-top: 67px;
+}
+
+.job-page-subtitile {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #30353D;
+}
+
+.job-page-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(48, 53, 61, 0.8);
+}
+
+.job-list {
+    list-style: none;
+    padding: 0 60px;
+    width: 100%;
+    margin-top: 130px;
+}
+
+.job-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 60px;
+    height: 118px;
+}
+
+.job-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #30353D;
+}
+
+.job-deadline {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(48, 53, 61, 0.8);
+}
+
+.grey-bg {
+    background: linear-gradient(0deg, rgba(85, 85, 206, 0.08), rgba(85, 85, 206, 0.08)), #FFFFFF;
+}
+
+.page-badge {
+    display: flex;
+    align-items: center;
+}
+
+.badge-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+.grey-text {
+    color: rgba(48, 53, 61, 0.8);
+}
+
+.section-subtitle {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 74px;
+    color: #30353D;
+}
+
+.step-text-product-page {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 74px;
+    color: #FF9A75;
+}
+
+.bg-image-bubble-container {
+    position: relative;
+}
+
+.bg-image-bubble {
+    position: relative;
+}
+
+.no-positions {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(48, 53, 61, 0.8);
+}
+
+.elementor-divider-separator {
+    width: 20%!important;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.specification-list {
+    background: #FFFFFF;
+    box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12)!important;
+    border-radius: 4px;
 }
