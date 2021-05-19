@@ -27,19 +27,62 @@ submitButton.addEventListener('click', async () => {
                 email: email.value,
                 message: message.value,
                 subject: subject.value,
+                fromWebsite: 'Pinsight'
             }
         }) // body data type must match "Content-Type" header
       });
       if (response.ok) {
         formParent.removeChild(form);
-        const span = document.createElement('span');
-        span.innerHTML = 'Thank you'
-        formParent.appendChild(span);
+        const div = document.createElement('div');
+        div.style.display = 'flex';
+        div.style.flexDirection = 'column';
+        div.style.height = '200px';
+        div.style.width = '100%';
+        div.style.alignItems = 'center';
+        const titleSpan = document.createElement('span');
+        titleSpan.className = 'resultTitle';
+        titleSpan.innerHTML = 'Thank You!'
+        const textSpan = document.createElement('span');
+        textSpan.innerHTML = 'We have received your email we will contact you as soon as possible.'
+        textSpan.className = 'resultText';
+        const okButton = document.createElement('button');
+        okButton.innerHTML = 'OK'
+        okButton.className = 'okButton bg-purple';
+        okButton.addEventListener('click', () => {
+          formParent.removeChild(div);
+          formParent.appendChild(form);
+        })
+        div.appendChild(titleSpan);
+        div.appendChild(textSpan);
+        div.appendChild(okButton);
+        formParent.appendChild(div);
         isButtonDisabled = false;
         return;
       }
-      const span = document.createElement('span');
-      span.innerHTML = 'Faild to send message'
+      formParent.removeChild(form);
+      const div = document.createElement('div');
+      div.style.display = 'flex';
+      div.style.flexDirection = 'column';
+      div.style.height = '200px';
+      div.style.width = '100%';
+      div.style.alignItems = 'center';
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'resultTitle';
+      titleSpan.innerHTML = 'Error!'
+      const textSpan = document.createElement('span');
+      textSpan.innerHTML = 'An internal error occurred during your request, please try again.'
+      textSpan.className = 'resultText';
+      const okButton = document.createElement('button');
+      okButton.innerHTML = 'OK'
+      okButton.className = 'okButton bg-orange';
+      okButton.addEventListener('click', () => {
+        formParent.removeChild(div);
+        formParent.appendChild(form);
+      })
+      div.appendChild(titleSpan);
+      div.appendChild(textSpan);
+      div.appendChild(okButton);
+      formParent.appendChild(div);
       formParent.appendChild(span);
       isButtonDisabled = false;
 })
