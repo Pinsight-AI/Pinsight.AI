@@ -8,6 +8,7 @@ let yourName = jQuery('#your-name');
 let message = jQuery('#your-message');
 let subject = jQuery('#your-subject');
 let email = jQuery('#your-email');
+const getTouchLoader = jQuery('#get-touch-loader');
 
 const handleBackOkClick = () => {
   const successContainer = jQuery('#mail-send-success');
@@ -72,6 +73,8 @@ submitButton.addEventListener('click', async () => {
       return;
     }
     isButtonDisabled = true;
+    form.hide();
+    getTouchLoader.show();
 
     const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
         method: 'POST', // *GET, POST, PUT, DELETE, etc.
@@ -96,10 +99,12 @@ submitButton.addEventListener('click', async () => {
         form.hide();
         successContainer.css('display', 'flex');
         isButtonDisabled = false;
+        getTouchLoader.hide();
         return;
       }
       const errorContainer = jQuery('#mail-send-success');
       form.hide();
       errorContainer.css('display', 'flex');
       isButtonDisabled = false;
+      getTouchLoader.hide();
 })

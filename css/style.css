@@ -2288,7 +2288,7 @@ footer .tagcloud {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: 107px 0 140px 0;
+    padding: 107px 0 63px 0;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: flex-start;
@@ -5370,6 +5370,7 @@ blockquote.wp-block-pullquote p {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    width: 280px;
     display: none;
 }
 
@@ -5489,4 +5490,47 @@ blockquote.wp-block-pullquote p {
     .ti-close:before {
         color: black;
     }
+}
+
+textarea {
+    font-family: Poppins, sans-serif;
+}
+
+.bg-light-pink {
+    background: #FFFCFB!important;
+}
+
+.no-bg {
+    background: none!important;
+}
+
+.m-t-0 {
+    margin-top: 0!important;
+}
+
+.lead-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 36px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.54);
+    max-width: 898px;
+    word-break: break-word;
+}
+
+#get-touch-loader {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: none;
+    margin-top: 200px;
 }
