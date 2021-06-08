@@ -4905,6 +4905,7 @@ blockquote.wp-block-pullquote p {
     /*demo*/
     /*box-shadow: 0 0 0 1px black;*/
     margin-bottom: 10px;
+    min-width: 130px;
 }
 
 
@@ -5426,4 +5427,66 @@ blockquote.wp-block-pullquote p {
 #send_mail {
     margin-top: 120px;
     padding-bottom: 120px!important;
+}
+
+@media (max-width: 1000px) {    
+    .fs-2, .fs-3, .fs-4 {
+        margin-left: 0!important;
+    }
+}
+
+@media (max-width: 500px) {
+    .elementor-divider {
+        width: auto!important;
+    }
+
+    .padding-around-20 {
+        padding: 0 20px!important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .full-title {
+        width: 100%!important;
+    }
+
+    .heading-title {
+        max-width: 100%!important;
+    }
+
+    .res-justify-center {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1020px) {
+    .res-no-margin {
+        margin: 0!important;
+    }
+
+    .res-margin-top-120 {
+        margin-top: 120px;
+    }
+}
+
+@media (max-width: 1140px) {
+    section {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.sidebar-panel {
+    display: none;
+}
+
+
+@media (max-width: 980px) {
+    .sidebar-panel {
+        display: flex;
+    }
+
+    .ti-close:before {
+        color: black;
+    }
 }
