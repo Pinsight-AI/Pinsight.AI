@@ -2,7 +2,7 @@ const submitButton = document.getElementById('submit-button');
 const backButton = jQuery('#backButton');
 const okButton = jQuery('#okButton');
 const form = jQuery('#mail-form');
-const formParent = form.parentNode;
+const formParent = form.parent();
 let isButtonDisabled = false;
 let yourName = jQuery('#your-name');
 let message = jQuery('#your-message');
@@ -15,6 +15,7 @@ const handleBackOkClick = () => {
   const errorContainer = jQuery('#mail-send-success');
   successContainer.hide();
   errorContainer.hide();
+  formParent.removeClass('formCont');
   yourName.val('');
   message.val('');
   subject.val('');
@@ -82,19 +83,20 @@ submitButton.addEventListener('click', async () => {
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-            service_id: 'service_idonr3d',
-            template_id: 'template_ne9iy4e',
-            user_id: 'user_iEyfJ0OmIwtGmVBh36X4J',
-            template_params: {
-                name: yourName.val(),
-                email: email.val(),
-                message: message.val(),
-                subject: subject.val(),
-                fromWebsite: 'Pinsight'
-            }
+            // service_id: 'service_idonr3d',
+            // template_id: 'template_ne9iy4e',
+            // user_id: 'user_iEyfJ0OmIwtGmVBh36X4J',
+            // template_params: {
+                // name: yourName.val(),
+                // email: email.val(),
+                // message: message.val(),
+                // subject: subject.val(),
+                // fromWebsite: 'Pinsight'
+            // }
         }) // body data type must match "Content-Type" header
       });
       if (response && response.ok) {
+        formParent.addClass('formCont');
         const successContainer = jQuery('#mail-send-success');
         form.hide();
         successContainer.css('display', 'flex');
@@ -102,6 +104,7 @@ submitButton.addEventListener('click', async () => {
         getTouchLoader.hide();
         return;
       }
+      formParent.addClass('formCont');
       const errorContainer = jQuery('#mail-send-success');
       form.hide();
       errorContainer.css('display', 'flex');

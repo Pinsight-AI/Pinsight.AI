@@ -4652,7 +4652,7 @@ blockquote.wp-block-pullquote p {
     content: "";
     width: 120px;
     height: 120px;
-    background: #fff4f0;
+    background: #FFFCFB;
     display: block;
     position: absolute;
     top: 13%;
@@ -5533,4 +5533,29 @@ textarea {
     justify-content: center;
     display: none;
     margin-top: 200px;
+}
+
+.formCont {
+    padding-right: 217px;
+    justify-content: flex-end;
+}
+
+@media (max-width: 1024px) {
+    .formCont {
+        padding-right: 0;
+        justify-content: center;
+    }
+
+    .el-img-cont {
+        display: block;
+    }
+
+    .wpcf7 {
+        justify-content: center;
+    } 
+}
+
+.el-img-cont {
+    display: flex;
+    justify-content: flex-end;
 }
