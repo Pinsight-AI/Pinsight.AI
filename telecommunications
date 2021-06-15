@@ -91,7 +91,7 @@
       <header class='st-header header-main header-transparent support_sticky'>
           <div class='st-sizing-container'>
               <div class='site-logo site-logo-1 slot-1'>
-                  <a href='index'><img src='assets/Original.svg' title='Enterprise AI | Pinsight'
+                  <a href='/'><img src='assets/Original.svg' title='Enterprise AI | Pinsight'
                                             alt='Enterprise AI | Pinsight'/></a>
               </div>
               <!-- site logo-->
@@ -99,7 +99,7 @@
                   <ul id="menu-genoa-header" class="st-parent-ul">
                       <li id="menu-item-1852"
                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                          <a href="index">Home</a></li>
+                          <a href="/">Home</a></li>
                       <li id="menu-item-1852"
                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                           <a href="product">Product</a></li>
@@ -188,7 +188,7 @@
            <div class = 'ss-container'>
               <ul id="menu-genoa-header-1" class="mobile-menu">
                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                    <a href ='index'>Home</a>
+                    <a href ='/'>Home</a>
                  </li>
                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                   <a href ='product'>Product</a>
