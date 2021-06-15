@@ -157,10 +157,6 @@
                        </ul> -->
                    </li>
                </ul>
-               <nav class='menu-right-panel'>
-                   <a href='company.html#send_mail' class='st-header-magic-box'>
-                       Request Demo </a><!-- magic box -->
-               </nav>
                <nav class="menu-right-panel sidebar-panel">
                   <span class="st-header-search-icon">
                    <span class="st-header-sidebar ti-align-right">
@@ -186,7 +182,7 @@
             <div class = 'ss-container'>
                <ul id="menu-genoa-header-1" class="mobile-menu">
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                     <a href ='/'>Home</a>
+                     <a href ='index.html'>Home</a>
                   </li>
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                    <a href ='product.html'>Product</a>
@@ -207,30 +203,9 @@
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
                    <a href="company.html">Company</a>
                 </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+                  
                </ul>
-               <div class='s-one-widget '>
-                  <div class='widget-content'>
-                     <span class='s-widget-title'>Contact Info</span>
-                     <ul>
-                        <li class='ch-widget-phone info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-phone'></i>
-                           </span>+1 302 305 0786
-                        </li>
-                        <li class='ch-widget-mail info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-paper-plane-o'></i>
-                           </span>info@pinsight.ai
-                        </li>
-                        <li class='ch-widget-skype info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-facebook-official'></i>
-                           </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
+            </div>
                <!-- end widget -->
             </div>
             <!-- sticky sidebar container-->
@@ -327,7 +302,7 @@
                                     </section>
                                     <section class="elementor-element elementor-element-35bd835 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="35bd835" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                        <div class="elementor-container elementor-column-gap-default">
-                                          <div class="elementor-row">
+                                          <div class="elementor-row elementor-row-reverse">
 
                                              <div class="elementor-element elementor-element-e17e0f2 elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="e17e0f2" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
                                                 <div class="elementor-column-wrap  elementor-element-populated">
@@ -391,27 +366,33 @@
                               <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row res-justify-center" style="justify-content: center;">
                                        <div class="team-member-container">
-                                          <img width="276" height="276" src="assets/Hrant.png"/>
+                                          <div class="team-member-img-container">
+                                             <img class="team-member-img" width="276" height="276" src="assets/Hrant.png"/>
+                                          </div>
                                           <span class="team-member-name">Hrant Davtyan</span>
                                           <span class="team-member-position">CEO & Founder</span>
-                                          <a target="_blank" href="https://www.linkedin.com/in/hrantdavtyan/" style="display: flex;justify-content: center;margin-top: 17px;">
-                                             <img src="assets/ln-team.svg" />
+                                          <a style="max-width: 42px;max-height: 42px;" target="_blank" href="https://www.linkedin.com/in/hrantdavtyan/" style="display: flex;justify-content: center;margin-top: 17px;">
+                                             <img src="assets/ln-team.svg" width="42" height="42"/>
                                           </a>
                                        </div>
                                        <div class="team-member-container">
-                                          <img width="276" height="276" src="assets/Rob.png"/>
+                                          <div class="team-member-img-container">
+                                             <img class="team-member-img" width="276" height="276" src="assets/Rob.png"/>
+                                          </div>
                                           <span class="team-member-name">Robert Yenokyan</span>
                                           <span class="team-member-position">Head of AI</span>
-                                          <a target="_blank" href="https://www.linkedin.com/in/robert-yenokyan/" style="display: flex;justify-content: center;margin-top: 17px;">
-                                             <img src="assets/ln-team.svg" />
+                                          <a style="max-width: 42px;max-height: 42px;" target="_blank" href="https://www.linkedin.com/in/robert-yenokyan/" style="display: flex;justify-content: center;margin-top: 17px;">
+                                             <img src="assets/ln-team.svg" width="42" height="42"/>
                                           </a>
                                        </div>
-                                       <div class="team-member-container"> 
-                                          <img width="276" height="276" src="assets/Nare.png"/>
+                                       <div class="team-member-container">
+                                          <div class="team-member-img-container">
+                                             <img class="team-member-img" width="276" height="276" src="assets/Nare.png"/>
+                                          </div>
                                           <span class="team-member-name">Nare Banduryan</span>
                                           <span class="team-member-position">Head of Product</span>
-                                          <a target="_blank" href="https://www.linkedin.com/in/narebanduryan/" style="display: flex;justify-content: center;margin-top: 17px;">
-                                             <img src="assets/ln-team.svg" />
+                                          <a style="max-width: 42px;max-height: 42px;" target="_blank" href="https://www.linkedin.com/in/narebanduryan/" style="display: flex;justify-content: center;margin-top: 17px;">
+                                             <img src="assets/ln-team.svg" width="42" height="42"/>
                                           </a>
                                        </div>
                                     </div>
@@ -612,9 +593,9 @@
                                                                  data-id="7792271" data-element_type="widget"
                                                                  data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
+                                                                    <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;text-align:left;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
                                                                 </div>
-                                                                <img src="assets/envelope-email.svg" alt="Envelope email"/>
+                                                                <img class="envelope-img" src="assets/envelope-email.svg" alt="Envelope email"/>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -629,7 +610,7 @@
                                                                  data-widget_type="shortcode.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-shortcode">
-                                                                        <div role="form" style="display: flex;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
+                                                                        <div role="form" style="display: flex;justify-content: flex-end;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
                                                                              dir="ltr">
                                                                             <div class="screen-reader-response"></div>
                                                                             <form id="mail-form" class="wpcf7-form" novalidate="novalidate">
@@ -689,13 +670,17 @@
                                                                               </div>
                                                                            </div>
                                                                             <div id="mail-send-success" class="result-container">
-                                                                                <img src="assets/success-white.svg"/>
+                                                                                <div class="error-success-icon-container">
+                                                                                 <img width="54" height="54" src="assets/success-white.svg"/>
+                                                                                </div>
                                                                                 <span class="res-title">Thank You!</span>
                                                                                 <span class="res-desc">We have received your email we will contact you as soon as possible.</span>
                                                                                 <button id="okButton" class="res-button">OK</button>
                                                                             </div>
                                                                             <div id="mail-send-error" class="result-container">
-                                                                                <img src="assets/error.svg"/>
+                                                                                <div class="error-success-icon-container">
+                                                                                 <img width="54" height="54" src="assets/error.svg"/>
+                                                                                </div>
                                                                                 <span class="res-title">Error!</span>
                                                                                 <span class="res-desc">An internal error occurred during your request, please try again.</span>
                                                                                 <button id="backButton" class="res-button">BACK</button>
@@ -718,7 +703,9 @@
       <div class = 'footer-sidebar fs-1'>
          <div class='s-one-widget'>
             <div class='widget-content'>
-               <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+               <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                <span class='ch-wgt-about-textcontent'>
                Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                <div class='card-social'></div>

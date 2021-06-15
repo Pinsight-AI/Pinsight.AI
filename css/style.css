@@ -1055,7 +1055,6 @@ body {
 .ss-header {
     width: 100%;
     height: 100px;
-    background: var(--accend);
     color: var(--light-black);
     display: -webkit-box;
     display: -ms-flexbox;
@@ -4867,13 +4866,11 @@ blockquote.wp-block-pullquote p {
 .item {
     display: flex;
     flex-wrap: wrap;
-    width: 100%
 }
 
 .item > div {
     line-height: 22px;
     margin-bottom: 10px;
-    margin-top: 100px;
 }
 
 .benefitsText {
@@ -4898,15 +4895,42 @@ blockquote.wp-block-pullquote p {
 .container {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .container > div {
     text-align: center;
-    flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
-    /*demo*/
-    /*box-shadow: 0 0 0 1px black;*/
     margin-bottom: 10px;
     min-width: 130px;
+}
+
+.container > .row {
+    justify-content: space-between;
+}
+
+.container > .row:last-child {
+    margin-top: 100px;
+}
+
+@media (max-width: 938px) {
+    .container > .row {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .container > .row:last-child {
+        margin-top: 0;
+    }
+
+    .container > .row > .item {
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-inner > .elementor-section-wrap > section {
+        padding: 120px 20px 0 20px!important;
+    }
 }
 
 
@@ -4974,6 +4998,7 @@ blockquote.wp-block-pullquote p {
     flex-direction: column;
     padding: 0 30px;
     margin-top: 28px;
+    align-items: center;
 }
 
 .team-member-name {
@@ -5116,7 +5141,7 @@ blockquote.wp-block-pullquote p {
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
-    line-height: 74px;
+    line-height: 34px;
     color: #30353D;
 }
 
@@ -5448,6 +5473,10 @@ blockquote.wp-block-pullquote p {
     color: white!important;
 }
 
+.envelope-img {
+    height: auto!important;
+}
+
 #send_mail {
     margin-top: 120px;
     padding-bottom: 120px!important;
@@ -5485,6 +5514,25 @@ blockquote.wp-block-pullquote p {
 
     .dashboard-img {
         left: 18%;
+    }
+
+    .elementor-row-reverse {
+        flex-wrap: wrap-reverse!important;
+    }
+
+    .res-no-max-width {
+        max-width: unset!important;
+    }
+    .res-no-padding {
+        padding: 0!important;
+    }
+
+    .no-divider-margin {
+        margin: 0;
+    }
+
+    .elementor-button-wrapper-solutions {
+        display: flex;
     }
 }
 
@@ -5579,11 +5627,44 @@ textarea {
     }
 
     .wpcf7 {
-        justify-content: center;
+        justify-content: center!important;
     } 
 }
 
 .el-img-cont {
     display: flex;
     justify-content: flex-end;
+}
+
+#mail-form {
+    width: 100%;
+    max-width: 496px;
+}
+
+.wpcf7-textarea {
+    width: 100%important;
+}
+
+.elementor-icon-list-item {
+    margin-top: 14px!important;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+/* .team-member-img {
+    width: unset;
+    height: unset;
+} */
+
+.team-member-img-container {
+    max-width: 276px;
+    max-height: 276px;
+}
+
+.footer-img-container {
+    max-width: 144px;
+    max-height: 53px;
 }

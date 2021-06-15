@@ -222,7 +222,7 @@
        <div class = 'ss-container'>
           <ul id="menu-genoa-header-1" class="mobile-menu">
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                <a href ='/'>Home</a>
+                <a href ='index.html'>Home</a>
              </li>
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
               <a href ='product.html'>Product</a>
@@ -243,30 +243,9 @@
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
               <a href="company.html">Company</a>
            </li>
-             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+             
           </ul>
-          <div class='s-one-widget '>
-             <div class='widget-content'>
-                <span class='s-widget-title'>Contact Info</span>
-                <ul>
-                   <li class='ch-widget-phone info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-phone'></i>
-                      </span>+1 302 305 0786
-                   </li>
-                   <li class='ch-widget-mail info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-paper-plane-o'></i>
-                      </span>info@pinsight.ai
-                   </li>
-                   <li class='ch-widget-skype info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-facebook-official'></i>
-                      </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                   </li>
-                </ul>
-             </div>
-          </div>
+        </div>
           <!-- end widget -->
        </div>
        <!-- sticky sidebar container-->
@@ -399,66 +378,70 @@
                                                 class="elementor-element elementor-element-c76c9df elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section"
                                                 data-id="c76c9df" data-element_type="section">
                                             <div class="container">
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/data-cleaning.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Data Cleaning</h2>
+                                                <div class="row">
+                                                    <div class="item">
+                                                        <div style="max-width: 62px;max-height: 62px;">
+                                                            <img width="62" height="62" src="assets/data-cleaning.svg">
                                                         </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
-                                                                <p style="max-width: 370px;">No need to prepare, process or clean your data. Pinsight works on raw data directly.</p>
+                                                        <div style="margin-left: 10px;">
+                                                            <div>
+                                                                <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                    Data Cleaning</h2>
+                                                            </div>
+                                                            <div>
+                                                                <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                    <p style="max-width: 370px;">No need to prepare, process or clean your data. Pinsight works on raw data directly.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <div style="max-width: 62px;max-height: 62px;">
+                                                            <img width="62" height="62" src="assets/feature-discovery.svg">
+                                                        </div>
+                                                        <div style="margin-left: 10px;">
+                                                            <div>
+                                                                <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                    Feature Discovery</h2>
+                                                            </div>
+                                                            <div>
+                                                                <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                    <p style="max-width: 370px;">Get deep insights on trends, anomalies, patterns and interactions using our feature discovery tool.</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/feature-discovery.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Feature Discovery</h2>
+                                                <div class="row">
+                                                    <div class="item">
+                                                        <div style="max-width: 62px;max-height: 62px;">
+                                                            <img width="62" height="62" src="assets/auotomated-machine-learning.svg">
                                                         </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
-                                                                <p style="max-width: 370px;">Get deep insights on trends, anomalies, patterns and interactions using our feature discovery tool.</p>
+                                                        <div style="margin-left: 10px;">
+                                                            <div>
+                                                                <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                    Automated Machine Learning</h2>
+                                                            </div>
+                                                            <div>
+                                                                <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                    <p style="max-width: 370px;">No knowledge of AI or ML is required. Build top ML models auing our AutoML technology.</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/auotomated-machine-learning.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Automated Machine Learning</h2>
+                                                    <div class="item">
+                                                        <div style="max-width: 62px;max-height: 62px;">
+                                                            <img width="62" height="62" src="assets/segmentation-what-if.svg">
                                                         </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
-                                                                <p style="max-width: 370px;">No knowledge of AI or ML is required. Build top ML models auing our AutoML technology.</p>
+                                                        <div style="margin-left: 10px;">
+                                                            <div>
+                                                                <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                    Segmentation and What-if</h2>
                                                             </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <div style="width: 20%;">
-                                                        <img src="assets/segmentation-what-if.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Segmentation and What-if</h2>
-                                                        </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
-                                                                <p style="max-width: 370px;">Learn key user segments and build what-if scenarious for each cluster.</p>
+                                                            <div>
+                                                                <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                    <p style="max-width: 370px;">Learn key user segments and build what-if scenarious for each cluster.</p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -742,7 +725,7 @@
                                                                      data-id="a0f6973" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
                                                                      data-widget_type="heading.default">
-                                                                    <div class="elementor-widget-container" style="max-width: 650px;width: 100%;">
+                                                                    <div class="elementor-widget-container res-no-max-width" style="max-width: 650px;width: 100%;">
                                                                         <span class="section-subtitle">
                                                                             What problems Pinsight solve?</h1>
                                                                     </div>
@@ -751,7 +734,7 @@
                                                                      data-id="a8dfa33" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                                                                      data-widget_type="text-editor.default">
-                                                                    <div class="elementor-widget-container">
+                                                                    <div class="elementor-widget-container res-no-padding">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p style="max-width: 342px;">
                                                                                 Pinsight is an Enterprise AI solution powered by proprietary AutoML engine which allows anyone who has data build state-of-the-art and Explainable AI models without knowledge of Machine Learning or Data Science.</p>
@@ -788,7 +771,7 @@
                                                 data-id="153d471" data-element_type="section"
                                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                             <div class="elementor-container elementor-column-gap-no">
-                                                <div class="elementor-row">
+                                                <div class="elementor-row elementor-row-reverse">
                                                     <div  class="elementor-element elementor-element-a73b782 elementor-invisible elementor-column elementor-col-50 elementor-top-column"
                                                          data-id="a73b782" data-element_type="column"
                                                          data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
@@ -816,7 +799,7 @@
                                                                      data-id="a0f6973" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
                                                                      data-widget_type="heading.default">
-                                                                    <div class="elementor-widget-container" style="max-width: 650px;width: 100%;">
+                                                                    <div class="elementor-widget-container res-no-max-width" style="max-width: 650px;width: 100%;">
                                                                         <span class="section-subtitle">
                                                                             What Pinsight gives me?</span>
                                                                     </div>
@@ -825,7 +808,7 @@
                                                                      data-id="a8dfa33" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                                                                      data-widget_type="text-editor.default">
-                                                                    <div class="elementor-widget-container">
+                                                                    <div class="elementor-widget-container res-no-padding">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p style="max-width: 409px;">
                                                                                 Pinsight is an Enterprise AI solution powered by proprietary AutoML engine which allows anyone who has data build state-of-the-art and
@@ -853,7 +836,7 @@
                                                                      data-id="a0f6973" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
                                                                      data-widget_type="heading.default">
-                                                                    <div class="elementor-widget-container" style="max-width: 650px;width: 100%;">
+                                                                    <div class="elementor-widget-container res-no-max-width" style="max-width: 650px;width: 100%;">
                                                                         <span class="section-subtitle">
                                                                             On-premises deployment and more.</h1>
                                                                     </div>
@@ -862,7 +845,7 @@
                                                                      data-id="a8dfa33" data-element_type="widget"
                                                                      data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                                                                      data-widget_type="text-editor.default">
-                                                                    <div class="elementor-widget-container">
+                                                                    <div class="elementor-widget-container res-no-padding">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p style="max-width: 406px;">
                                                                                 Pinsight is avaialble both as a cloud SaaS and as an on-premisis software. Contact us if you are interested in on-premises deployment or in more custom solutions. Our team will arrange a short demo and fully assist your team in the deployment process to ensure Pinsight works seemsly on your own servers.</p>
@@ -1094,9 +1077,9 @@
                                              data-id="7792271" data-element_type="widget"
                                              data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
+                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;text-align:left;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
                                             </div>
-                                            <img src="assets/envelope-email.svg" alt="Envelope email"/>
+                                            <img class="envelope-img" src="assets/envelope-email.svg" alt="Envelope email"/>
                                         </div>
                                     </div>
                                 </div>
@@ -1111,7 +1094,7 @@
                                              data-widget_type="shortcode.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-shortcode">
-                                                    <div role="form" style="display: flex;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
+                                                    <div role="form" style="display: flex;justify-content: flex-end;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
                                                          dir="ltr">
                                                         <div class="screen-reader-response"></div>
                                                         <form id="mail-form" class="wpcf7-form" novalidate="novalidate">
@@ -1170,14 +1153,18 @@
                                                                <div class="sk-cube3 sk-cube"></div>
                                                             </div>
                                                          </div>
-                                                        <div id="mail-send-success" class="result-container">
-                                                            <img src="assets/success-white.svg"/>
+                                                         <div id="mail-send-success" class="result-container">
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/success-white.svg"/>
+                                                            </div>
                                                             <span class="res-title">Thank You!</span>
                                                             <span class="res-desc">We have received your email we will contact you as soon as possible.</span>
                                                             <button id="okButton" class="res-button">OK</button>
                                                         </div>
                                                         <div id="mail-send-error" class="result-container">
-                                                            <img src="assets/error.svg"/>
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/error.svg"/>
+                                                            </div>
                                                             <span class="res-title">Error!</span>
                                                             <span class="res-desc">An internal error occurred during your request, please try again.</span>
                                                             <button id="backButton" class="res-button">BACK</button>
@@ -1202,7 +1189,9 @@
        <div class = 'footer-sidebar fs-1'>
           <div class='s-one-widget'>
              <div class='widget-content'>
-                <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                 <span class='ch-wgt-about-textcontent'>
                 Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                 <div class='card-social'></div>

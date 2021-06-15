@@ -193,7 +193,7 @@
                 </li>
             </ul>
             <nav class='menu-right-panel'>
-                <a href='banking.html#send_mail' class='st-header-magic-box'>
+                <a href='finance.html#send_mail' class='st-header-magic-box'>
                     Request Demo </a><!-- magic box -->
             </nav>
             <nav class="menu-right-panel sidebar-panel">
@@ -221,7 +221,7 @@
        <div class = 'ss-container'>
           <ul id="menu-genoa-header-1" class="mobile-menu">
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                <a href ='/'>Home</a>
+                <a href ='index.html'>Home</a>
              </li>
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
               <a href ='product.html'>Product</a>
@@ -242,30 +242,9 @@
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
               <a href="company.html">Company</a>
            </li>
-             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+             
           </ul>
-          <div class='s-one-widget '>
-             <div class='widget-content'>
-                <span class='s-widget-title'>Contact Info</span>
-                <ul>
-                   <li class='ch-widget-phone info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-phone'></i>
-                      </span>+1 302 305 0786
-                   </li>
-                   <li class='ch-widget-mail info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-paper-plane-o'></i>
-                      </span>info@pinsight.ai
-                   </li>
-                   <li class='ch-widget-skype info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-facebook-official'></i>
-                      </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                   </li>
-                </ul>
-             </div>
-          </div>
+        </div>
           <!-- end widget -->
        </div>
        <!-- sticky sidebar container-->
@@ -298,7 +277,7 @@
                                                                          data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
                                                                             <h1 class="elementor-heading-title elementor-size-default" style="text-align: left;">
-                                                                                AI for Banking</h1>
+                                                                                AI for Finance</h1>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
@@ -306,7 +285,7 @@
                                                                          data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
                                                                          data-widget_type="divider.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div class="elementor-divider" style="text-align: left;">
+                                                                            <div class="elementor-divider no-divider-margin" style="text-align: left;">
                                                                                                                             <span class="elementor-divider-separator">
                                                                                                                             </span>
                                                                             </div>
@@ -320,12 +299,7 @@
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p>
-                                                                                Pinsight is using combination of
-                                                                                state-of-the-art machine learning
-                                                                                approaches and advanced traditional
-                                                                                statistical analysis techniques to
-                                                                                produce top notch, explainable results
-                                                                                in fully automated manner. </p>
+                                                                                Mitigate and reduce your risks, optimize your portfolio and offer targeted financial products using AI-powered predictions and insights.</p>
                                                                             <br>
                                                                         </div>
                                                                     </div>
@@ -334,8 +308,8 @@
                                                                      data-id="827f7cb" data-element_type="widget"
                                                                      data-widget_type="button.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <div class="elementor-button-wrapper">
-                                                                            <a href="banking.html#send_mail"
+                                                                        <div class="elementor-button-wrapper elementor-button-wrapper-solutions">
+                                                                            <a href="finance.html#send_mail"
                                                                                class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
                                                                                role="button">
                                                                <span class="elementor-button-content-wrapper">
@@ -361,8 +335,8 @@
                                                                      data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image el-img-cont">
-                                                                            <img width="487" height="485"
-                                                                                 src="assets/AI for Finance and Banking.svg"
+                                                                            <img width="679" height="462"
+                                                                                 src="assets/finance.svg"
                                                                                  title="Pinsight for Finance and Banking"
                                                                                  alt="Pinsight's AutoML for Finance and Banking"/>
                                                                         </div>
@@ -388,13 +362,11 @@
                                              data-id="6f0885a" data-element_type="widget"
                                              data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items">
-                                                    <li class="elementor-icon-list-item">
-                                                        <div class="elementor-widget-container">
-                                                            <span class="section-subtitle">
-                                                                Client Experience</span>
-                                                        </div>
-                                                    </li>
+                                                <div class="elementor-widget-container">
+                                                    <span class="section-subtitle">
+                                                        Credit Risk Scoring</span>
+                                                </div>
+                                                <ul class="elementor-icon-list-items" style="margin-top:36px;">
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
   <span class="elementor-icon-list-icon">
@@ -402,17 +374,8 @@
                                                           title=""
                                                           alt="Done"/>
                                                 </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">Determine client needs of specific products or services</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Ensure stronger relationships with your clients</span>
+                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">Precise evaluation of potential risk when granting credit or lending money or.
+                                                        </span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -422,7 +385,8 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Anticipate client needs to support them when they need it</span>
+                                                            Present individualized credit score
+</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -432,7 +396,7 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Come up with more personalized offers</span>
+                                                            Detect credit card churners</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -442,7 +406,8 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                           Maximize client retention by customer data management</span>
+                                                            Satisfy regulatory demands to present reason codes for credit decisions that explain the critical factors in credit decisions
+</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -452,100 +417,8 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Analyze client price sensitivity and preferences</span>
-                                                    </li>
-                                                    <li style="float: left" class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                           Anticipate client churn risk</span>
-                                                    </li>
-
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-0886b04 elementor-column elementor-col-33 elementor-inner-column animated fadeInUp"
-                                 data-id="0886b04" data-element_type="column"
-                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
-                                <div class="specification-list elementor-column-wrap  elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f0885a elementor-align-center elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list"
-                                             data-id="6f0885a" data-element_type="widget"
-                                             data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items">
-                                                    <li class="elementor-icon-list-item">
-                                                        <div class="elementor-widget-container">
-                                                            <span class="section-subtitle">
-                                                                Credit</span>
-                                                        </div>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Build accurate credit scoring modelss</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Detect the business with the best risk-adjusted return to add to your portfolio</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Actively and more effectively manage client portfolio</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Use alaytics to get superior credit strategy in the market</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Predict clients' potential financial stress and effectively intervane</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon">
-  <span class="elementor-icon-list-icon">
-                                                     <img src="assets/done.svg"
-                                                          title=""
-                                                          alt="Done"/>
-                                                </span>                                                </span>
-                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Forecast probable losses on time and use the right strategy to prevent them</span>
+                                                            Identify people with no past credit score and determine whether they will be able to pay back the loan, giving more chances to Millennials
+                                                        </span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -566,7 +439,7 @@
                                                     <li class="elementor-icon-list-item">
                                                         <div class="elementor-widget-container">
                                                             <span class="section-subtitle">
-                                                                Operations</span>
+                                                                Risk Management</span>
                                                         </div>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
@@ -577,7 +450,7 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                           Reduce operational costs by process optimization</span>
+                                                            Provide precise individualized credit score</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -587,7 +460,8 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                          Improve pricing strategy to capture the best business opportunities</span>
+                                                            Uncover fraudulent transactions more effectively using supervised and unsupervised ML algorithms
+</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -597,7 +471,7 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Optimize trading process to minimize costs</span>
+                                                            NLP based solutions to use for frequent changes in compliance guidelines</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -607,7 +481,39 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                           Match the best investment opportunities to potential investors</span>
+                                                            Provide fast and accurate risk estimation using every financial and non-financial data
+</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-0886b04 elementor-column elementor-col-33 elementor-inner-column animated fadeInUp"
+                                 data-id="0886b04" data-element_type="column"
+                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:100}">
+                                <div class="specification-list elementor-column-wrap  elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <div class="elementor-element elementor-element-6f0885a elementor-align-center elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list"
+                                             data-id="6f0885a" data-element_type="widget"
+                                             data-widget_type="icon-list.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-widget-container">
+                                                    <span class="section-subtitle">
+                                                        KYC</span>
+                                                </div>
+                                                <ul class="elementor-icon-list-items" style="margin-top:36px;">
+                                                    <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+  <span class="elementor-icon-list-icon">
+                                                     <img src="assets/done.svg"
+                                                          title=""
+                                                          alt="Done"/>
+                                                </span>                                                </span>
+                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
+                                                            Improve your due diligence with AI-powered “enhanced due diligence”, presenting a broad and holistic view of a new client’s business relationships and financial activities
+                                                        </span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
@@ -617,9 +523,9 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Identify the best marketing strategy to meet your goals</span>
+                                                            Save time by using automatic KYC verification to onboard clients in the highly complex and regulated financial sector</span>
                                                     </li>
-                                                    <li style="float: left" class="elementor-icon-list-item">
+                                                    <li class="elementor-icon-list-item">
                                                 <span class="elementor-icon-list-icon">
   <span class="elementor-icon-list-icon">
                                                      <img src="assets/done.svg"
@@ -627,9 +533,21 @@
                                                           alt="Done"/>
                                                 </span>                                                </span>
                                                         <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
-                                                            Monitor and manage the risks</span>
+                                                            Reduce the cost of operations by accurately monitoring transactions using AI
+</span>
                                                     </li>
+                                                    <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+  <span class="elementor-icon-list-icon">
+                                                     <img src="assets/done.svg"
+                                                          title=""
+                                                          alt="Done"/>
+                                                </span>                                                </span>
+                                                        <span style="text-align: left; margin-left: 16px;" class="elementor-icon-list-text">
+                                                            Detect money laundering with pattern recognition of the customer’s transaction 
 
+                                                        </span>
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -701,9 +619,9 @@
                                                                  data-id="7792271" data-element_type="widget"
                                                                  data-widget_type="text-editor.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div style="color: black;" class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
+                                                                    <div style="color: black;" class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;text-align:left;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
                                                                 </div>
-                                                                <img src="assets/envelope-email.svg" alt="Envelope email"/>
+                                                                <img class="envelope-img" src="assets/envelope-email.svg" alt="Envelope email"/>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -718,7 +636,7 @@
                                                                  data-widget_type="shortcode.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-shortcode">
-                                                                        <div role="form" style="display: flex;" class="wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
+                                                                        <div role="form" style="display: flex;justify-content: flex-end;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
                                                                              dir="ltr">
                                                                             <div class="screen-reader-response"></div>
                                                                             <form id="mail-form" class="wpcf7-form" novalidate="novalidate">
@@ -777,17 +695,21 @@
                                                                                    <div class="sk-cube3 sk-cube"></div>
                                                                                 </div>
                                                                              </div>
-                                                                            <div id="mail-send-success" class="result-container">
-                                                                                <img src="assets/success.svg"/>
-                                                                                <span class="res-title color-black">Thank You!</span>
-                                                                                <span class="res-desc color-black">We have received your email we will contact you as soon as possible.</span>
-                                                                                <button id="okButton" class="res-button bg-purple color-white">OK</button>
+                                                                             <div id="mail-send-success" class="result-container">
+                                                                                <div class="error-success-icon-container">
+                                                                                 <img width="54" height="54" src="assets/success-white.svg"/>
+                                                                                </div>
+                                                                                <span class="res-title">Thank You!</span>
+                                                                                <span class="res-desc">We have received your email we will contact you as soon as possible.</span>
+                                                                                <button id="okButton" class="res-button">OK</button>
                                                                             </div>
                                                                             <div id="mail-send-error" class="result-container">
-                                                                                <img src="assets/error.svg"/>
-                                                                                <span class="res-title color-black">Error!</span>
-                                                                                <span class="res-desc color-black">An internal error occurred during your request, please try again.</span>
-                                                                                <button id="backButton" class="res-button bg-orange color-white">BACK</button>
+                                                                                <div class="error-success-icon-container">
+                                                                                 <img width="54" height="54" src="assets/error.svg"/>
+                                                                                </div>
+                                                                                <span class="res-title">Error!</span>
+                                                                                <span class="res-desc">An internal error occurred during your request, please try again.</span>
+                                                                                <button id="backButton" class="res-button">BACK</button>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -807,7 +729,9 @@
                    <div class = 'footer-sidebar fs-1'>
                       <div class='s-one-widget'>
                          <div class='widget-content'>
-                            <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                            <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                             <span class='ch-wgt-about-textcontent'>
                             Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                             <div class='card-social'></div>
@@ -932,6 +856,5 @@
                 };
             </script>
             <script type='text/javascript' src='js/frontend.min.js'></script>
-            <script type='text/javascript' src="js/main.js"></script>
 </body>
 </html>

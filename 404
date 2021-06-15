@@ -184,7 +184,7 @@
             <div class = 'ss-container'>
                <ul id="menu-genoa-header-1" class="mobile-menu">
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                     <a href ='/'>Home</a>
+                     <a href ='index.html'>Home</a>
                   </li>
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                    <a href ='product.html'>Product</a>
@@ -205,30 +205,9 @@
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
                    <a href="company.html">Company</a>
                 </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+                  
                </ul>
-               <div class='s-one-widget '>
-                  <div class='widget-content'>
-                     <span class='s-widget-title'>Contact Info</span>
-                     <ul>
-                        <li class='ch-widget-phone info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-phone'></i>
-                           </span>+1 302 305 0786
-                        </li>
-                        <li class='ch-widget-mail info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-paper-plane-o'></i>
-                           </span>info@pinsight.ai
-                        </li>
-                        <li class='ch-widget-skype info-widget-item'>
-                           <span class='ch-icon-container'>
-                           <i class='fa fa-facebook-official'></i>
-                           </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
+            </div>
                <!-- end widget -->
             </div>
             <!-- sticky sidebar container-->
@@ -290,7 +269,9 @@
       <div class = 'footer-sidebar fs-1'>
          <div class='s-one-widget'>
             <div class='widget-content'>
-               <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+               <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                <span class='ch-wgt-about-textcontent'>
                Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                <div class='card-social'></div>

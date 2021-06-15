@@ -222,7 +222,7 @@
        <div class = 'ss-container'>
           <ul id="menu-genoa-header-1" class="mobile-menu">
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                <a href ='/'>Home</a>
+                <a href ='index.html'>Home</a>
              </li>
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
               <a href ='product.html'>Product</a>
@@ -243,30 +243,9 @@
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
               <a href="company.html">Company</a>
            </li>
-             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+             
           </ul>
-          <div class='s-one-widget '>
-             <div class='widget-content'>
-                <span class='s-widget-title'>Contact Info</span>
-                <ul>
-                   <li class='ch-widget-phone info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-phone'></i>
-                      </span>+1 302 305 0786
-                   </li>
-                   <li class='ch-widget-mail info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-paper-plane-o'></i>
-                      </span>info@pinsight.ai
-                   </li>
-                   <li class='ch-widget-skype info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-facebook-official'></i>
-                      </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                   </li>
-                </ul>
-             </div>
-          </div>
+        </div>
           <!-- end widget -->
        </div>
        <!-- sticky sidebar container-->
@@ -294,7 +273,7 @@
                                              data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
                                              data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h1 class="elementor-heading-title elementor-size-default">Instant access to AI - powered predictive insights</h1>
+                                                <h1 style="max-width: 621px;" class="elementor-heading-title elementor-size-default">Instant access to AI - powered predictive insights</h1>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-a8dfa33 elementor-invisible elementor-widget elementor-widget-text-editor"
@@ -382,9 +361,11 @@
                                              data-widget_type="image.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-image">
-                                                    <img src="assets/automated machine learning.svg"
-                                                         title="Pinsight | Enterprise AI"
-                                                         alt="automated machine learning"/>
+                                                    <img
+                                                        width="638" height="378"
+                                                        src="assets/automated machine learning.svg"
+                                                        title="Pinsight | Enterprise AI"
+                                                        alt="automated machine learning"/>
                                                 </div>
                                             </div>
                                         </div>
@@ -444,11 +425,11 @@
                                                                 <div class="elementor-element elementor-element-ad36d7f elementor-widget elementor-widget-image"
                                                                      data-id="ad36d7f" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/automated AI.svg"
                                                                                  title="Novel AutoML engine"
-                                                                                 alt="automated AI" width="100px"/>
+                                                                                 alt="automated AI" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -481,11 +462,11 @@
                                                                 <div class="elementor-element elementor-element-d581a2d elementor-widget elementor-widget-image"
                                                                      data-id="d581a2d" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-height: 100px; max-width: 100px;">
                                                                             <img src="assets/explainable AI.svg"
                                                                                  title="Revolutionary Explainable AI system"
-                                                                                 alt="explainable AI" width="100px"/>
+                                                                                 alt="explainable AI" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -517,11 +498,11 @@
                                                                 <div class="elementor-element elementor-element-6affad7 elementor-widget elementor-widget-image"
                                                                      data-id="6affad7" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/trusted AI.svg"
                                                                                  title="Transparent and Fair AI models"
-                                                                                 alt="trusted AI" width="100px"/>
+                                                                                 alt="trusted AI" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -875,11 +856,11 @@
                                                                 <div class="elementor-element elementor-element-4fa457b elementor-widget elementor-widget-image"
                                                                      data-id="4fa457b" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/Enterprise-AI-for-Marketing.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Marketing"/>
+                                                                                 alt="Enterprise AI for Marketing" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -911,11 +892,11 @@
                                                                 <div class="elementor-element elementor-element-5e22673 elementor-widget elementor-widget-image"
                                                                      data-id="5e22673" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/Enterprise-AI-for-Economics.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Economics"/>
+                                                                                 alt="Enterprise AI for Economics" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -947,11 +928,11 @@
                                                                 <div class="elementor-element elementor-element-a3ddcbb elementor-widget elementor-widget-image"
                                                                      data-id="a3ddcbb" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/Enterprise-AI-for-Telecommunications.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Telecommunications"/>
+                                                                                 alt="Enterprise AI for Telecommunications" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -991,11 +972,11 @@
                                                                 <div class="elementor-element elementor-element-c723bf8 elementor-widget elementor-widget-image"
                                                                      data-id="c723bf8" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/Enterprise-AI-for-Finance-and-Banking.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Finance and Banking"/>
+                                                                                 alt="Enterprise AI for Finance and Banking" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1027,11 +1008,11 @@
                                                                 <div class="elementor-element elementor-element-814549b elementor-widget elementor-widget-image"
                                                                      data-id="814549b" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-width: 100px;max-height: 100px;">
                                                                             <img src="assets/Enterprise-AI-for-Automation.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Automation"/>
+                                                                                 alt="Enterprise AI for Automation" width="100" height="100"/>
                                                                         </div>
 
                                                                     </div>
@@ -1064,12 +1045,11 @@
                                                                 <div class="elementor-element elementor-element-c63b782 elementor-widget elementor-widget-image"
                                                                      data-id="c63b782" data-element_type="widget"
                                                                      data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-image">
-
+                                                                    <div class="elementor-widget-container" style="display: flex; justify-content: center;">
+                                                                        <div class="elementor-image" style="max-height: 100px;max-width: 100px;">
                                                                             <img src="assets/TrustedAI.svg"
                                                                                  title=""
-                                                                                 alt="Enterprise AI for Security and Maintanance"/>
+                                                                                 alt="Enterprise AI for Security and Maintanance" width="100" height="100"/>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1138,9 +1118,9 @@
                                              data-id="7792271" data-element_type="widget"
                                              data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
+                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;text-align:left;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
                                             </div>
-                                            <img src="assets/envelope-email.svg" alt="Envelope email"/>
+                                            <img class="envelope-img" src="assets/envelope-email.svg" alt="Envelope email"/>
                                         </div>
                                     </div>
                                 </div>
@@ -1155,7 +1135,7 @@
                                              data-widget_type="shortcode.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-shortcode">
-                                                    <div role="form" style="display: flex;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
+                                                    <div role="form" style="display: flex; justify-content: flex-end;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
                                                          dir="ltr">
                                                         <div class="screen-reader-response"></div>
                                                         <form id="mail-form" class="wpcf7-form" novalidate="novalidate">
@@ -1214,14 +1194,18 @@
                                                                <div class="sk-cube3 sk-cube"></div>
                                                             </div>
                                                          </div>
-                                                        <div id="mail-send-success" class="result-container">
-                                                            <img src="assets/success-white.svg"/>
+                                                         <div id="mail-send-success" class="result-container">
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/success-white.svg"/>
+                                                            </div>
                                                             <span class="res-title">Thank You!</span>
                                                             <span class="res-desc">We have received your email we will contact you as soon as possible.</span>
                                                             <button id="okButton" class="res-button">OK</button>
                                                         </div>
                                                         <div id="mail-send-error" class="result-container">
-                                                            <img src="assets/error.svg"/>
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/error.svg"/>
+                                                            </div>
                                                             <span class="res-title">Error!</span>
                                                             <span class="res-desc">An internal error occurred during your request, please try again.</span>
                                                             <button id="backButton" class="res-button">BACK</button>
@@ -1261,7 +1245,9 @@
        <div class = 'footer-sidebar fs-1'>
           <div class='s-one-widget'>
              <div class='widget-content'>
-                <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                 <span class='ch-wgt-about-textcontent'>
                 Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                 <div class='card-social'></div>

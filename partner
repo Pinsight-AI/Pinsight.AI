@@ -222,7 +222,7 @@
        <div class = 'ss-container'>
           <ul id="menu-genoa-header-1" class="mobile-menu">
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                <a href ='/'>Home</a>
+                <a href ='index.html'>Home</a>
              </li>
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
               <a href ='product.html'>Product</a>
@@ -243,30 +243,9 @@
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
               <a href="company.html">Company</a>
            </li>
-             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2006"><a>Contact</a><span class = 'ti-plus down-submenu'></span></li>
+             
           </ul>
-          <div class='s-one-widget '>
-             <div class='widget-content'>
-                <span class='s-widget-title'>Contact Info</span>
-                <ul>
-                   <li class='ch-widget-phone info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-phone'></i>
-                      </span>+1 302 305 0786
-                   </li>
-                   <li class='ch-widget-mail info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-paper-plane-o'></i>
-                      </span>info@pinsight.ai
-                   </li>
-                   <li class='ch-widget-skype info-widget-item'>
-                      <span class='ch-icon-container'>
-                      <i class='fa fa-facebook-official'></i>
-                      </span><a target="_blank"  href="https://fb.com/PinsiightAI">fb.com/PinsiightAI</a>
-                   </li>
-                </ul>
-             </div>
-          </div>
+        </div>
           <!-- end widget -->
        </div>
        <!-- sticky sidebar container-->
@@ -335,7 +314,7 @@
                                                                    <img src="assets/groupIcone.svg" alt="Vector"
                                                                         title="Vector" width="16px">
                                                                </span>
-                                                               <span class="elementor-button-text">Become a partner</span>
+                                                               <span class="elementor-button-text" style="white-space: nowrap;">Become a partner</span>
                                                                </span>
                                                                             </a>
                                                                         </div>
@@ -569,76 +548,76 @@
                                         <section
                                                 class="elementor-element elementor-element-c76c9df elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section"
                                                 data-id="c76c9df" data-element_type="section">
-                                            <div class="container">
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/ai%201.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                AI solutions</h2>
+                                                <div class="container">
+                                                    <div class="row">
+                                                        <div class="item">
+                                                            <div style="max-width: 62px;max-height: 62px;">
+                                                                <img width="62" height="62" src="assets/ai%201.svg">
+                                                            </div>
+                                                            <div style="margin-left: 10px;">
+                                                                <div>
+                                                                    <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                        Data Cleaning</h2>
+                                                                </div>
+                                                                <div>
+                                                                    <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                        <p style="max-width: 370px;">No need to prepare, process or clean your data. Pinsight works on raw data directly.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor elementor-clearfix benefitsDescription">
-                                                                <p>Accessing AI solutions to facilitate and improve a
-                                                                    company's overall experience. </p>
+                                                        <div class="item">
+                                                            <div style="max-width: 62px;max-height: 62px;">
+                                                                <img width="62" height="62" src="assets/ellipse1.svg">
+                                                            </div>
+                                                            <div style="margin-left: 10px;">
+                                                                <div>
+                                                                    <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                        Feature Discovery</h2>
+                                                                </div>
+                                                                <div>
+                                                                    <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                        <p style="max-width: 370px;">Get deep insights on trends, anomalies, patterns and interactions using our feature discovery tool.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="item">
+                                                            <div style="max-width: 62px;max-height: 62px;">
+                                                                <img width="62" height="62" src="assets/settings%20(1)%201.svg">
+                                                            </div>
+                                                            <div style="margin-left: 10px;">
+                                                                <div>
+                                                                    <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                        Automated Machine Learning</h2>
+                                                                </div>
+                                                                <div>
+                                                                    <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                        <p style="max-width: 370px;">No knowledge of AI or ML is required. Build top ML models auing our AutoML technology.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="item">
+                                                            <div style="max-width: 62px;max-height: 62px;">
+                                                                <img width="62" height="62" src="assets/Group-vector.svg">
+                                                            </div>
+                                                            <div style="margin-left: 10px;">
+                                                                <div>
+                                                                    <h2 class="elementor-heading-title elementor-size-default benefitsText">
+                                                                        Segmentation and What-if</h2>
+                                                                </div>
+                                                                <div>
+                                                                    <div class="elementor-text-editor grey-text elementor-clearfix benefitsDescription">
+                                                                        <p style="max-width: 370px;">Learn key user segments and build what-if scenarious for each cluster.</p>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/ellipse1.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Training and support</h2>
-                                                        </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor elementor-clearfix benefitsDescription">
-                                                                <p>Providing all the necessary materials and support for
-                                                                    simplifying Pinsight’s adoption and usage. </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/settings%20(1)%201.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Sales Tools</h2>
-                                                        </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor elementor-clearfix benefitsDescription">
-                                                                <p>Acces to sales materials and content for joint sales
-                                                                    strategy. </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <div style="width: 20%">
-                                                        <img src="assets/Group-vector.svg">
-                                                    </div>
-                                                    <div style="width: calc(80% - 10px);margin-left: 10px;">
-                                                        <div>
-                                                            <h2 class="elementor-heading-title elementor-size-default benefitsText">
-                                                                Co-marketing tools</h2>
-                                                        </div>
-                                                        <div>
-                                                            <div class="elementor-text-editor elementor-clearfix benefitsDescription">
-                                                                <p>Access to marketing materials and content for joint
-                                                                    marketing strategy.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </section>
                                     </div>
                                 </div>
@@ -680,9 +659,9 @@
                                              data-id="7792271" data-element_type="widget"
                                              data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
+                                                <div class="elementor-text-editor elementor-clearfix"><p style="max-width: 418px;text-align:left;">Whether you want to get a personalized demo or want to discuss a partnership opportunity or have some general questions, feel free to get in touch by filling in the contact form.</p></div>
                                             </div>
-                                            <img src="assets/envelope-email.svg" alt="Envelope email"/>
+                                            <img class="envelope-img" src="assets/envelope-email.svg" alt="Envelope email"/>
                                         </div>
                                     </div>
                                 </div>
@@ -697,7 +676,7 @@
                                              data-widget_type="shortcode.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-shortcode">
-                                                    <div role="form" style="display: flex;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
+                                                    <div role="form" style="display: flex;justify-content: flex-end;" class=" wpcf7" id="wpcf7-f256-p1975-o1" lang="en-US"
                                                          dir="ltr">
                                                         <div class="screen-reader-response"></div>
                                                         <form id="mail-form" class="wpcf7-form" novalidate="novalidate">
@@ -756,14 +735,18 @@
                                                                <div class="sk-cube3 sk-cube"></div>
                                                             </div>
                                                          </div>
-                                                        <div id="mail-send-success" class="result-container">
-                                                            <img src="assets/success-white.svg"/>
+                                                         <div id="mail-send-success" class="result-container">
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/success-white.svg"/>
+                                                            </div>
                                                             <span class="res-title">Thank You!</span>
                                                             <span class="res-desc">We have received your email we will contact you as soon as possible.</span>
                                                             <button id="okButton" class="res-button">OK</button>
                                                         </div>
                                                         <div id="mail-send-error" class="result-container">
-                                                            <img src="assets/error.svg"/>
+                                                            <div class="error-success-icon-container">
+                                                             <img width="54" height="54" src="assets/error.svg"/>
+                                                            </div>
                                                             <span class="res-title">Error!</span>
                                                             <span class="res-desc">An internal error occurred during your request, please try again.</span>
                                                             <button id="backButton" class="res-button">BACK</button>
@@ -790,7 +773,9 @@
        <div class = 'footer-sidebar fs-1'>
           <div class='s-one-widget'>
              <div class='widget-content'>
-                <img src = 'assets/White.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                <div class="footer-img-container">
+                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
+                                </div>
                 <span class='ch-wgt-about-textcontent'>
                 Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
                 <div class='card-social'></div>
