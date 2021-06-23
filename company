@@ -422,7 +422,7 @@
                                        </div>
                                     </div>
 <!--                                     <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span> -->
-                              <div class="elementor-container elementor-column-gap-default">
+                              <div style="width: calc(100% - 270px);" class="elementor-container elementor-column-gap-default">
                                     <ul class="job-list">
 
                                        <li class="grey-bg animated fadeInUp">
