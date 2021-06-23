@@ -421,34 +421,13 @@
                                           </div>
                                        </div>
                                     </div>
-                                    <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span>
-                              <!-- <div class="elementor-container elementor-column-gap-default">
+<!--                                     <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span> -->
+                              <div class="elementor-container elementor-column-gap-default">
                                     <ul class="job-list">
-                                       <li class="animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
-                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                             data-id="827f7cb" data-element_type="widget"
-                                             data-widget_type="button.default"
-                                          >
-                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                   <a
-                                                      href="single-job-page"
-                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                      role="button"
-                                                   >
-                                                      <span class="elementor-button-content-wrapper">
-                                                         <span class="elementor-button-text">View More</span>
-                                                      </span>
-                                                   </a>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </li>
+
                                        <li class="grey-bg animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
+                                          <span class="job-title">Senior Frontend Engineer [react.js]</span>
+                                          <span class="job-deadline">Deadline: 29 June 2021</span>
                                           <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
                                              data-id="827f7cb" data-element_type="widget"
                                              data-widget_type="button.default"
@@ -456,7 +435,7 @@
                                              <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
                                                    <a
-                                                      href="single-job-page"
+                                                      href="senior-front"
                                                       class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
                                                       role="button"
                                                    >
@@ -469,8 +448,8 @@
                                           </div>
                                        </li>
                                        <li class="animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
+                                          <span class="job-title">Senior Backend Engineer [node.js]</span>
+                                          <span class="job-deadline">    Deadline: 29 June 2021</span>
                                           <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
                                              data-id="827f7cb" data-element_type="widget"
                                              data-widget_type="button.default"
@@ -478,7 +457,7 @@
                                              <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
                                                    <a
-                                                      href="single-job-page"
+                                                      href="senior-back"
                                                       class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
                                                       role="button"
                                                    >
@@ -490,74 +469,9 @@
                                              </div>
                                           </div>
                                        </li>
-                                       <li class="grey-bg animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
-                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                             data-id="827f7cb" data-element_type="widget"
-                                             data-widget_type="button.default"
-                                          >
-                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                   <a
-                                                      href="single-job-page"
-                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                      role="button"
-                                                   >
-                                                      <span class="elementor-button-content-wrapper">
-                                                         <span class="elementor-button-text">View More</span>
-                                                      </span>
-                                                   </a>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li class="animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
-                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                             data-id="827f7cb" data-element_type="widget"
-                                             data-widget_type="button.default"
-                                          >
-                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                   <a
-                                                      href="single-job-page"
-                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                      role="button"
-                                                   >
-                                                      <span class="elementor-button-content-wrapper">
-                                                         <span class="elementor-button-text">View More</span>
-                                                      </span>
-                                                   </a>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </li>
-                                       <li class="grey-bg animated fadeInUp">
-                                          <span class="job-title">IT Operations Specialist</span>
-                                          <span class="job-deadline">Deadline: 12 May 2021</span>
-                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                             data-id="827f7cb" data-element_type="widget"
-                                             data-widget_type="button.default"
-                                          >
-                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                   <a
-                                                      href="single-job-page"
-                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                      role="button"
-                                                   >
-                                                      <span class="elementor-button-content-wrapper">
-                                                         <span class="elementor-button-text">View More</span>
-                                                      </span>
-                                                   </a>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </li>
+
                                     </ul>
-                              </div> -->
+                              </div>
                                     </section>
                                     <section id='send_mail' style="min-height: 800px;margin-bottom: 150px" class="elementor-element elementor-element-30c1c6b
                                     elementor-section-boxed elementor-section-height-default
