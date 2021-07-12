@@ -83,16 +83,16 @@ submitButton.addEventListener('click', async () => {
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-            // service_id: 'service_idonr3d',
-            // template_id: 'template_ne9iy4e',
-            // user_id: 'user_iEyfJ0OmIwtGmVBh36X4J',
-            // template_params: {
-                // name: yourName.val(),
-                // email: email.val(),
-                // message: message.val(),
-                // subject: subject.val(),
-                // fromWebsite: 'Pinsight'
-            // }
+            service_id: 'service_idonr3d',
+            template_id: 'template_ne9iy4e',
+            user_id: 'user_iEyfJ0OmIwtGmVBh36X4J',
+            template_params: {
+                name: yourName.val(),
+                email: email.val(),
+                message: message.val(),
+                subject: subject.val(),
+                fromWebsite: 'Pinsight'
+            }
         }) // body data type must match "Content-Type" header
       });
       if (response && response.ok) {
