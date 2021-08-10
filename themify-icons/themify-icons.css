@@ -1,0 +1,304 @@
+@font-face {
+	font-family: themify;
+	src: url(fonts/themify.eot?-fvbane);
+	src: url(fonts/themify.eot?#iefix-fvbane) format('embedded-opentype'), url(fonts/themify.woff?-fvbane) format('woff'), url(fonts/themify.ttf?-fvbane) format('truetype'), url(fonts/themify.svg?-fvbane#themify) format('svg');
+	font-weight: 400;
+	font-style: normal
+}
+
+[class*=" ti-"],
+[class^=ti-] {
+	font-family: themify;
+	speak: none;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+
+.ti-user:before {
+	content: "\e602"
+}
+
+.ti-tag:before {
+	content: "\e608"
+}
+
+.ti-tablet:before {
+	content: "\e609"
+}
+
+.ti-settings:before {
+	content: "\e60f"
+}
+
+.ti-zoom-in:before {
+	content: "\e611"
+}
+
+.ti-zoom-out:before {
+	content: "\e612"
+}
+
+.ti-plus:before {
+	content: "\e61a"
+}
+
+.ti-mobile:before {
+	content: "\e621"
+}
+
+.ti-link:before {
+	content: "\e62d"
+}
+
+.ti-layout:before {
+	content: "\e62e"
+}
+
+.ti-image:before {
+	content: "\e633"
+}
+
+.ti-close:before {
+	content: "\e646"
+}
+
+.ti-check:before {
+	content: "\e64c"
+}
+
+.ti-check-box:before {
+	content: "\e64d"
+}
+
+.ti-fullscreen:before {
+	content: "\e659"
+}
+
+.ti-text:before {
+	content: "\e672"
+}
+
+.ti-pulse:before {
+	content: "\e680"
+}
+
+.ti-panel:before {
+	content: "\e686"
+}
+
+.ti-menu:before {
+	content: "\e68e"
+}
+
+.ti-menu-alt:before {
+	content: "\e68f"
+}
+
+.ti-list:before {
+	content: "\e694"
+}
+
+.ti-Italic:before {
+	content: "\e696"
+}
+
+.ti-info:before {
+	content: "\e697"
+}
+
+.ti-home:before {
+	content: "\e69b"
+}
+
+.ti-dashboard:before {
+	content: "\e6aa"
+}
+
+.ti-book:before {
+	content: "\e6b7"
+}
+
+.ti-align-right:before {
+	content: "\e6c1"
+}
+
+.ti-align-left:before {
+	content: "\e6c2"
+}
+
+.ti-align-center:before {
+	content: "\e6c4"
+}
+
+.ti-window:before {
+	content: "\e6c9"
+}
+
+.ti-widget:before {
+	content: "\e6cb"
+}
+
+.ti-widget-alt:before {
+	content: "\e6cc"
+}
+
+.ti-themify-logo:before {
+	content: "\e6d1"
+}
+
+.ti-support:before {
+	content: "\e6d4"
+}
+
+.ti-more:before {
+	content: "\e6e1"
+}
+
+.ti-more-alt:before {
+	content: "\e6e2"
+}
+
+.ti-layout-width-default:before {
+	content: "\e6e9"
+}
+
+.ti-layout-width-default-alt:before {
+	content: "\e6ea"
+}
+
+.ti-layout-sidebar-right:before {
+	content: "\e6f1"
+}
+
+.ti-layout-sidebar-none:before {
+	content: "\e6f2"
+}
+
+.ti-layout-sidebar-left:before {
+	content: "\e6f3"
+}
+
+.ti-layout-menu:before {
+	content: "\e6f5"
+}
+
+.ti-layout-menu-v:before {
+	content: "\e6f6"
+}
+
+.ti-layout-media-right-alt:before {
+	content: "\e6f9"
+}
+
+.ti-layout-media-right:before {
+	content: "\e6fa"
+}
+
+.ti-layout-media-overlay:before {
+	content: "\e6fb"
+}
+
+.ti-layout-media-overlay-alt:before {
+	content: "\e6fc"
+}
+
+.ti-layout-media-overlay-alt-2:before {
+	content: "\e6fd"
+}
+
+.ti-layout-media-left-alt:before {
+	content: "\e6fe"
+}
+
+.ti-layout-media-left:before {
+	content: "\e6ff"
+}
+
+.ti-layout-media-center-alt:before {
+	content: "\e700"
+}
+
+.ti-layout-media-center:before {
+	content: "\e701"
+}
+
+.ti-layout-list-post:before {
+	content: "\e704"
+}
+
+.ti-layout-column4:before {
+	content: "\e710"
+}
+
+.ti-layout-column3:before {
+	content: "\e711"
+}
+
+.ti-layout-column2:before {
+	content: "\e712"
+}
+
+.ti-info-alt:before {
+	content: "\e717"
+}
+
+.ti-gallery:before {
+	content: "\e71e"
+}
+
+.ti-skype:before {
+	content: "\e72d"
+}
+
+.ti-share:before {
+	content: "\e72e"
+}
+
+.ti-share-alt:before {
+	content: "\e72f"
+}
+
+.ti-rocket:before {
+	content: "\e730"
+}
+
+.ti-new-window:before {
+	content: "\e732"
+}
+
+.ti-layout-sidebar-2:before {
+	content: "\e736"
+}
+
+.ti-layout-column4-alt:before {
+	content: "\e73a"
+}
+
+.ti-layout-column3-alt:before {
+	content: "\e73b"
+}
+
+.ti-layout-column2-alt:before {
+	content: "\e73c"
+}
+
+.ti-google:before {
+	content: "\e73e"
+}
+
+.ti-facebook:before {
+	content: "\e741"
+}
+
+.ti-html5:before {
+	content: "\e758"
+}
+
+.ti-css3:before {
+	content: "\e75d"
+}

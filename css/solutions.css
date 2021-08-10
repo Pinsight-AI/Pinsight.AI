@@ -1,0 +1,8 @@
+ul.solutions li::before {
+	content: "\f0da"!important;
+	position: absolute;
+	left: 0;
+	font-family: fontawesome;
+	color: var(--accend);
+	font-size: 17px
+}
