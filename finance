@@ -771,7 +771,7 @@
                             <ul>
                                <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="product">Product</a></li>
                                <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="partner">Partners</a></li>
-                               <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li>
+                               <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
                                <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="company">Company</a></li>
                             </ul>
                          </div>
