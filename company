@@ -425,9 +425,76 @@
                               <div style="width: calc(100% - 270px);" class="elementor-container elementor-column-gap-default">
                                     <ul class="job-list">
 
+                                       <li class="animated fadeInUp">
+                                          <span class="job-title">People and Culture Operations Specialist</span>
+                                          <span class="job-deadline">    Deadline: 21 December 2021</span>
+                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                             data-id="827f7cb" data-element_type="widget"
+                                             data-widget_type="button.default"
+                                          >
+                                             <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                   <a
+                                                      href="people-culture"
+                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                      role="button"
+                                                   >
+                                                      <span class="elementor-button-content-wrapper">
+                                                         <span class="elementor-button-text">View More</span>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                       <li class="grey-bg animated fadeInUp">
+                                          <span class="job-title">B2B sales specialist</span>
+                                          <span class="job-deadline">Deadline: 21 December 2021</span>
+                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                             data-id="827f7cb" data-element_type="widget"
+                                             data-widget_type="button.default"
+                                          >
+                                             <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                   <a
+                                                      href="sales-specialist"
+                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                      role="button"
+                                                   >
+                                                      <span class="elementor-button-content-wrapper">
+                                                         <span class="elementor-button-text">View More</span>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+                                       <li class="animated fadeInUp">
+                                          <span class="job-title">Quality Assurance Specialist</span>
+                                          <span class="job-deadline">    Deadline: 21 December 2021</span>
+                                          <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                             data-id="827f7cb" data-element_type="widget"
+                                             data-widget_type="button.default"
+                                          >
+                                             <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                   <a
+                                                      href="qa-specialist"
+                                                      class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                      role="button"
+                                                   >
+                                                      <span class="elementor-button-content-wrapper">
+                                                         <span class="elementor-button-text">View More</span>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </li>
+
                                        <li class="grey-bg animated fadeInUp">
                                           <span class="job-title">Senior Frontend Engineer [react.js]</span>
-                                          <span class="job-deadline">Deadline: 9 July 2021</span>
+                                          <span class="job-deadline">Deadline: 21 December 2021</span>
                                           <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
                                              data-id="827f7cb" data-element_type="widget"
                                              data-widget_type="button.default"
@@ -449,7 +516,7 @@
                                        </li>
                                        <li class="animated fadeInUp">
                                           <span class="job-title">Senior Backend Engineer [node.js]</span>
-                                          <span class="job-deadline">    Deadline: 9 July 2021</span>
+                                          <span class="job-deadline">    Deadline: 21 December 2021</span>
                                           <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
                                              data-id="827f7cb" data-element_type="widget"
                                              data-widget_type="button.default"
@@ -659,7 +726,7 @@
                <ul>
                   <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="product">Product</a></li>
                   <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="partner">Partners</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li>
+                  <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
                   <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="company">Company</a></li>
                </ul>
             </div>

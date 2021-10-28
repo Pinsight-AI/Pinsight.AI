@@ -227,7 +227,8 @@
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading" data-id="2972368" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="heading.default">
                    <div class="elementor-widget-container">
-                      <h2 class="job-page-h2 elementor-heading-title elementor-size-default" id="about">Senior Backend Engineer [node.js]</h2>
+                      <h2 class="job-page-h2 elementor-heading-title elementor-size-default" id="about">People and Culture Operations Specialist
+                    </h2>
                    </div>
                 </div>
                 <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider" data-id="80285bd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="divider.default">
@@ -261,21 +262,22 @@
                         <span class="job-page-subtitile">What we're looking for</br></span>
                     </div>
                     <div class="m-t-42 animated fadeInUp">
-                        <span class="job-page-text">Pinsight is seeking a talented and experienced individual who possesses infinite curiosity and enthusiasm. You'll partner with our engineering and AI teams to create groundbreaking technology. This is an incredible opportunity to make a meaningful impact on the future of insight-driven decision-making.</br></span>
+                        <span class="job-page-text">We are looking for a People and Culture Operations Specialist to support all areas of Peoples Ops: performance management, full-cycle recruiting, onboarding, payroll, benefits, administrative tasks, and special projects assigned. This is not only a great opportunity to gain exposure to a wide range of HR responsibilities, but also to work in an energetic and industry leading tech firm.</br></span>
                     </div>
                     <div class="m-t-42 animated fadeInUp">
                         <span class="job-page-subtitile">Responsibilities</br></span>
                     </div>
                     <div class="m-t-42 animated fadeInUp">
                         <span class="job-page-text">
-                            • Work closely with the engineering, AI, and product teams to develop Pinsight's technology by seeing the “big picture” in order to create approaches for its design and implementation </br>
-                            • Design and implement web APIs and backend database architectures </br>
-                            • Ensure high standard of engineering quality through code reviews, unit tests, analytics </br>
-                            • Create engineering efficiencies through automation and development of tools</br>
-                            • Provide technical guidance and coaching to peers </br>
-                            • Define engineering processes for product launch and releases.</br>
-                            • Ensure the entire stack is designed and built for speed and scalability</br>
-                          • Balance speed and quality, with a focus on tangible results</br>
+                            • Be a partner to talent acquisition and help recruit and support our business growth plans</br>
+                            • Review resumes, conduct preliminary screening, and help facilitate our interview process steps with hiring managers on an as-needed basis</br>
+                            • Support general or day-to-day inquiries related to payroll, benefits, our policies and resolve in a timely manner</br>
+                            • Primary lead administrator and manager of employee and contractor onboarding, ensuring a positive and efficient onboarding experience.</br>
+                            • Perform light administrative tasks in support of the people ops function.</br>
+                            • Create and constantly improve our People Operations processes, templates, and FAQs </br>
+                          • Dive into insights collected from various surveys (onboarding, exits, engagement) and report on themes or trends on an ongoing basis</br>
+                          • Develop strong relationships with team members and leverage insights to further our culture-building initiatives</br>
+
                         </span>
                     </div>
                     <div class="m-t-42 animated fadeInUp">
@@ -283,19 +285,15 @@
                     </div>
                     <div class="m-t-42 animated fadeInUp">
                         <span class="job-page-text">
-                            • Excellent command on JavaScript, TypeScript, MongoDB, PostgreSQL and NodeJS frameworks</br>
-                            • Experience with RESTful Services and APIs, understanding of microservices architecture.</br>
-                            • Proven experience of design and implementation of low-latency, high-availability, and performant applications</br>
-                            • Experience with cloud environments such as AWS, server management, and deployment</br>
-                            • Experience with different CI/CD platforms and pipelines</br>
-                            • Thorough understanding of both relational and NoSQL databases</br>
-                            • Hands on experience with docker and container orchestration</br>
-                            • Experience with React.js is a strong plus</br>
-                            • Experience of working in an Agile team</br>
-                            • Excellent analytical and creative problem-solving skills</br>
-                            • Ability to communicate to both technical and non-technical audience</br>
-                            • UX design skills would be nice to have but not necessary</br>
-                                                </span>
+                            • Bachelor’s Degree in related field</br>
+                            • At least 2+ years of proven sales management or customer service related experience</br>
+                            • Experience in IT B2B industry will be considered as a big plus</br>
+                            • Advanced knowledge of English language </br>
+                            • Excellent listening, negotiation and presentation skills</br>
+                            • Excellent verbal and written communications skills</br>
+                            • Ability to prioritize among competing tasks</br>
+                            • Critical thinking and problem solving skills</br>
+                        </span>
                     </div>
                     <div class="m-t-42 animated fadeInUp">
                         <span class="job-page-subtitile">About us</br></span>
