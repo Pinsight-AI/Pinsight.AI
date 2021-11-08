@@ -691,6 +691,7 @@
                                                                                             aria-invalid="false"></textarea></span> </label>
                                                                                 </p>
                                                                                 <span id="send-mail-error" class="contact-us-error">Please fill all required fields.</span>
+                                                                                <span id="email-error" class="contact-us-error">Please Enter a valid Email.</span>
                                                                                 <p style="margin-top: 50px;"><span
                                                                                           id="submit-button"
                                                                                           class="bg-orange color-white wpcf7-form-control wpcf7-submit"
