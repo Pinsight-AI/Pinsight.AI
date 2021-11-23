@@ -168,6 +168,10 @@
                                    href="company#jobs">Jobs</a></li>
                        </ul> -->
                     </li>
+                    <li id="menu-item-1858"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                        <a href="careers">Careers</a>
+                    </li>
                 </ul>
                 <nav class='menu-right-panel'>
                     <a href='#send_mail' class='st-header-magic-box'>
@@ -231,6 +235,10 @@
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
                         <a href="company">Company</a>
                     </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                        <a href="careers">Careers</a>
+                    </li>
 
                 </ul>
             </div>
@@ -255,8 +263,8 @@
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h2 class="job-page-h2 elementor-heading-title elementor-size-default" id="about">Senior
-                                    Frontend Engineer [react.js]</h2>
+                                <h2 class="job-page-h2 elementor-heading-title elementor-size-default" id="about">B2B
+                                    sales specialist</h2>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
@@ -298,12 +306,16 @@
                         </div>
                         <div class="m-t-42 animated fadeInUp">
                             <span class="job-page-text">
-                                • Actively approach targeted business partners through email, phone calls, online presentations and face-to-face meetings</br>
-                                • Build and maintain relationships with partners to ensure customer satisfaction and growing sales</br>
+                                • Actively approach targeted business partners through email, phone calls, online
+                                presentations and face-to-face meetings</br>
+                                • Build and maintain relationships with partners to ensure customer satisfaction and
+                                growing sales</br>
                                 • Plan and execute sales activities that will ensure sales growth objectives</br>
                                 • Prepare sales presentations</br>
-                                • Analyze the market and identify new sales and business opportunities for the company</br>
-                                • Maintain data accuracy with sales activities and provide sales reporting and forecasting</br>
+                                • Analyze the market and identify new sales and business opportunities for the
+                                company</br>
+                                • Maintain data accuracy with sales activities and provide sales reporting and
+                                forecasting</br>
                                 • Constantly update CRM Sales tools and pipeline</br>
                                 • Document management for the company's clients</br>
                                 • Performing other relevant tasks as assigned by the Management.</br>
@@ -315,7 +327,8 @@
                         <div class="m-t-42 animated fadeInUp">
                             <span class="job-page-text">
                                 • Bachelor’s Degree in related field</br>
-                                • At least 2+ years of proven sales management or customer service related experience</br>
+                                • At least 2+ years of proven sales management or customer service related
+                                experience</br>
                                 • Experience in IT B2B industry will be considered as a big plus</br>
                                 • Advanced knowledge of English language </br>
                                 • Excellent listening, negotiation and presentation skills</br>
@@ -422,6 +435,8 @@
                                                 href="resources">Resources</a></li> -->
                                         <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
                                                 href="company">Company</a></li>
+                                        <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
+                                                href="careers">Careers</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -482,10 +497,12 @@
                             <ul id="menu-genoa-footer" class="st-parent-ul">
                                 <li id="menu-item-1899"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1899">
-                                    <a href="terms">Terms</a></li>
+                                    <a href="terms">Terms</a>
+                                </li>
                                 <li id="menu-item-1901"
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1901">
-                                    <a href="privacy">Privacy</a></li>
+                                    <a href="privacy">Privacy</a>
+                                </li>
                             </ul>
                         </div>
                         <!-- sizing container -->

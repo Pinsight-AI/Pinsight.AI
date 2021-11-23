@@ -36,7 +36,7 @@
     <link rel="canonical" href="https://pinsight.ai/company">
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Job Page | Pinsight">
+    <meta property="og:title" content="Company | Pinsight">
     <meta name="description"
         content="We transform the way decisions are made by removing additional layers in the process of data-driven decision making. We automate insight and suggestion generation using revolutionary Explainable AI technology.">
     <meta property="og:description"
@@ -48,7 +48,7 @@
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
-    <title>Job | Pinsight</title>
+    <title>Company | Pinsight</title>
     <!--  -->
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <meta charset="UTF-8">
@@ -168,11 +168,11 @@
                                    href="company#jobs">Jobs</a></li>
                        </ul> -->
                     </li>
+                    <li id="menu-item-1858"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                        <a href="partner">Partners</a>
+                    </li>
                 </ul>
-                <nav class='menu-right-panel'>
-                    <a href='#send_mail' class='st-header-magic-box'>
-                        Request Demo </a><!-- magic box -->
-                </nav>
                 <nav class="menu-right-panel sidebar-panel">
                     <span class="st-header-search-icon">
                         <span class="st-header-sidebar ti-align-right">
@@ -231,6 +231,10 @@
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
                         <a href="company">Company</a>
                     </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                        <a href="careers">Careers</a>
+                    </li>
 
                 </ul>
             </div>
@@ -244,19 +248,22 @@
     <div class='st-blank-container'>
         <div data-elementor-type="wp-post" data-elementor-id="1975" class="elementor elementor-1975"
             data-elementor-settings="[]">
-            <div class="elementor-inner">
+            <div class="elementor-inner margin-top-100">
                 <div class="elementor-section-wrap">
                     <section
-                        class="job-page-section elementor-element elementor-element-35bd835 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+                        class="elementor-element elementor-element-35bd835 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                         data-id="35bd835" data-element_type="section"
-                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                              ">
                         <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h2 class="job-page-h2 elementor-heading-title elementor-size-default" id="about">
-                                    Quality Assurance Specialist</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">Careers</h2>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
@@ -264,107 +271,115 @@
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
                             data-widget_type="divider.default">
                             <div class="elementor-widget-container">
-                                <div class="elementor-divider flex-start">
-                                    <span class="elementor-divider-separator margin-0">
+                                <div class="elementor-divider">
+                                    <span class="elementor-divider-separator">
                                     </span>
                                 </div>
                             </div>
                         </div>
-                        <span class="duration-of-job"></span>
-                        <div class="m-t-34 elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                            data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-button-wrapper">
-                                    <a href="mailto:careers@pinsight.ai"
-                                        class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                        role="button">
-                                        <span class="elementor-button-content-wrapper">
-                                            <span class="elementor-button-text">Apply Now</span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="m-t-97 animated fadeInUp">
-                            <span class="job-page-subtitile">What we're looking for</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-text">We're seeking a Quality Assurance Specialist to become an
-                                impactful part of our fast growing team! You will be responsible for finding and
-                                reporting bugs and glitches. In this role, you should have a keen eye for detail and
-                                excellent communication skills. If you are also competent in executing test cases and
-                                are passionate about quality, we’d like to meet you.</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-subtitile">Responsibilities</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-text">
-                                • Develop and implement automated test cases and test plans</br>
-                                • Conduct both manual and automation testing</br>
-                                • Work with the data engineering team to design and create an automated testing
-                                pipeline</br>
-                                • Report ML engine performance and compare with older versions</br>
-                                • Conduct manual testing through web application</br>
-                                • Review and improve existing unit tests</br>
-                                • Conduct integration tests</br>
-                            </span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-subtitile">Qualifications</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-text">
-                                • Solid knowledge of Quality Engineering techniques</br>
-                                • Ability to handle tasks independently without technical guidance </br>
-                                • Experience in automating and maintaining test automation</br>
-                                • Willingness to learn Data Science and Machine Learning</br>
-                                • Experience in working with AWS environment</br>
-                                • Experience with Python</br>
-                                • Knowledge of a bug tracking system (JIRA)</br>
-                                • Strong troubleshooting skills with attention to details</br>
-                                • Excellent command of English</br>
-                                • Knowledge of Data Analysis is a plus</br>
-                                • Experience in Machine Learning is a plus</br>
-                                • Ability to work in an actively-growing fast-paced environment</br>
-                            </span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-subtitile">About us</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-text">
-                                Pinsight is building the future of insight-driven decision-making.</br>We believe that
-                                by equipping decision-makers with actionable and fact-driven insights, we can tackle the
-                                whole world's problems faster, better, together.</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-subtitile">How to Apply</br></span>
-                        </div>
-                        <div class="m-t-42 animated fadeInUp">
-                            <span class="job-page-text">Does this role sound like a good fit? Email your CV/resume to
-                                careers@pinsight.ai.</br>
-                                • Include the role's title in your subject line.</br>
-                                • Send along links that best showcase the relevant things you've built and
-                                done.</br></span>
-                        </div>
-                        <div class="m-t-67 elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                            data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-button-wrapper">
-                                    <a href="mailto:careers@pinsight.ai"
-                                        class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                        role="button">
-                                        <span class="elementor-button-content-wrapper">
-                                            <span class="elementor-button-text">Apply Now</span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
+                        <!--                                     <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span> -->
+                        <div style="width: calc(100% - 270px);"
+                            class="elementor-container elementor-column-gap-default">
+                            <ul class="job-list">
+
+                                <li class="animated fadeInUp">
+                                    <span class="job-title">People and Culture Operations Specialist</span>
+                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
+                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="people-culture"
+                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                    role="button">
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-text">View More</span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="grey-bg animated fadeInUp">
+                                    <span class="job-title">B2B sales specialist</span>
+                                    <span class="job-deadline">Deadline: 21 December 2021</span>
+                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="sales-specialist"
+                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                    role="button">
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-text">View More</span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="animated fadeInUp">
+                                    <span class="job-title">Quality Assurance Specialist</span>
+                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
+                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="qa-specialist"
+                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                    role="button">
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-text">View More</span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="grey-bg animated fadeInUp">
+                                    <span class="job-title">Senior Frontend Engineer [react.js]</span>
+                                    <span class="job-deadline">Deadline: 21 December 2021</span>
+                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="senior-front"
+                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                    role="button">
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-text">View More</span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="animated fadeInUp">
+                                    <span class="job-title">Senior Backend Engineer [node.js]</span>
+                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
+                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-button-wrapper">
+                                                <a href="senior-back"
+                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
+                                                    role="button">
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-text">View More</span>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
                         </div>
                     </section>
+
                 </div>
-                <footer class='st-main-footer'>
+                <footer class='st-main-footer margin'>
                     <span class='st-footer-overlay'></span>
                     <div class='st-sizing-container'>
                         <div class='footer-sidebar fs-1'>
@@ -422,8 +437,7 @@
                                                 href="product">Product</a></li>
                                         <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
                                                 href="partner">Partners</a></li>
-                                        <!-- <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
-                                                href="resources">Resources</a></li> -->
+                                        <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
                                         <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
                                                 href="company">Company</a></li>
                                         <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
@@ -504,6 +518,7 @@
 
                 <script type='text/javascript' src='js/tilt.js'></script>
                 <script type='text/javascript' src='js/st-main.js'></script>
+                <script type='text/javascript' src='js/main.js'></script>
                 <script type='text/javascript' src='js/jquery.preloader.js'></script>
                 <script type='text/javascript' src='js/wp-embed.min.js'></script>
                 <script type='text/javascript' src='js/jquery-numerator.min.js'></script>

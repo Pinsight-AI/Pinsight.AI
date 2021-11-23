@@ -241,7 +241,7 @@
                 <a href="partner">Partners</a>
              </li>
              <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
-              <a href="company">Company</a>
+              <a href="careers">Careers</a>
            </li>
              
           </ul>
@@ -817,7 +817,7 @@
                    <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="product">Product</a></li>
                    <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="partner">Partner</a></li>
                    <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
-                   <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="company">Company</a></li>
+                   <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="careers">Careers</a></li>
                 </ul>
              </div>
           </div>
