@@ -496,10 +496,12 @@
                      <ul id="menu-genoa-footer" class="st-parent-ul">
                         <li id="menu-item-1899"
                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1899">
-                           <a href="terms">Terms</a></li>
+                           <a href="terms">Terms</a>
+                        </li>
                         <li id="menu-item-1901"
                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1901">
-                           <a href="privacy">Privacy</a></li>
+                           <a href="privacy">Privacy</a>
+                        </li>
                      </ul>
                   </div>
                   <!-- sizing container -->
