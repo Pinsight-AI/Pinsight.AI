@@ -298,8 +298,8 @@
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-text-editor elementor-clearfix">
                                                         <p>
-                                                            Detect anomalious and potentially fraudulent behaviour,
-                                                            analyze treat, and learn behavioral patterns using
+                                                            Detect anomalous and potentially fraudulent behaviour,
+                                                            analyze treat, and learn behavior patterns using
                                                             AI-powered predictions and insights.</p>
                                                         <br>
                                                     </div>
@@ -396,7 +396,7 @@
                                                             <span style="text-align: left; margin-left: 16px;"
                                                                 class="elementor-icon-list-text">
                                                                 Helping human analysts with different parts of their
-                                                                job, including malicious attacks detection, network
+                                                                job, including malicious attack detection, network
                                                                 analysis and endpoint protection</span>
                                                         </li>
                                                         <li class="elementor-icon-list-item">
