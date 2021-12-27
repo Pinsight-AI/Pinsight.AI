@@ -1,135 +1,149 @@
 <!DOCTYPE html>
-<html  lang="en-US" >
-   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-   <head>
+<html lang="en-US">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
-      <!--  -->
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.pinsight.ai\/","name":"Pinsight Explainable and Trusted AI","alternateName":"Pinsight Automated Machine Learning","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.pinsight.ai\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-      <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.pinsight.ai\/privacy\/","sameAs":["https:\/\/www.facebook.com\/metricam\/","https:\/\/www.linkedin.com\/company\/metric-am"],"@id":"#organization","name":"Pinsight","logo":"https:\/\/www.pinsight.ai\/assets\/Original.svg"}</script>
-      <!--  -->
+<head>
 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-4T9XPMBQTV"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+   <!--  -->
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   <script
+      type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.pinsight.ai\/","name":"Pinsight Explainable and Trusted AI","alternateName":"Pinsight Automated Machine Learning","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.pinsight.ai\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+   <script
+      type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.pinsight.ai\/privacy\/","sameAs":["https:\/\/www.facebook.com\/metricam\/","https:\/\/www.linkedin.com\/company\/metric-am"],"@id":"#organization","name":"Pinsight","logo":"https:\/\/www.pinsight.ai\/assets\/Original.svg"}</script>
+   <!--  -->
 
-        gtag('config', 'G-4T9XPMBQTV');
-      </script>
-      <!-- Hotjar Tracking Code for www.pinsight.ai -->
-      <script>
-          (function(h,o,t,j,a,r){
-              h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-              h._hjSettings={hjid:1964013,hjsv:6};
-              a=o.getElementsByTagName('head')[0];
-              r=o.createElement('script');r.async=1;
-              r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-              a.appendChild(r);
-          })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-      </script>
-            <!--  -->
-      <link rel="canonical" href="https://pinsight.ai/privacy">
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4T9XPMBQTV"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
 
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="Privacy | Pinsight">
-      <meta name="description" content="The policies below cover use of Pinsight's website and services.">
-      <meta property="og:description" content="The policies below cover use of Pinsight's website and services.">
+      gtag('config', 'G-4T9XPMBQTV');
+   </script>
+   <!-- Hotjar Tracking Code for www.pinsight.ai -->
+   <script>
+      (function (h, o, t, j, a, r) {
+         h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+         h._hjSettings = { hjid: 1964013, hjsv: 6 };
+         a = o.getElementsByTagName('head')[0];
+         r = o.createElement('script'); r.async = 1;
+         r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+         a.appendChild(r);
+      })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+   </script>
+   <!--  -->
+   <link rel="canonical" href="https://pinsight.ai/privacy">
 
-      <meta property="og:url" content="https://pinsight.ai/privacy">
-      <meta property="og:image" content="https://pinsight.ai/assets/icon.svg">
-      <meta property="og:image:width" content="1200">
-      <meta property="og:image:height" content="630">
-      <meta property="og:locale" content="en_US">
+   <meta property="og:type" content="website" />
+   <meta property="og:title" content="Privacy | Pinsight">
+   <meta name="description" content="The policies below cover use of Pinsight's website and services.">
+   <meta property="og:description" content="The policies below cover use of Pinsight's website and services.">
 
-      <title>Privacy | Pinsight</title>
-      <!--  -->
-      <meta name='viewport' content='width=device-width, initial-scale=1'>
-      <meta charset="UTF-8">
-      <link rel="icon" href="assets/icon.svg">
-      <link rel="apple-touch-icon" sizes="57x57" href="assets/apple-icon-57x57.png">
-      <link rel="apple-touch-icon" sizes="60x60" href="assets/apple-icon-60x60.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="assets/apple-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="76x76" href="assets/apple-icon-76x76.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="assets/apple-icon-114x114.png">
-      <link rel="apple-touch-icon" sizes="120x120" href="assets/apple-icon-120x120.png">
-      <link rel="apple-touch-icon" sizes="144x144" href="assets/apple-icon-144x144.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="assets/apple-icon-152x152.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-icon-180x180.png">
-      <link rel="icon" type="image/png" sizes="192x192"  href="assets/android-icon-192x192.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="96x96" href="assets/favicon-96x96.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
-      <meta name="msapplication-TileColor" content="#ffffff">
-      <meta name="msapplication-TileImage" content="assets/ms-icon-144x144.png">
-      <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-      <link rel='stylesheet' id='style-css'  href='css/style.css' type='text/css' media='all' />
-      <link rel='stylesheet' href='css/solutions.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='css-responsive-css'  href='css/st-responsive.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='themify-icons-css'  href='themify-icons/themify-icons.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='elementor-animations-css'  href='css/animations.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='elementor-frontend-css'  href='css/frontend.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='elementor-global-css'  href='css/global.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='elementor-post-1975-css'  href='css/post-1975.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.4.1' type='text/css' media='all' />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      <script type='text/javascript' src='js/jquery.js'></script>
-      <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
-   </head>
-   <body class="page-template page-template-blank-page-default page-template-blank-page-default-php page page-id-1975 theme-genoa woocommerce-no-js elementor-default elementor-kit-2042 elementor-page elementor-page-1975">
-      <div class = 'st-preloader'>
-         <div class="sk-folding-cube">
-            <div class="sk-cube1 sk-cube"></div>
-            <div class="sk-cube2 sk-cube"></div>
-            <div class="sk-cube4 sk-cube"></div>
-            <div class="sk-cube3 sk-cube"></div>
-         </div>
+   <meta property="og:url" content="https://pinsight.ai/privacy">
+   <meta property="og:image" content="https://pinsight.ai/assets/icon.svg">
+   <meta property="og:image:width" content="1200">
+   <meta property="og:image:height" content="630">
+   <meta property="og:locale" content="en_US">
+
+   <title>Privacy | Pinsight</title>
+   <!--  -->
+   <meta name='viewport' content='width=device-width, initial-scale=1'>
+   <meta charset="UTF-8">
+   <link rel="icon" href="assets/icon.svg">
+   <link rel="apple-touch-icon" sizes="57x57" href="assets/apple-icon-57x57.png">
+   <link rel="apple-touch-icon" sizes="60x60" href="assets/apple-icon-60x60.png">
+   <link rel="apple-touch-icon" sizes="72x72" href="assets/apple-icon-72x72.png">
+   <link rel="apple-touch-icon" sizes="76x76" href="assets/apple-icon-76x76.png">
+   <link rel="apple-touch-icon" sizes="114x114" href="assets/apple-icon-114x114.png">
+   <link rel="apple-touch-icon" sizes="120x120" href="assets/apple-icon-120x120.png">
+   <link rel="apple-touch-icon" sizes="144x144" href="assets/apple-icon-144x144.png">
+   <link rel="apple-touch-icon" sizes="152x152" href="assets/apple-icon-152x152.png">
+   <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-icon-180x180.png">
+   <link rel="icon" type="image/png" sizes="192x192" href="assets/android-icon-192x192.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="96x96" href="assets/favicon-96x96.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+   <meta name="msapplication-TileColor" content="#ffffff">
+   <meta name="msapplication-TileImage" content="assets/ms-icon-144x144.png">
+   <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+   <link rel='stylesheet' id='style-css' href='css/style.css' type='text/css' media='all' />
+   <link rel='stylesheet' href='css/solutions.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='css-responsive-css' href='css/st-responsive.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='themify-icons-css' href='themify-icons/themify-icons.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='elementor-animations-css' href='css/animations.min.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='elementor-frontend-css' href='css/frontend.min.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='elementor-global-css' href='css/global.min.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='elementor-post-1975-css' href='css/post-1975.css' type='text/css' media='all' />
+   <link rel='stylesheet' id='google-fonts-1-css'
+      href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.4.1'
+      type='text/css' media='all' />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <script type='text/javascript' src='js/jquery.js'></script>
+   <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+</head>
+
+<body
+   class="page-template page-template-blank-page-default page-template-blank-page-default-php page page-id-1975 theme-genoa woocommerce-no-js elementor-default elementor-kit-2042 elementor-page elementor-page-1975">
+   <div class='st-preloader'>
+      <div class="sk-folding-cube">
+         <div class="sk-cube1 sk-cube"></div>
+         <div class="sk-cube2 sk-cube"></div>
+         <div class="sk-cube4 sk-cube"></div>
+         <div class="sk-cube3 sk-cube"></div>
       </div>
-      <!-- preloader  -->
-      <header class = 'st-header header-main header-transparent support_sticky'>
-         <div class = 'st-sizing-container'>
-            <div class = 'site-logo site-logo-1 slot-1'>
-               <a href = '/'><img src = 'assets/Original.svg' title = 'Enterprise AI | Pinsight' alt = 'Enterprise AI | Pinsight'/></a>
-            </div>
-            <!-- site logo-->
-            <nav class="slot-2">
-               <ul id="menu-genoa-header" class="st-parent-ul">
-                   <li id="menu-item-1852"
-                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                       <a href="/">Home</a></li>
-                   <li id="menu-item-1852"
-                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                       <a href="product">Product</a></li>
-                   <li id="menu-item-1854"
-                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1854">
-                       <a>Solutions</a>
-                       <ul class="sub-menu">
-                           <li id="menu-item-1859"
-                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
-                                   href="banking">Banking</a></li>
-                           <li id="menu-item-1859"
-                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
-                                   href="finance">Finance</a></li>
-                           <li id="menu-item-1860"
-                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846"><a
-                                   href="marketing">Marketing</a></li>
-                           <li id="menu-item-1861"
-                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
-                                   href="telecommunications">Telecommunications</a></li>
-                           <li id="menu-item-1862"
-                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
-                                   href="security">Security</a></li>
-                       </ul>
-                   </li>
-                   <li id="menu-item-1858"
-                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                       <a href="partner">Partners</a>
-                   </li>
-                   <!-- <li id="menu-item-1855" -->
-                       <!-- class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853"> -->
-                       <!-- <a href="resources">Resources</a> -->
-                      <!-- <ul class="sub-menu">
+   </div>
+   <!-- preloader  -->
+   <header class='st-header header-main header-transparent support_sticky'>
+      <div class='st-sizing-container'>
+         <div class='site-logo site-logo-1 slot-1'>
+            <a href='/'><img src='assets/Original.svg' title='Enterprise AI | Pinsight'
+                  alt='Enterprise AI | Pinsight' /></a>
+         </div>
+         <!-- site logo-->
+         <nav class="slot-2">
+            <ul id="menu-genoa-header" class="st-parent-ul">
+               <li id="menu-item-1852"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href="/">Home</a>
+               </li>
+               <li id="menu-item-1852"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href="product">Product</a>
+               </li>
+               <li id="menu-item-1854"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1854">
+                  <a>Solutions</a>
+                  <ul class="sub-menu">
+                     <li id="menu-item-1859"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
+                           href="banking">Banking</a></li>
+                     <li id="menu-item-1859"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
+                           href="finance">Finance</a></li>
+                     <li id="menu-item-1860"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846"><a
+                           href="marketing">Marketing</a></li>
+                     <li id="menu-item-1861"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
+                           href="telecommunications">Telecommunications</a></li>
+                     <li id="menu-item-1862"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
+                           href="security">Security</a></li>
+                  </ul>
+               </li>
+               <li id="menu-item-1858"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href="partner">Partners</a>
+               </li>
+               <li id="menu-item-1858"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href="blog">Blog</a>
+               </li>
+               <!-- <li id="menu-item-1855" -->
+               <!-- class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853"> -->
+               <!-- <a href="resources">Resources</a> -->
+               <!-- <ul class="sub-menu">
                           <li id="menu-item-1856"
                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
                                   href="company#about">Resource Library</a></li>
@@ -137,11 +151,11 @@
                               class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846"><a
                                   href="company#story">Blog</a></li>
                       </ul> -->
-                   <!-- </li -->
-                   <li id="menu-item-1853"
-                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
-                       <a href="company">Company</a>
-                       <!-- <ul class="sub-menu">
+               <!-- </li -->
+               <li id="menu-item-1853"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                  <a href="company">Company</a>
+                  <!-- <ul class="sub-menu">
                            <li id="menu-item-1847"
                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
                                    href="company#about">About</a></li>
@@ -155,249 +169,337 @@
                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
                                    href="company#jobs">Jobs</a></li>
                        </ul> -->
-                   </li>
-                   <li id="menu-item-1858"
-                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                   <a href="careers">Careers</a>
                </li>
-               </ul>
-               <nav class='menu-right-panel'>
-                   <a href='#send_mail' class='st-header-magic-box'>
-                       Request Demo </a><!-- magic box -->
-               </nav>
-               <nav class="menu-right-panel sidebar-panel">
-                  <span class="st-header-search-icon">
-                   <span class="st-header-sidebar ti-align-right">
-  
-                   </span> <!-- sticky sidebar-->
-                  </span>
-              </nav><!-- secondary nav-->
-   
-               <!-- secondary nav-->
-           </nav>
-            <!-- st navigation-->
-         </div>
-         <!-- sizing container-->
-      </header>
-      <!-- Header -->
-      <div class = 'sticky-sidebar-layer'>
-         <div class = 'sticky-sidebar-self'>
-            <div class = 'ss-header'>
-               <img src = 'assets/Original.svg' title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' />
-               <span class = 'ti-close cls-ss'></span>
-            </div>
-            <!-- sticky sidedbar header-->
-            <div class = 'ss-container'>
-               <ul id="menu-genoa-header-1" class="mobile-menu">
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                     <a href ='/'>Home</a>
-                  </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
-                   <a href ='product'>Product</a>
-                </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1854">
-                     <a href="/">Solutions</a><span class = 'ti-plus down-submenu'></span>
-                     <ul class="sub-menu">
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="banking">Banking</a><span class = 'ti-plus down-submenu'></span></li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a href="finance">Finance</a><span class = 'ti-plus down-submenu'></span></li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846"><a href="marketing">Marketing</a><span class = 'ti-plus down-submenu'></span></li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="telecommunications">Telecommunications</a><span class = 'ti-plus down-submenu'></span></li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="security">Security</a><span class = 'ti-plus down-submenu'></span></li>
-                     </ul>
-                  </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
-                     <a href="partner">Partners</a>
-                  </li>
-                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
-                   <a href="company">Company</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+               <li id="menu-item-1858"
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                   <a href="careers">Careers</a>
                </li>
-                  
-               </ul>
-            </div>
-               <!-- end widget -->
-            </div>
-            <!-- sticky sidebar container-->
-         </div>
-         <!-- sidebar self -->
-      </div>
-      <!-- sticky sidebar -->
-      <div class  = 'st-blank-container'>
-         <div data-elementor-type="wp-post" data-elementor-id="1975" class="elementor elementor-1975" data-elementor-settings="[]">
-            <div class="elementor-inner">
-               <div class="elementor-section-wrap">
-                                    <section class="elementor-element elementor-element-46f402b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="46f402b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                           <div class="elementor-element elementor-element-627f61d elementor-column elementor-col-100 elementor-top-column" data-id="627f61d" data-element_type="column">
-                              <div class="elementor-column-wrap  elementor-element-populated">
-                                 <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-c2a104e elementor-invisible elementor-widget elementor-widget-heading" data-id="c2a104e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
-                                       <br>
-                                       <div class="elementor-widget-container">
-                                          <h2 class="elementor-heading-title elementor-size-default">Privacy</h2>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading" data-id="2972368" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="heading.default">
-                                       <div class="elementor-widget-container">
-                                          <h2 class="elementor-heading-title elementor-size-default">Privacy Policy</h2>
-                                       </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider" data-id="80285bd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="divider.default">
-                                       <div class="elementor-widget-container">
-                                          <div class="elementor-divider">
-                                             <span class="elementor-divider-separator">
-                                             </span>
-                                          </div>
-                                       </div>
-                                    </div>
-<div class="elementor-element elementor-element-441ba75 elementor-widget elementor-widget-text-editor animated fadeInUp" data-id="441ba75" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
+            </ul>
+            <nav class='menu-right-panel'>
+               <a href='#send_mail' class='st-header-magic-box'>
+                  Request Demo </a><!-- magic box -->
+            </nav>
+            <nav class="menu-right-panel sidebar-panel">
+               <span class="st-header-search-icon">
+                  <span class="st-header-sidebar ti-align-right">
 
-<p>Your privacy is important to us. It is Pinsight's policy to respect your privacy regarding any information we may collect from you across our website, <a href="https://pinsight.ai">https://pinsight.ai</a>, and other sites we own and operate.</p>
-<br>
-<p>We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.</p>
-<br>
-<p>We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.</p>
-<br>
-<p>We don’t share any personally identifying information publicly or with third-parties, except when required to by law.</p>
-<br>
-<p>Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</p>
-<br>
-<p>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</p>
-<br>
-<p>Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</p>
-<br>
-<p>This policy is effective as of 8 March 2021.</p>
-<br>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-<footer class = 'st-main-footer'>
-   <span class = 'st-footer-overlay'></span>
-   <div class = 'st-sizing-container'>
-      <div class = 'footer-sidebar fs-1'>
-         <div class='s-one-widget'>
-            <div class='widget-content'>
-               <div class="footer-img-container">
-                                    <img src="assets/White.svg" width="144" height="53" title = 'Pinsight | Automated Machine Learning' alt = 'Pinsight | Automated Machine Learning' class='ch-wgt-about-img'/>
-                                </div>
-               <span class='ch-wgt-about-textcontent'>
-               Transform your Enterprise through Machine learning. Use Pinsight to automate modeling process and drive actionable insight from your data.</span>
-               <div class='card-social'></div>
-            </div>
+                  </span> <!-- sticky sidebar-->
+               </span>
+            </nav><!-- secondary nav-->
+
+            <!-- secondary nav-->
+         </nav>
+         <!-- st navigation-->
+      </div>
+      <!-- sizing container-->
+   </header>
+   <!-- Header -->
+   <div class='sticky-sidebar-layer'>
+      <div class='sticky-sidebar-self'>
+         <div class='ss-header'>
+            <img src='assets/Original.svg' title='Pinsight | Automated Machine Learning'
+               alt='Pinsight | Automated Machine Learning' />
+            <span class='ti-close cls-ss'></span>
+         </div>
+         <!-- sticky sidedbar header-->
+         <div class='ss-container'>
+            <ul id="menu-genoa-header-1" class="mobile-menu">
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href='/'>Home</a>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                  <a href='product'>Product</a>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1854">
+                  <a href="/">Solutions</a><span class='ti-plus down-submenu'></span>
+                  <ul class="sub-menu">
+                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
+                           href="banking">Banking</a><span class='ti-plus down-submenu'></span></li>
+                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a
+                           href="finance">Finance</a><span class='ti-plus down-submenu'></span></li>
+                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846"><a
+                           href="marketing">Marketing</a><span class='ti-plus down-submenu'></span></li>
+                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
+                           href="telecommunications">Telecommunications</a><span class='ti-plus down-submenu'></span>
+                     </li>
+                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
+                           href="security">Security</a><span class='ti-plus down-submenu'></span></li>
+                  </ul>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                  <a href="partner">Partners</a>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                  <a href="blog">Blog</a>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                  <a href="company">Company</a>
+               </li>
+               <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                  <a href="careers">Careers</a>
+               </li>
+
+            </ul>
          </div>
          <!-- end widget -->
       </div>
-      <!-- footer one widget-->
-      <div class = 'footer-sidebar fs-2'>
-         <div class='s-one-widget widget'>
-            <div class='widget-content st-posts-widget'>
-               <span class='s-widget-title'>Solutions</span>
-               <div class="row m-b-35">
-                  <span class="long-orange-line"></span>
-                  <span class="short-orange-line"></span>
-               </div>
-               <ul>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="banking">Banking</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="finance">Finance</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="marketing">Marketing</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="telecommunications">Telecommunications</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="security">Security</a></li>
-               </ul>
-            </div>
-         </div>
-         <!-- end widget -->
-      </div>
-      <!-- footer one widget-->
-      <div class = 'footer-sidebar fs-3'>
-         <div id="meta-3" class = "s-one-widget widget widget_meta">
-            <div class = "widget-content st-posts-widget">
-               <span class = "s-widget-title">About</span>
-               <div class="row m-b-35">
-                  <span class="long-orange-line" ></span>
-                  <span class="short-orange-line" ></span>
-               </div>
-               <ul>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="product">Product</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="partner">Partners</a></li>
-                  <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="careers">Careers</a></li>
-               </ul>
-            </div>
-         </div>
-      </div>
-      <!-- footer one widget-->
-      <div class = 'footer-sidebar fs-4'>
-         <div id="media_gallery-2" class = "s-one-widget widget widget_media_gallery">
-            <div class = "widget-content st-posts-widget">
-               <span class = "s-widget-title">Contacts</span>
-               <div class="row m-b-35">
-                  <span class="long-orange-line" ></span>
-                  <span class="short-orange-line" ></span>
-               </div>
-               <ul>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a>+1 302 305 0786</a></li>
-                  <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a>info@pinsight.ai</a></li>
-                  <li class="m-t-18">
-                     <a class="social-icon-link" target="_blank" href="https://www.linkedin.com/company/pinsightai/"><svg class="social-icon" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M3.125 14V4.65625H0.21875V14H3.125ZM1.65625 3.40625C2.59375 3.40625 3.34375 2.625 3.34375 1.6875C3.34375 0.78125 2.59375 0.03125 1.65625 0.03125C0.75 0.03125 0 0.78125 0 1.6875C0 2.625 0.75 3.40625 1.65625 3.40625ZM13.9688 14H14V8.875C14 6.375 13.4375 4.4375 10.5 4.4375C9.09375 4.4375 8.15625 5.21875 7.75 5.9375H7.71875V4.65625H4.9375V14H7.84375V9.375C7.84375 8.15625 8.0625 7 9.5625 7C11.0625 7 11.0938 8.375 11.0938 9.46875V14H13.9688Z" fill="#FF7542"/>
-                        </svg>
-                        </a>
-                     <a class="social-icon-link" target="_blank" href="https://www.facebook.com/PinsightAI"><svg class="social-icon" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M8.71875 9L9.15625 6.125H6.375V4.25C6.375 3.4375 6.75 2.6875 8 2.6875H9.28125V0.21875C9.28125 0.21875 8.125 0 7.03125 0C4.75 0 3.25 1.40625 3.25 3.90625V6.125H0.6875V9H3.25V16H6.375V9H8.71875Z" fill="white"/>
-                        </svg>
-                        </a>
-                     <a class="social-icon-link" target="_blank" href="https://twitter.com/PinsightAI"><svg class="social-icon" width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M14.3438 3.75C14.9688 3.28125 15.5312 2.71875 15.9688 2.0625C15.4062 2.3125 14.75 2.5 14.0938 2.5625C14.7812 2.15625 15.2812 1.53125 15.5312 0.75C14.9062 1.125 14.1875 1.40625 13.4688 1.5625C12.8438 0.90625 12 0.53125 11.0625 0.53125C9.25 0.53125 7.78125 2 7.78125 3.8125C7.78125 4.0625 7.8125 4.3125 7.875 4.5625C5.15625 4.40625 2.71875 3.09375 1.09375 1.125C0.8125 1.59375 0.65625 2.15625 0.65625 2.78125C0.65625 3.90625 1.21875 4.90625 2.125 5.5C1.59375 5.46875 1.0625 5.34375 0.625 5.09375V5.125C0.625 6.71875 1.75 8.03125 3.25 8.34375C3 8.40625 2.6875 8.46875 2.40625 8.46875C2.1875 8.46875 2 8.4375 1.78125 8.40625C2.1875 9.71875 3.40625 10.6562 4.84375 10.6875C3.71875 11.5625 2.3125 12.0938 0.78125 12.0938C0.5 12.0938 0.25 12.0625 0 12.0312C1.4375 12.9688 3.15625 13.5 5.03125 13.5C11.0625 13.5 14.3438 8.53125 14.3438 4.1875C14.3438 4.03125 14.3438 3.90625 14.3438 3.75Z" fill="white"/>
-                        </svg>
-                        </a>
-                  </li>
-               </ul>
-            </div>
-         </div>
-      </div>
-      <!-- footer one widget-->
+      <!-- sticky sidebar container-->
    </div>
-   <!-- sizing container-->
-   <div class = 'st-copyright-block'>
-      <div class = 'st-sizing-container'>
-         <span class = 'st-cp-content'>Copyright © 2021 Pinsight, Inc. All rights reserved</span>
-         <ul id="menu-genoa-footer" class="st-parent-ul">
-            <li id="menu-item-1899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1899"><a href="terms">Terms</a></li>
-            <li id="menu-item-1901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1901"><a href="privacy">Privacy</a></li>
-         </ul>
-      </div>
-      <!-- sizing container -->
+   <!-- sidebar self -->
    </div>
-   <!-- copyright block -->
-</footer>
-      <!-- main footer-->
+   <!-- sticky sidebar -->
+   <div class='st-blank-container'>
+      <div data-elementor-type="wp-post" data-elementor-id="1975" class="elementor elementor-1975"
+         data-elementor-settings="[]">
+         <div class="elementor-inner">
+            <div class="elementor-section-wrap">
+               <section
+                  class="elementor-element elementor-element-46f402b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
+                  data-id="46f402b" data-element_type="section"
+                  data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                  <div class="elementor-container elementor-column-gap-default">
+                     <div class="elementor-row">
+                        <div
+                           class="elementor-element elementor-element-627f61d elementor-column elementor-col-100 elementor-top-column"
+                           data-id="627f61d" data-element_type="column">
+                           <div class="elementor-column-wrap  elementor-element-populated">
+                              <div class="elementor-widget-wrap">
+                                 <div
+                                    class="elementor-element elementor-element-c2a104e elementor-invisible elementor-widget elementor-widget-heading"
+                                    data-id="c2a104e" data-element_type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
+                                    data-widget_type="heading.default">
+                                    <br>
+                                    <div class="elementor-widget-container">
+                                       <h2 class="elementor-heading-title elementor-size-default">Privacy</h2>
+                                    </div>
+                                 </div>
+                                 <div
+                                    class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
+                                    data-id="2972368" data-element_type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
+                                    data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                       <h2 class="elementor-heading-title elementor-size-default">Privacy Policy</h2>
+                                    </div>
+                                 </div>
+                                 <div
+                                    class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
+                                    data-id="80285bd" data-element_type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
+                                    data-widget_type="divider.default">
+                                    <div class="elementor-widget-container">
+                                       <div class="elementor-divider">
+                                          <span class="elementor-divider-separator">
+                                          </span>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div
+                                    class="elementor-element elementor-element-441ba75 elementor-widget elementor-widget-text-editor animated fadeInUp"
+                                    data-id="441ba75" data-element_type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
+                                    data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                       <div class="elementor-text-editor elementor-clearfix">
 
-      <script type='text/javascript' src='js/tilt.js'></script>
-      <script type='text/javascript' src='js/st-main.js'></script>
-      <script type='text/javascript' src='js/jquery.preloader.js'></script>
-      <script type='text/javascript' src='js/wp-embed.min.js'></script>
-      <script type='text/javascript' src='js/jquery-numerator.min.js'></script>
-      <script type='text/javascript' src='js/frontend-modules.min.js'></script>
-      <script type='text/javascript' src='js/position.min.js'></script>
-      <script type='text/javascript' src='js/dialog.min.js'></script>
-      <script type='text/javascript' src='js/waypoints.min.js'></script>
-      <script type='text/javascript' src='js/swiper.min.js'></script>
-      <script type='text/javascript' src='js/share-link.min.js'></script>
-      <script type='text/javascript'>
-         var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]}};
-      </script>
-      <script type='text/javascript' src='js/frontend.min.js'></script>
-   </body>
+                                          <p>Your privacy is important to us. It is Pinsight's policy to respect your
+                                             privacy regarding any information we may collect from you across our
+                                             website, <a href="https://pinsight.ai">https://pinsight.ai</a>, and other
+                                             sites we own and operate.</p>
+                                          <br>
+                                          <p>We only ask for personal information when we truly need it to provide a
+                                             service to you. We collect it by fair and lawful means, with your knowledge
+                                             and consent. We also let you know why we’re collecting it and how it will
+                                             be used.</p>
+                                          <br>
+                                          <p>We only retain collected information for as long as necessary to provide
+                                             you with your requested service. What data we store, we’ll protect within
+                                             commercially acceptable means to prevent loss and theft, as well as
+                                             unauthorized access, disclosure, copying, use or modification.</p>
+                                          <br>
+                                          <p>We don’t share any personally identifying information publicly or with
+                                             third-parties, except when required to by law.</p>
+                                          <br>
+                                          <p>Our website may link to external sites that are not operated by us. Please
+                                             be aware that we have no control over the content and practices of these
+                                             sites, and cannot accept responsibility or liability for their respective
+                                             privacy policies.</p>
+                                          <br>
+                                          <p>You are free to refuse our request for your personal information, with the
+                                             understanding that we may be unable to provide you with some of your
+                                             desired services.</p>
+                                          <br>
+                                          <p>Your continued use of our website will be regarded as acceptance of our
+                                             practices around privacy and personal information. If you have any
+                                             questions about how we handle user data and personal information, feel free
+                                             to contact us.</p>
+                                          <br>
+                                          <p>This policy is effective as of 8 March 2021.</p>
+                                          <br>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+            </div>
+            <footer class='st-main-footer'>
+               <span class='st-footer-overlay'></span>
+               <div class='st-sizing-container'>
+                  <div class='footer-sidebar fs-1'>
+                     <div class='s-one-widget'>
+                        <div class='widget-content'>
+                           <div class="footer-img-container">
+                              <img src="assets/White.svg" width="144" height="53"
+                                 title='Pinsight | Automated Machine Learning'
+                                 alt='Pinsight | Automated Machine Learning' class='ch-wgt-about-img' />
+                           </div>
+                           <span class='ch-wgt-about-textcontent'>
+                              Transform your Enterprise through Machine learning. Use Pinsight to automate modeling
+                              process and drive actionable insight from your data.</span>
+                           <div class='card-social'></div>
+                        </div>
+                     </div>
+                     <!-- end widget -->
+                  </div>
+                  <!-- footer one widget-->
+                  <div class='footer-sidebar fs-2'>
+                     <div class='s-one-widget widget'>
+                        <div class='widget-content st-posts-widget'>
+                           <span class='s-widget-title'>Solutions</span>
+                           <div class="row m-b-35">
+                              <span class="long-orange-line"></span>
+                              <span class="short-orange-line"></span>
+                           </div>
+                           <ul>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="banking">Banking</a>
+                              </li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="finance">Finance</a>
+                              </li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
+                                    href="marketing">Marketing</a></li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a
+                                    href="telecommunications">Telecommunications</a></li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="security">Security</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                     <!-- end widget -->
+                  </div>
+                  <!-- footer one widget-->
+                  <div class='footer-sidebar fs-3'>
+                     <div id="meta-3" class="s-one-widget widget widget_meta">
+                        <div class="widget-content st-posts-widget">
+                           <span class="s-widget-title">About</span>
+                           <div class="row m-b-35">
+                              <span class="long-orange-line"></span>
+                              <span class="short-orange-line"></span>
+                           </div>
+                           <ul>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="product">Product</a>
+                              </li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="partner">Partners</a>
+                              </li>
+                              <!-- <li><img class="play_arrow" src = 'assets/play_arrow.svg' /><a href="resources">Resources</a></li> -->
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a href="careers">Careers</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- footer one widget-->
+                  <div class='footer-sidebar fs-4'>
+                     <div id="media_gallery-2" class="s-one-widget widget widget_media_gallery">
+                        <div class="widget-content st-posts-widget">
+                           <span class="s-widget-title">Contacts</span>
+                           <div class="row m-b-35">
+                              <span class="long-orange-line"></span>
+                              <span class="short-orange-line"></span>
+                           </div>
+                           <ul>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a>+1 302 305 0786</a></li>
+                              <li><img class="play_arrow" src='assets/play_arrow.svg' /><a>info@pinsight.ai</a></li>
+                              <li class="m-t-18">
+                                 <a class="social-icon-link" target="_blank"
+                                    href="https://www.linkedin.com/company/pinsightai/"><svg class="social-icon"
+                                       width="14" height="14" viewBox="0 0 14 14" fill="none"
+                                       xmlns="http://www.w3.org/2000/svg">
+                                       <path
+                                          d="M3.125 14V4.65625H0.21875V14H3.125ZM1.65625 3.40625C2.59375 3.40625 3.34375 2.625 3.34375 1.6875C3.34375 0.78125 2.59375 0.03125 1.65625 0.03125C0.75 0.03125 0 0.78125 0 1.6875C0 2.625 0.75 3.40625 1.65625 3.40625ZM13.9688 14H14V8.875C14 6.375 13.4375 4.4375 10.5 4.4375C9.09375 4.4375 8.15625 5.21875 7.75 5.9375H7.71875V4.65625H4.9375V14H7.84375V9.375C7.84375 8.15625 8.0625 7 9.5625 7C11.0625 7 11.0938 8.375 11.0938 9.46875V14H13.9688Z"
+                                          fill="#FF7542" />
+                                    </svg>
+                                 </a>
+                                 <a class="social-icon-link" target="_blank"
+                                    href="https://www.facebook.com/PinsightAI"><svg class="social-icon" width="10"
+                                       height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path
+                                          d="M8.71875 9L9.15625 6.125H6.375V4.25C6.375 3.4375 6.75 2.6875 8 2.6875H9.28125V0.21875C9.28125 0.21875 8.125 0 7.03125 0C4.75 0 3.25 1.40625 3.25 3.90625V6.125H0.6875V9H3.25V16H6.375V9H8.71875Z"
+                                          fill="white" />
+                                    </svg>
+                                 </a>
+                                 <a class="social-icon-link" target="_blank" href="https://twitter.com/PinsightAI"><svg
+                                       class="social-icon" width="16" height="14" viewBox="0 0 16 14" fill="none"
+                                       xmlns="http://www.w3.org/2000/svg">
+                                       <path
+                                          d="M14.3438 3.75C14.9688 3.28125 15.5312 2.71875 15.9688 2.0625C15.4062 2.3125 14.75 2.5 14.0938 2.5625C14.7812 2.15625 15.2812 1.53125 15.5312 0.75C14.9062 1.125 14.1875 1.40625 13.4688 1.5625C12.8438 0.90625 12 0.53125 11.0625 0.53125C9.25 0.53125 7.78125 2 7.78125 3.8125C7.78125 4.0625 7.8125 4.3125 7.875 4.5625C5.15625 4.40625 2.71875 3.09375 1.09375 1.125C0.8125 1.59375 0.65625 2.15625 0.65625 2.78125C0.65625 3.90625 1.21875 4.90625 2.125 5.5C1.59375 5.46875 1.0625 5.34375 0.625 5.09375V5.125C0.625 6.71875 1.75 8.03125 3.25 8.34375C3 8.40625 2.6875 8.46875 2.40625 8.46875C2.1875 8.46875 2 8.4375 1.78125 8.40625C2.1875 9.71875 3.40625 10.6562 4.84375 10.6875C3.71875 11.5625 2.3125 12.0938 0.78125 12.0938C0.5 12.0938 0.25 12.0625 0 12.0312C1.4375 12.9688 3.15625 13.5 5.03125 13.5C11.0625 13.5 14.3438 8.53125 14.3438 4.1875C14.3438 4.03125 14.3438 3.90625 14.3438 3.75Z"
+                                          fill="white" />
+                                    </svg>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- footer one widget-->
+               </div>
+               <!-- sizing container-->
+               <div class='st-copyright-block'>
+                  <div class='st-sizing-container'>
+                     <span class='st-cp-content'>Copyright © 2021 Pinsight, Inc. All rights reserved</span>
+                     <ul id="menu-genoa-footer" class="st-parent-ul">
+                        <li id="menu-item-1899"
+                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1899">
+                           <a href="terms">Terms</a>
+                        </li>
+                        <li id="menu-item-1901"
+                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1901">
+                           <a href="privacy">Privacy</a>
+                        </li>
+                     </ul>
+                  </div>
+                  <!-- sizing container -->
+               </div>
+               <!-- copyright block -->
+            </footer>
+            <!-- main footer-->
+
+            <script type='text/javascript' src='js/tilt.js'></script>
+            <script type='text/javascript' src='js/st-main.js'></script>
+            <script type='text/javascript' src='js/jquery.preloader.js'></script>
+            <script type='text/javascript' src='js/wp-embed.min.js'></script>
+            <script type='text/javascript' src='js/jquery-numerator.min.js'></script>
+            <script type='text/javascript' src='js/frontend-modules.min.js'></script>
+            <script type='text/javascript' src='js/position.min.js'></script>
+            <script type='text/javascript' src='js/dialog.min.js'></script>
+            <script type='text/javascript' src='js/waypoints.min.js'></script>
+            <script type='text/javascript' src='js/swiper.min.js'></script>
+            <script type='text/javascript' src='js/share-link.min.js'></script>
+            <script type='text/javascript'>
+               var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "settings": { "page": [], "general": { "elementor_global_image_lightbox": "yes", "elementor_lightbox_enable_counter": "yes", "elementor_lightbox_enable_fullscreen": "yes", "elementor_lightbox_enable_zoom": "yes", "elementor_lightbox_enable_share": "yes", "elementor_lightbox_title_src": "title", "elementor_lightbox_description_src": "description" }, "editorPreferences": [] } };
+            </script>
+            <script type='text/javascript' src='js/frontend.min.js'></script>
+</body>
+
 </html>

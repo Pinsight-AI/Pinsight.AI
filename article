@@ -169,7 +169,7 @@
                                    href="company#team">Team</a></li>
                            <li id="menu-item-1848"
                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
-                                   href="company#jobs">Jobs</a></li>
+                                   href="company#articles">Jobs</a></li>
                        </ul> -->
                     </li>
                     <li id="menu-item-1858"
@@ -271,119 +271,65 @@
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Careers</h2>
+                            <div style="width: calc(100% - 270px); text-align: left;" class="elementor-container">
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">Automation as an
+                                    Imperative for Market Research to Survive Competition</h2>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
-                            data-id="80285bd" data-element_type="widget"
-                            data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                            data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator">
-                                    </span>
+                        <div style="width: calc(100% - 270px);">
+                            <div class="flex">
+                                <div class="date ">
+                                    <img src="assets/date_range.png" alt="">
+                                    <p>August 14, 2020</p>
+                                </div>
+                                <div class="time ">
+                                    <img src="assets/time.png" alt="" srcset="">
+                                    <p>2 min read</p>
                                 </div>
                             </div>
-                        </div>
-                        <!--                                     <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span> -->
-                        <div style="width: calc(100% - 270px);"
-                            class="elementor-container elementor-column-gap-default">
-                            <ul class="job-list">
+                            <div class="article-container">
+                                <span class="article-about">
+                                    Praesent at elit in ante convallis pretium vel in leo. Cras ac ornare nisl. Fusce
+                                    vulputate, mauris ut dapibus condimentum, metus tellus porta eros, eget venenatis
+                                    nibh
+                                    quam quis est. Fusce tempus a tellus non pharetra. Curabitur malesuada suscipit
+                                    tortor,
+                                    quis viverra nibh placerat in. Curabitur quis sem in tortor sodales dignissim non ut
+                                    lacus. In hac habitasse platea dictumst. Nullam condimentum tellus turpis, consequat
+                                    consequat lorem consectetur id. Sed dictum dapibus diam. Donec maximus, lorem sit
+                                    amet
+                                    eleifend tristique, est lacus fermentum turpis, ac tincidunt orci urna sit amet
+                                    nunc.
+                                    Curabitur eleifend id ante ut ultrices. Fusce tincidunt ex non sapien varius, eu
+                                    consectetur orci fermentum. Class aptent taciti sociosqu ad litora torquent per
+                                    conubia
+                                    nostra, per inceptos himenaeos.
+                                </span>
+                                <img src="assets/article5.png">
+                                <span class="article-about">
+                                    Praesent at elit in ante convallis pretium vel in leo. Cras ac ornare nisl. Fusce
+                                    vulputate, mauris ut dapibus condimentum, metus tellus porta eros, eget venenatis
+                                    nibh quam quis est. Fusce tempus a tellus non pharetra. Curabitur malesuada suscipit
+                                    tortor, quis viverra nibh placerat in. Curabitur quis sem in tortor sodales
+                                    dignissim non ut lacus. In hac habitasse platea dictumst. Nullam condimentum tellus
+                                    turpis, consequat consequat lorem consectetur id. Sed dictum dapibus diam. Donec
+                                    maximus, lorem sit amet eleifend tristique, est lacus fermentum turpis, ac tincidunt
+                                    orci urna sit amet nunc. Curabitur eleifend id ante ut ultrices. Fusce tincidunt ex
+                                    non sapien varius, eu consectetur orci fermentum. Class aptent taciti sociosqu ad
+                                    litora torquent per conubia nostra, per inceptos himenaeos. Praesent at elit in ante
+                                    convallis pretium vel in leo. Cras ac ornare nisl. Fusce vulputate, mauris ut
+                                    dapibus condimentum, metus tellus porta eros, eget venenatis nibh quam quis est.
+                                    Fusce tempus a tellus non pharetra. Curabitur malesuada suscipit tortor, quis
+                                    viverra nibh placerat in. Curabitur quis sem in tortor sodales dignissim non ut
+                                    lacus. In hac habitasse platea dictumst. Nullam condimentum tellus turpis, consequat
+                                    consequat lorem consectetur id. Sed dictum dapibus diam. Donec maximus, lorem sit
+                                    amet eleifend tristique, est lacus fermentum turpis, ac tincidunt orci urna sit amet
+                                    nunc. Curabitur eleifend id ante ut ultrices. Fusce tincidunt ex non sapien varius,
+                                    eu consectetur orci fermentum. Class aptent taciti sociosqu ad litora torquent per
+                                    conubia nostra, per inceptos himenaeos.
+                                </span>
+                            </div>
 
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">People and Culture Operations Specialist</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="people-culture"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp">
-                                    <span class="job-title">B2B sales specialist</span>
-                                    <span class="job-deadline">Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="sales-specialist"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">Quality Assurance Specialist</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="qa-specialist"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li class="grey-bg animated fadeInUp">
-                                    <span class="job-title">Senior Frontend Engineer [react.js]</span>
-                                    <span class="job-deadline">Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="senior-front"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">Senior Backend Engineer [node.js]</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="senior-back"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-
-                            </ul>
                         </div>
                     </section>
 
