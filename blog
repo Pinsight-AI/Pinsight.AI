@@ -169,7 +169,7 @@
                                    href="company#team">Team</a></li>
                            <li id="menu-item-1848"
                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
-                                   href="company#jobs">Jobs</a></li>
+                                   href="company#articles">Jobs</a></li>
                        </ul> -->
                     </li>
                     <li id="menu-item-1858"
@@ -272,7 +272,7 @@
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Careers</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">Blog</h2>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
@@ -286,103 +286,147 @@
                                 </div>
                             </div>
                         </div>
-                        <!--                                     <span class="no-positions">Sorry, we do not have open positions at the moment, however if you are interested in possible future opportunities please send your CV to <span style="color: #6564C4;">careers@pinsight.ai</span>. We will get in touch with you when a new role becomes available that matches your profile.</span> -->
                         <div style="width: calc(100% - 270px);"
                             class="elementor-container elementor-column-gap-default">
-                            <ul class="job-list">
-
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">People and Culture Operations Specialist</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="people-culture"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
+                            <ul class="article-list">
+                                <li class="animated fadeInUp p-zero">
+                                    <div class="article-img">
+                                        <img src="assets/article5.png" alt="" width="0" height="218" srcset="">
+                                    </div>
+                                    <div class="article-description">
+                                        <span class="article-title">Automation as an Imperative for Market Research to
+                                            Survive Competition.</span>
+                                        <span class="article-content"> In today’s consumer climate with the unlimited
+                                            access to online information, market research is an essential
+                                            revenue...</span>
+                                        <span class="article-date">August 14, 2020</span>
+                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                            data-id="827f7cb" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container ">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="article"
+                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-                                <li class="grey-bg animated fadeInUp">
-                                    <span class="job-title">B2B sales specialist</span>
-                                    <span class="job-deadline">Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="sales-specialist"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
+                                <li class="grey-bg animated fadeInUp p-zero">
+                                    <div class="article-img">
+                                        <img src="assets/article4.png" alt="" width="0" height="218" srcset="">
+                                    </div>
+                                    <div class="article-description">
+                                        <span class="article-title">Artificial Intelligence Solutions.</span>
+                                        <span class="article-content">Artificial Intelligence (AI) is intelligence
+                                            exhibited by machines as opposed to natural intelligence (NI) displayed
+                                            by...</span>
+                                        <span class="article-date">August 14, 2020</span>
+                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                            data-id="827f7cb" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container mt-md">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="article"
+                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">Quality Assurance Specialist</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="qa-specialist"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
+                                <li class="animated fadeInUp p-zero">
+                                    <div class="article-img">
+                                        <img src="assets/article3.png" alt="" width="0" height="218" srcset="">
+                                    </div>
+                                    <div class="article-description">
+                                        <span class="article-title">How Big Data is being employed in times of
+                                            COVID19.</span>
+                                        <span class="article-content">The heroic effort of the healthcare frontlines and
+                                            adept use of big data technology has contributed to the...</span>
+                                        <span class="article-date">August 14, 2020</span>
+                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                            data-id="827f7cb" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="mt-md elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="article"
+                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-
-                                <li class="grey-bg animated fadeInUp">
-                                    <span class="job-title">Senior Frontend Engineer [react.js]</span>
-                                    <span class="job-deadline">Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="senior-front"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
+                                <li class="grey-bg animated fadeInUp p-zero">
+                                    <div class="article-img">
+                                        <img src="assets/article2.png" alt="" width="0" height="218" srcset="">
+                                    </div>
+                                    <div class="article-description">
+                                        <span class="article-title">Can data and new technology save the rest of
+                                            Australia from bushfires?</span>
+                                        <span class="article-content">Scientists have made headways into software
+                                            programs that predict where and when the fire may spread using data
+                                            modeling....</span>
+                                        <span class="article-date">August 14, 2020</span>
+                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                            data-id="827f7cb" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper">
+                                                    <a href="article"
+                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-                                <li class="animated fadeInUp">
-                                    <span class="job-title">Senior Backend Engineer [node.js]</span>
-                                    <span class="job-deadline"> Deadline: 21 December 2021</span>
-                                    <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                        data-id="827f7cb" data-element_type="widget" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="senior-back"
-                                                    class="elementor-button-link elementor-button elementor-size-sm elementor-animation-buzz-out"
-                                                    role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">View More</span>
-                                                    </span>
-                                                </a>
+                                <li class="animated fadeInUp p-zero">
+                                    <div class="article-img">
+                                        <img src="assets/article1.png" alt="" width="0" height="218" srcset="">
+                                    </div>
+                                    <div class="article-description">
+                                        <span class="article-title">How Our Clicks Are Shaping Elections. The Impact of
+                                            Data Analytics on Politics.</span>
+                                        <span class="article-content">Gone were the days when election campaigns are
+                                            executed by communicating the same political message to groups of audiences
+                                            across...</span>
+                                        <span class="article-date">August 14, 2020</span>
+                                        <div class="absolute elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
+                                            data-id="827f7cb" data-element_type="widget"
+                                            data-widget_type="button.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-button-wrapper ">
+                                                    <a href="article"
+                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
+                                                        role="button">
+                                                        <span class="elementor-button-content-wrapper">
+                                                            <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-
                             </ul>
                         </div>
                     </section>

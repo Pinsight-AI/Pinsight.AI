@@ -167,6 +167,10 @@
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
                         <a href="partner">Partners</a>
                     </li>
+                    <li id="menu-item-1858"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1852">
+                        <a href="blog">Blog</a>
+                    </li>
                     <!-- <li id="menu-item-1855" -->
                     <!-- class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853"> -->
                     <!-- <a href="resources">Resources</a> -->
@@ -251,6 +255,10 @@
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a
                                     href="security">Security</a><span class='ti-plus down-submenu'></span></li>
                         </ul>
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
+                        <a href="blog">Blog</a>
                     </li>
                     <li
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1853">
