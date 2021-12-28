@@ -271,12 +271,12 @@
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="heading.default">
-                            <div style="width: calc(100% - 270px); text-align: left;" class="elementor-container">
+                            <div style="width: calc(100% - 270px); text-align: left;" class="elementor-container blog-width">
                                 <h2 class="elementor-heading-title elementor-size-default" id="about">Automation as an
                                     Imperative for Market Research to Survive Competition</h2>
                             </div>
                         </div>
-                        <div style="width: calc(100% - 270px);">
+                        <div style="width: calc(100% - 270px);" class="blog-width">
                             <div class="flex">
                                 <div class="date ">
                                     <img src="assets/date_range.png" alt="">
