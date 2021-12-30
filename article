@@ -329,7 +329,9 @@
                                         percent rise</a>
                                     in AI uses across sales teams.
                                 </p>
-                                <img src="assets/article-1-img-1.jpg">
+                                <div class="img-wrapper">
+                                    <img src="assets/article-1-img-1.jpg">
+                                </div>
                                 <p class="article-about">
                                     Artificial Intelligence (AI) and machine learning (ML) are essential marketing tools
                                     for SaaS companies looking to grow revenue by providing tailored client experience.
