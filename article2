@@ -273,225 +273,120 @@
                             data-widget_type="heading.default">
                             <div style="width: calc(100% - 270px); text-align: left;"
                                 class="elementor-container blog-width">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">5 Ways AI Improve
-                                    Subscription-Based Businesses</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">Ten Ways AI-driven Lead Scoring Improve the
+                                    Efficiency of Your Marketing Campaigns</h2>
                             </div>
                         </div>
                         <div style="width: calc(100% - 270px);" class="blog-width">
                             <div class="flex">
                                 <div class="date ">
                                     <img src="assets/date_range.png" alt="">
-                                    <p>August 14, 2020</p>
+                                    <p>November 1, 2021</p>
                                 </div>
                                 <div class="time ">
                                     <img src="assets/time.png" alt="" srcset="">
-                                    <p>2 min read</p>
+                                    <p>5 min read</p>
                                 </div>
                             </div>
                             <div class="article-container">
                                 <p class="article-about">
-                                    Consumers Purchasing patterns changed from ownership to usership, growing
-                                    subscription business revenue by
-                                    <a target="blank"
-                                        href="https://www.businesswire.com/news/home/20210303005291/en/Subscription-Business-Revenue-Grows-437-Over-Nearly-a-Decade-as-Consumer-Buying-Preferences-Shift-from-Ownership-to-Usership">
-                                        437 percent in a decade
-                                    </a>
-                                    . Businesses are changing to
-                                    include usage-based product lines to shift from manufacturing to a service economy.
-                                    The software as a Service (SaaS) program is an example of a structure that allows
-                                    clients to self-subscribe while offering various payment options, including weekly,
-                                    monthly, and annual payments. The subscription solutions are further enticing by
-                                    using bundled service pricing models to lower the user's software expenditures.
-                                    Pay-as-you-go payment is typical for software services, and it's becoming a popular
-                                    billing approach due to its ease and convenience.
+                                    Sales and marketing can suffer significantly due to poor lead prioritization, with
+                                    missed sales objectives, discouraged sales teams, and destroyed teamwork. While 61%
+                                    of marketing specialists rank lead generation as a primary challenge and dedicating
+                                    53% of their budget to it, poor lead quality can lead to sales burnout and high
+                                    turnover, requiring further training and the hiring of additional salespeople to
+                                    fill the pipeline. <br>
+                                    Companies have used different marketing approaches for years, one of which,
+                                    data-driven marketing, has developed to become the norm for improving lead
+                                    generation, validation, and engagement. Businesses have used this method to make
+                                    predictions about possible consumers based on criteria like demographics or
+                                    firmographics. This data is gathered and evaluated to create a picture of where this
+                                    lead is in their purchase process and what activities are required to help them
+                                    along. <br>
+                                    This method, along with a lead score system, has been used by marketing teams to
+                                    categorize leads based on their sales readiness and determine when a sales
+                                    professional must intervene and take over. <br>
+
+                                    Predictive lead scoring uses big data and ML algorithms to assess specific behaviors
+                                    of existing clients and prospects and rate them on a scale that can identify who is
+                                    more likely to convert, stay, or purchase the products and services. <br>
                                 </p>
-                                <img src="assets/article-1-img-4.jpg">
-                                <p class="article-about">
-                                    Companies that leverage AI and data construct extremely successful conversion
-                                    models. Which increases user engagement, customer loyalty and, most crucially, turns
-                                    conversions into revenues. Those companies are at the vanguard of this shift.
-                                    <br>
-                                    AI can help subscription-based businesses in the following ways to be at the
-                                    forefront of this shift: <br>
-                                </p>
+                                <!-- <img src="assets/article-1-img-4.jpg"> -->
                                 <p class="bold-lg">
-                                    1. Marketing and Sales
+                                    1.Automation
                                 </p>
                                 <br>
                                 <p class="article-about">
-                                    Sales and marketing departments frequently utilize AI-based solutions such as
-                                    Configure-Price-Quote (CPQ) and Marketing Automation. In the next two years, sales
-                                    executives forecast a
-                                    <a target="blank"
-                                        href="https://www.salesforce.com/form/pdf/state-of-sales-3rd-edition/?d=7010M000000NlJg">155
-                                        percent rise</a>
-                                    in AI uses across sales teams.
-                                </p>
-                                <img src="assets/article-1-img-1.jpg">
-                                <p class="article-about">
-                                    Artificial Intelligence (AI) and machine learning (ML) are essential marketing tools
-                                    for SaaS companies looking to grow revenue by providing tailored client experience.
-                                    Personalization of content and consumer experience are two of the most critical
-                                    growth factors supporting the deployment of AI inside these businesses. <br>
-                                    Customers have learned to demand individualized interactions and experiences in the
-                                    medium or platform. Receiving an automated message promoting a free trial that a
-                                    prospect has previously signed up for with a sales representative shows that the
-                                    company is not listening. Customers pull away for various reasons, the most common
-                                    of which is "irrelevant material." <br>
-                                    It's hard to engage hundreds of leads and consumers with targeted content without
-                                    empowering marketing teams with artificial intelligence. Predictive content
-                                    solutions driven by AI allow marketing teams to become more strategic while reducing
-                                    the workload. The AI-powered marketing tools can scan the business website for blog
-                                    posts, case studies, fact sheets, publications, podcasts, and other content—AI
-                                    forecasts which material will resonate with the prospect and eventually help them
-                                    convert. AI could leverage insights to attract visitors across email, online, and
-                                    social channels for a complete multi-channel strategy. Consequently, organizations
-                                    can offer one-to-one quality marketing that was previously impossible to deliver
-                                    without significant scalability. <br>
-                                    AI-based solutions are now
-                                    <a href="https://www.salesforce.com/form/conf/5th-state-of-marketing/?leadcreated=true&redirect=true&chapter=&DriverCampaignId=cta-body-promo-49&player=&FormCampaignId=7010M000000ZP24QAG&videoId=&playlistId=&mcloudHandlingInstructions=&landing_page=%2Fform%2Fpdf%2F5th-state-of-marketing"
-                                        target="_blank">used by 22% of marketing specialists</a>
+                                    Marketing specialists can use AI to automatically select the best leads for a
+                                    company and send them to the appropriate department. They may readily assess the
+                                    effectiveness of each advertising medium. Operations can analyze open-ended text to
+                                    automate and optimize each interaction. <br>
+                                    Sales representatives can focus their time and efforts on the ideal contacts who
+                                    will create the highest income, making their tasks much more efficient, thanks to AI
+                                    automation. Also they can spend more time creating unique campaigns and strategies
+                                    to expand their brand by automating routine work.
 
-                                    , with another 57%
-                                    aiming to utilize them in the next two years. From tailored multichannel encounters
-                                    to programmable advertising and media purchasing to forecasted customer journeys.
-                                    The following graph shows nine major use cases that marketing teams are focusing on
-                                    right now.
                                 </p>
-                                <img src="assets/article-1-img-3.jpg">
-                                <p class="article-about">
-                                    On the sales front, AI is assisting businesses in increasing lead numbers while also
-                                    improving overall sales performance. <br>
-                                    Artificial intelligence in sales may help businesses expedite their sales process by
-                                    automating sales performance, tracking sales growth, and engaging with prospects,
-                                    all of which can help improve their conversion rates.
-                                    <br>
-                                    For example, AI automation in sales has assisted in automating purchasing through
-                                    bots, resulting
-                                    <a target="blank"
-                                        href="https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Driving%20impact%20at%20scale%20from%20automation%20and%20AI/Driving-impact-at-scale-from-automation-and-AI.ashx">in
-                                        a reduction of 15 to 20% of expenses</a>
-                                    sourced through e-platforms.
-                                    <br>
-                                    Companies who use artificial intelligence in sales have witnessed –
-                                    <a target="blank"
-                                        href="https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy">according
-                                        to McKinsey:</a>
-                                    <br>
-                                    Leads and appointments increased by 50%. <br>
-                                    Overall expenditures are reduced by 40-60%. <br>
-                                    Call time is reduced by 60-70 percent. <br>
-                                    AI revolutionizes how things are, and keeping up with the competition necessitates
-                                    automation.
-                                </p>
+                                <!-- <img src="assets/article2-1.png"> -->
+
                                 <p class="bold-lg">
-                                    2. Conversational AI Improves Client Retention
+                                    2.Faster Decision Making by Identifying Qualified Leads
                                 </p>
                                 <p class="article-about">
-                                    Natural language processing (NLP) is combined with conventional tools such as
-                                    chatbots, voice assistants, or an engaging speech recognition system to serve
-                                    consumers via a spoken or written interface. <br>
-                                    How do users react when they are put on hold? Most likely, they aren't interested in
-                                    extending the conversation. If it frequently happens at any firm, the business will
-                                    probably lose prospective new and old consumers because of impatience and
-                                    irritation. <br>
-                                    By default, conversational AI replies instantaneously; however, some consumers
-                                    believe the virtual assistant answers too soon; hence conversational AI service
-                                    providers add
-                                    a 1-2 second delay makes the response look more "human." <br>
-                                    Several firms increase the hours their call centers are open to keep up with
-                                    clients. Consumers are becoming more demanding, expecting assistance when required,
-                                    not when the corporation believes it's convenient. <br>
-                                    At the first phase of total digitization, those that have effectively adopted
-                                    conversational AI are already beginning to reduce the necessity of their human
-                                    operators. They are enhancing client happiness by providing an always-accessible
-                                    corporate representative and, in turn, saving money. <br>
-                                    Most marketing specialists acknowledge how difficult it is to reclaim lost
-                                    customers, as well as the hefty expenditures involved. A contemporary marketing
-                                    team's toolset should include a warning system for consumers ready to quit their
-                                    subscription. Instead of being reactive, marketing teams should be proactive.
-                                    Moreover,
-                                    <a target="blank"
-                                        href="https://www.statista.com/statistics/915493/benefits-using-artificial-intelligence-marketing-personalization/">According
-                                        to 82 percent</a>
-                                    of marketing executives, increasing customer
-                                    experience is the most important aspect in their choice to use AI.
+                                    Predictive lead scoring driven by AI improves the efficiency of lead generation by
+                                    intuitively selecting the most engaged and qualified leads. Predictive lead score
+                                    analyzes how qualified a potential lead is based on demographics, social
+                                    information, and behavioral data. Instead of waiting for periodic and out-of-date
+                                    evaluations and recaps, companies can swiftly and efficiently modify the marketing
+                                    funnel and expenditure. <br> Therefore, both marketing and sales teams will
+                                    prioritize
+                                    the most significant prospects and can quickly uncover which sources provide leads
+                                    with the highest buying intent with enhanced lead scoring. Artificial intelligence
+                                    (AI) makes it easier to examine the marketing strategies and campaigns and identify
+                                    which features produce leads and which should not be included. The final results are
+                                    consistent and illustrates progress from one campaign to another. <br>
+                                    Consider the following scenario: The sales staff are working through 1,000 leads.
+                                    It's challenging to identify which leads to tackle first if they aren't scored. The
+                                    sales staff would know exactly how to approach the list with lead scoring backed by
+                                    machine learning algorithms. During the process timing is crucial since according to
+                                    a study, the sooner you contact a consumer, the more inclined they will be to set a
+                                    meeting and convert.
+                                </p>
+                                <!-- <img src="assets/article-1-img-3.jpg"> -->
+                                <p class="bold-lg">
+                                    3.Proper Lead Scoring Models
+                                </p>
+                                <p class="article-about">
+                                    When new leads are obtained, they are given a score that may not accurately reflect
+                                    the lead's preparedness or desire to meet with a sales representative. For instance,
+                                    a lead may obtain a high score if they engage with bottom-of-the-funnel content,
+                                    suggesting that they have completed their decision-making process and therefore are
+                                    ready to buy. It results in an immediate transfer to a sales professional, leading
+                                    to a 'false positive,' in which the lead is not prepared and was scored incorrectly,
+                                    resulting in the lead being turned off and the opportunity being lost. On the other
+                                    hand, a lead might be overlooked and therefore held at the top of the funnel,
+                                    receiving no involvement from Marketing, resulting in a missed opportunity.
                                 </p>
                                 <img src="assets/article-1-img-2.jpg">
-
-                                <p class="article-about">
-                                    Service pauses or cancellations lower subscribers' future value and results in lost
-                                    revenue. <br>
-                                    How do companies get a heads-up on users who are "at-risk"? Users' online activity,
-                                    membership characteristics, and product replies may all be utilized to gauge how far
-                                    along their subscribers are in the cycle. The features are fed into a unique
-                                    clustering algorithm, which creates an "At-Risk" group targeted with marketing
-                                    efforts. Furthermore, there are updates daily and responses to every action taken by
-                                    the user.
-                                </p>
-
                                 <p class="bold-lg">
-                                    3. Estimate revenue growth and Anticipate Trends
+                                    4.Sales Forecasting Based on Scored Leads
                                 </p>
                                 <p class="article-about">
-                                    In every sector, the most excellent approach to obtaining a competitive advantage is
-                                    understanding more about the operations and market factors that impact the business
-                                    than your competitors. Market leaders are distinguished from other companies by
-                                    their increased competitive strength and capacity to do more in less time. <br>
-                                    Predictive analytics allows SaaS businesses to take advantage of chances to engage
-                                    proactively and anticipate results, allowing them to remain ahead of industry
-                                    trends. As a result, based on prior success, they can cross-sell or up-sell their
-                                    services. <br>
-                                    <a target="blank"
-                                        href="https://enterpriseirregulars.com/146504/5-proven-ways-manufacturers-can-get-started-with-analytics/">
-                                        In 2020, 69 percent</a>
-                                    of decision-makers felt analytics would be critical for
-                                    corporate success, and 15% say it is essential for running their organizations
-                                    currently. <br>
-                                    AI-enabled forecasting of trends and important events of interest is possible
-                                    because of the vast amounts of public data created every second worldwide. It opens
-                                    up significant new possibilities for anticipating and addressing challenges in
-                                    diverse marketplaces and proactively minimizing hostile digital risks to any
-                                    company, brand, or customer.
-                                </p>
-                                <p class="bold-lg">
-                                    4. Improving response times
+                                    Forecasting what and when consumers will buy improves planning at all levels in the
+                                    company. With the insight derived from Pinsight, companies can tailor their business
+                                    appropriately to their customers’ needs. <br>
+                                    Conventional forecasting involves a lot of time and human labor, data engineering,
+                                    and analytical knowledge. Even for non-technical teams, AI makes forecasting simple,
+                                    allowing companies to plan, anticipate campaign results, and develop smarter
+                                    budgeting plans. <br>
+                                    With the abundance of accessible client data, AI can customize the entire procedure
+                                    depending on past purchase history. Many organizations employ artificial
+                                    intelligence (AI) in marketing to guide clients through a tailored sales funnel.
+                                    Moreover, Sales funnel optimization is a terrific approach to make salesperson job
+                                    simpler, by discovering bottlenecks in the funnel. Companies that use AI-powered
+                                    sales funnel optimization will inevitably have an edge over their rivals.
                                 </p>
 
-                                <p class="article-about">
-                                    AI is being utilized to recognize a client's requirement and show the appropriate
-                                    information, resulting in best-in-class customer support.
-                                    Businesses have widely deployed AI chatbots to answer consumers' most commonly
-                                    requested inquiries. Companies can significantly enhance the customer experience
-                                    while lowering expenses by answering more than half of frequent queries from the
-                                    beginning. <br>
-                                    Bots are proving to be an excellent approach for many businesses to handle a large
-                                    volume of consumer queries. While it may take some time to set things up, test, and
-                                    improve accuracy, it is suggested to start the process if the company's workforce is
-                                    behind on responding to queries. Bots can also save a lot of money over time if used
-                                    correctly.
-                                </p>
-
-                                <p class="bold-lg">
-                                    5. Making Use of Natural Language Processing
-                                </p>
-                                <p class="article-about">
-                                    Collaborators may use language analysis technologies to gather essential information
-                                    from client feedback and adjust their message accordingly. <br>
-                                    Language analysis is a valuable tool for improving the quality of companies' contact
-                                    center experience. Your agents may use it to determine if the consumer they're
-                                    speaking with is pleased or dissatisfied and correspond to alter their tone and
-                                    actions. <br>
-                                    Behavioral and Analytics Tool (BEAT), an application built by Deloitte for a big
-                                    financial services organization, is a fantastic language analysis example. BEAT
-                                    listens to consumer phone conversations and translates the language and mood of the
-                                    discussion to assess if the client was vulnerable and at risk of a bad outcome.
-                                    Natural language understanding is one way for businesses to use AI (NLU). They can
-                                    comprehend the interaction between the customer care representative and the consumer
-                                    by employing real-time insight into consumer service calls, chats, and emails. AI
-                                    can help better the customer experience by determining the amount of irritation, the
-                                    necessity for referrals, and the speed of resolving problems.
-                                </p>
                             </div>
 
                         </div>

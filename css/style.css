@@ -5321,12 +5321,27 @@ blockquote.wp-block-pullquote p {
     object-fit: cover;
     object-position: 15% 100%;
     margin: 30px 0;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .bold-lg {
   margin: 20px 0;
   font-size: 27px;
   color: #000;
+  line-height: 37px;
+}
+
+.m10 {
+  margin-bottom: 10px !important;
 }
 
 .date img,

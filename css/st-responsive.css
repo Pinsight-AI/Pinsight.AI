@@ -12,6 +12,11 @@
     width: 90%
   }
 
+  
+  .article-container img {
+    width: 70%;
+  }
+
 
 
 }
@@ -231,6 +236,9 @@
   .or-404 {
     margin: 0 auto
   }
+  .article-container img {
+    width: 100%;
+  }
 }
 
 @media (max-width:600px) {
@@ -286,6 +294,8 @@
     font-size: 15px;
     padding: 10px 15px
   }
+
+
 }
 
 @media (max-width:500px) {

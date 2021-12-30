@@ -273,225 +273,171 @@
                             data-widget_type="heading.default">
                             <div style="width: calc(100% - 270px); text-align: left;"
                                 class="elementor-container blog-width">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">5 Ways AI Improve
-                                    Subscription-Based Businesses</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">3 Key Areas When
+                                    Considering the Trade-off Between Accuracy and Explainability. How Is It Solved?
+                                </h2>
                             </div>
                         </div>
                         <div style="width: calc(100% - 270px);" class="blog-width">
                             <div class="flex">
                                 <div class="date ">
                                     <img src="assets/date_range.png" alt="">
-                                    <p>August 14, 2020</p>
+                                    <p>October 15, 2021</p>
                                 </div>
                                 <div class="time ">
                                     <img src="assets/time.png" alt="" srcset="">
-                                    <p>2 min read</p>
+                                    <p>6 min read</p>
                                 </div>
                             </div>
                             <div class="article-container">
                                 <p class="article-about">
-                                    Consumers Purchasing patterns changed from ownership to usership, growing
-                                    subscription business revenue by
-                                    <a target="blank"
-                                        href="https://www.businesswire.com/news/home/20210303005291/en/Subscription-Business-Revenue-Grows-437-Over-Nearly-a-Decade-as-Consumer-Buying-Preferences-Shift-from-Ownership-to-Usership">
-                                        437 percent in a decade
-                                    </a>
-                                    . Businesses are changing to
-                                    include usage-based product lines to shift from manufacturing to a service economy.
-                                    The software as a Service (SaaS) program is an example of a structure that allows
-                                    clients to self-subscribe while offering various payment options, including weekly,
-                                    monthly, and annual payments. The subscription solutions are further enticing by
-                                    using bundled service pricing models to lower the user's software expenditures.
-                                    Pay-as-you-go payment is typical for software services, and it's becoming a popular
-                                    billing approach due to its ease and convenience.
-                                </p>
-                                <img src="assets/article-1-img-4.jpg">
-                                <p class="article-about">
-                                    Companies that leverage AI and data construct extremely successful conversion
-                                    models. Which increases user engagement, customer loyalty and, most crucially, turns
-                                    conversions into revenues. Those companies are at the vanguard of this shift.
-                                    <br>
-                                    AI can help subscription-based businesses in the following ways to be at the
-                                    forefront of this shift: <br>
-                                </p>
-                                <p class="bold-lg">
-                                    1. Marketing and Sales
-                                </p>
-                                <br>
-                                <p class="article-about">
-                                    Sales and marketing departments frequently utilize AI-based solutions such as
-                                    Configure-Price-Quote (CPQ) and Marketing Automation. In the next two years, sales
-                                    executives forecast a
-                                    <a target="blank"
-                                        href="https://www.salesforce.com/form/pdf/state-of-sales-3rd-edition/?d=7010M000000NlJg">155
-                                        percent rise</a>
-                                    in AI uses across sales teams.
-                                </p>
-                                <img src="assets/article-1-img-1.jpg">
-                                <p class="article-about">
-                                    Artificial Intelligence (AI) and machine learning (ML) are essential marketing tools
-                                    for SaaS companies looking to grow revenue by providing tailored client experience.
-                                    Personalization of content and consumer experience are two of the most critical
-                                    growth factors supporting the deployment of AI inside these businesses. <br>
-                                    Customers have learned to demand individualized interactions and experiences in the
-                                    medium or platform. Receiving an automated message promoting a free trial that a
-                                    prospect has previously signed up for with a sales representative shows that the
-                                    company is not listening. Customers pull away for various reasons, the most common
-                                    of which is "irrelevant material." <br>
-                                    It's hard to engage hundreds of leads and consumers with targeted content without
-                                    empowering marketing teams with artificial intelligence. Predictive content
-                                    solutions driven by AI allow marketing teams to become more strategic while reducing
-                                    the workload. The AI-powered marketing tools can scan the business website for blog
-                                    posts, case studies, fact sheets, publications, podcasts, and other content—AI
-                                    forecasts which material will resonate with the prospect and eventually help them
-                                    convert. AI could leverage insights to attract visitors across email, online, and
-                                    social channels for a complete multi-channel strategy. Consequently, organizations
-                                    can offer one-to-one quality marketing that was previously impossible to deliver
-                                    without significant scalability. <br>
-                                    AI-based solutions are now
-                                    <a href="https://www.salesforce.com/form/conf/5th-state-of-marketing/?leadcreated=true&redirect=true&chapter=&DriverCampaignId=cta-body-promo-49&player=&FormCampaignId=7010M000000ZP24QAG&videoId=&playlistId=&mcloudHandlingInstructions=&landing_page=%2Fform%2Fpdf%2F5th-state-of-marketing"
-                                        target="_blank">used by 22% of marketing specialists</a>
+                                    AI has seen many industrial uses in recent years, with machine learning systems
+                                    displaying superhuman capability in various activities. Machine Learning models with
+                                    more significant complications have frequently been used to boost performance,
+                                    generating confusion about how they work and, eventually, how they make judgments.
+                                    Unlike asking people how they arrived at a choice, most AI systems deliver results
+                                    without explicit reasoning for the outcome. <br>
+                                    It is challenging to trust algorithms whose conclusions are hard to explain.
+                                    Explainability aims to comprehend how a machine learning model creates predictions.
+                                    It entails questioning a model, obtaining data on why a particular forecast was
+                                    produced and then presenting that knowledge to people in an understandable way.
+                                    Without the component of explainability, the uncertainty makes it challenging for ML
+                                    systems to be implemented in sensitive yet vital fields, such as healthcare, or
+                                    self-driving vehicles, where the benefits may be enormous, but also ethical and
+                                    justice questions have inevitably emerged. <br>
+                                    The demand for reliable, fair, resilient, and high-performing models for real-world
+                                    applications resurrected the subject of explainable Artificial Intelligence. Many
+                                    firms are unwilling to trust AI technologies if they can't audit the algorithms. AI
+                                    systems that deliver forecasts and explanations would increase trust in the AI
+                                    system and allow the senior business management to participate actively in the
+                                    decision-making process. Hence, the focus of the research in Explainable Artificial
+                                    Intelligence (XAI) has accelerated in recent years. <br>
 
-                                    , with another 57%
-                                    aiming to utilize them in the next two years. From tailored multichannel encounters
-                                    to programmable advertising and media purchasing to forecasted customer journeys.
-                                    The following graph shows nine major use cases that marketing teams are focusing on
-                                    right now.
                                 </p>
-                                <img src="assets/article-1-img-3.jpg">
-                                <p class="article-about">
-                                    On the sales front, AI is assisting businesses in increasing lead numbers while also
-                                    improving overall sales performance. <br>
-                                    Artificial intelligence in sales may help businesses expedite their sales process by
-                                    automating sales performance, tracking sales growth, and engaging with prospects,
-                                    all of which can help improve their conversion rates.
-                                    <br>
-                                    For example, AI automation in sales has assisted in automating purchasing through
-                                    bots, resulting
-                                    <a target="blank"
-                                        href="https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Driving%20impact%20at%20scale%20from%20automation%20and%20AI/Driving-impact-at-scale-from-automation-and-AI.ashx">in
-                                        a reduction of 15 to 20% of expenses</a>
-                                    sourced through e-platforms.
-                                    <br>
-                                    Companies who use artificial intelligence in sales have witnessed –
-                                    <a target="blank"
-                                        href="https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy">according
-                                        to McKinsey:</a>
-                                    <br>
-                                    Leads and appointments increased by 50%. <br>
-                                    Overall expenditures are reduced by 40-60%. <br>
-                                    Call time is reduced by 60-70 percent. <br>
-                                    AI revolutionizes how things are, and keeping up with the competition necessitates
-                                    automation.
-                                </p>
-                                <p class="bold-lg">
-                                    2. Conversational AI Improves Client Retention
-                                </p>
-                                <p class="article-about">
-                                    Natural language processing (NLP) is combined with conventional tools such as
-                                    chatbots, voice assistants, or an engaging speech recognition system to serve
-                                    consumers via a spoken or written interface. <br>
-                                    How do users react when they are put on hold? Most likely, they aren't interested in
-                                    extending the conversation. If it frequently happens at any firm, the business will
-                                    probably lose prospective new and old consumers because of impatience and
-                                    irritation. <br>
-                                    By default, conversational AI replies instantaneously; however, some consumers
-                                    believe the virtual assistant answers too soon; hence conversational AI service
-                                    providers add
-                                    a 1-2 second delay makes the response look more "human." <br>
-                                    Several firms increase the hours their call centers are open to keep up with
-                                    clients. Consumers are becoming more demanding, expecting assistance when required,
-                                    not when the corporation believes it's convenient. <br>
-                                    At the first phase of total digitization, those that have effectively adopted
-                                    conversational AI are already beginning to reduce the necessity of their human
-                                    operators. They are enhancing client happiness by providing an always-accessible
-                                    corporate representative and, in turn, saving money. <br>
-                                    Most marketing specialists acknowledge how difficult it is to reclaim lost
-                                    customers, as well as the hefty expenditures involved. A contemporary marketing
-                                    team's toolset should include a warning system for consumers ready to quit their
-                                    subscription. Instead of being reactive, marketing teams should be proactive.
-                                    Moreover,
-                                    <a target="blank"
-                                        href="https://www.statista.com/statistics/915493/benefits-using-artificial-intelligence-marketing-personalization/">According
-                                        to 82 percent</a>
-                                    of marketing executives, increasing customer
-                                    experience is the most important aspect in their choice to use AI.
-                                </p>
-                                <img src="assets/article-1-img-2.jpg">
+                                <div class="img-wrapper">
+                                    <img src="assets/article3-3.jpg">
+                                </div>
 
                                 <p class="article-about">
-                                    Service pauses or cancellations lower subscribers' future value and results in lost
-                                    revenue. <br>
-                                    How do companies get a heads-up on users who are "at-risk"? Users' online activity,
-                                    membership characteristics, and product replies may all be utilized to gauge how far
-                                    along their subscribers are in the cycle. The features are fed into a unique
-                                    clustering algorithm, which creates an "At-Risk" group targeted with marketing
-                                    efforts. Furthermore, there are updates daily and responses to every action taken by
-                                    the user.
-                                </p>
+                                    Many people are beginning to argue that individuals are entitled to comprehend the
+                                    algorithms that make decisions that impact them. Businesses must be able to
+                                    recognize when the AI models go wrong. Consider a scenario in which an AI system
+                                    with no explanation correctly forecasts a 28% drop in shop sales next month. The
+                                    business leadership team still requires a description of the AI system's
+                                    recommendation. To know the effecting factors and enhance them. <br>
+                                    Finding the appropriate balance between explaining what's happening in their
+                                    algorithms and developing them sophisticated enough to make correct conclusions is a
+                                    massive issue for data scientists. As AI becomes more integrated into our culture,
+                                    the judgments made by machine learning algorithms will become more critical. <br>
+                                    Simultaneously, the deep learning algorithms behind those judgments try to gather
+                                    insights from massive quantities of data in ways we don't fully comprehend. How can
+                                    we describe what happens within a neural network that analyzes terabytes of data and
+                                    draws conclusions?
 
-                                <p class="bold-lg">
-                                    3. Estimate revenue growth and Anticipate Trends
-                                </p>
-                                <p class="article-about">
-                                    In every sector, the most excellent approach to obtaining a competitive advantage is
-                                    understanding more about the operations and market factors that impact the business
-                                    than your competitors. Market leaders are distinguished from other companies by
-                                    their increased competitive strength and capacity to do more in less time. <br>
-                                    Predictive analytics allows SaaS businesses to take advantage of chances to engage
-                                    proactively and anticipate results, allowing them to remain ahead of industry
-                                    trends. As a result, based on prior success, they can cross-sell or up-sell their
-                                    services. <br>
-                                    <a target="blank"
-                                        href="https://enterpriseirregulars.com/146504/5-proven-ways-manufacturers-can-get-started-with-analytics/">
-                                        In 2020, 69 percent</a>
-                                    of decision-makers felt analytics would be critical for
-                                    corporate success, and 15% say it is essential for running their organizations
-                                    currently. <br>
-                                    AI-enabled forecasting of trends and important events of interest is possible
-                                    because of the vast amounts of public data created every second worldwide. It opens
-                                    up significant new possibilities for anticipating and addressing challenges in
-                                    diverse marketplaces and proactively minimizing hostile digital risks to any
-                                    company, brand, or customer.
+
                                 </p>
                                 <p class="bold-lg">
-                                    4. Improving response times
+                                    1. Black Box Vs. Glass Box
                                 </p>
 
                                 <p class="article-about">
-                                    AI is being utilized to recognize a client's requirement and show the appropriate
-                                    information, resulting in best-in-class customer support.
-                                    Businesses have widely deployed AI chatbots to answer consumers' most commonly
-                                    requested inquiries. Companies can significantly enhance the customer experience
-                                    while lowering expenses by answering more than half of frequent queries from the
-                                    beginning. <br>
-                                    Bots are proving to be an excellent approach for many businesses to handle a large
-                                    volume of consumer queries. While it may take some time to set things up, test, and
-                                    improve accuracy, it is suggested to start the process if the company's workforce is
-                                    behind on responding to queries. Bots can also save a lot of money over time if used
-                                    correctly.
+                                    While trying to describe how a model works, people will usually find themselves in
+                                    one of two situations: <br>
+                                    1. The black box model where people don't have access to knowledge of the underlying
+                                    model. <br> They can only create an explanation using the model's inputs and
+                                    outputs. <br>
+                                    2. The glass box where people have access to the underlying model, and it's much
+                                    easier to explain why AI made a particular prediction.
                                 </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article3-1.jpg">
+                                </div>
+                                <p class="article-about">
+                                    Moreover, when it comes to explainability, we're usually looking for one of two
+                                    things: <br>
+                                    View of the model. What characteristics are more significant to the model than
+                                    others? <br>
+                                    View by Instance. What variables influence a particular prediction?
+                                    The explainability strategies vary depending on whether the model is a black box or
+                                    a white box and the data people are looking at. Overall, "white box" (glass box)
+                                    models are simpler in design. They are more explainable and understandable. They
+                                    also yield explainable results and are often done intentionally to make it easier to
+                                    create explanations—typical examples are linear and decision tree-based models.
+                                    The disadvantage is that simplified, more understandable models are not as powerful
+                                    and therefore fall short of achieving state-of-the-art performance compared to the
+                                    black box methods that represent the complexity of the connections in data. This
+                                    trade-off forces people to choose between interpretability and performance.
 
+                                </p>
                                 <p class="bold-lg">
-                                    5. Making Use of Natural Language Processing
+                                    2. Double Edge Sword
                                 </p>
                                 <p class="article-about">
-                                    Collaborators may use language analysis technologies to gather essential information
-                                    from client feedback and adjust their message accordingly. <br>
-                                    Language analysis is a valuable tool for improving the quality of companies' contact
-                                    center experience. Your agents may use it to determine if the consumer they're
-                                    speaking with is pleased or dissatisfied and correspond to alter their tone and
-                                    actions. <br>
-                                    Behavioral and Analytics Tool (BEAT), an application built by Deloitte for a big
-                                    financial services organization, is a fantastic language analysis example. BEAT
-                                    listens to consumer phone conversations and translates the language and mood of the
-                                    discussion to assess if the client was vulnerable and at risk of a bad outcome.
-                                    Natural language understanding is one way for businesses to use AI (NLU). They can
-                                    comprehend the interaction between the customer care representative and the consumer
-                                    by employing real-time insight into consumer service calls, chats, and emails. AI
-                                    can help better the customer experience by determining the amount of irritation, the
-                                    necessity for referrals, and the speed of resolving problems.
+                                    AI more explainable systems are less accurate, whereas more accurate models are less
+                                    explainable. More complex algorithms have become capable of extracting information
+                                    from more extensive data sets, contextualizing it, and formulating more complex
+                                    answers. Also, it has been used to produce higher accuracy. Hence, AI explainability
+                                    becomes a two-edged sword: although it improves the ability to check and question
+                                    the results, it also raises the risk of inaccuracies. The simplified algorithm can
+                                    generate more consistent results, but it might cause less accurate results if it's
+                                    not appropriately calibrated since it takes in fewer data inputs. As a result,
+                                    businesses impacted by derived judgments may not consider increased explainability a
+                                    good thing. In the opinion of some experts, Businesses shouldn't simplify down all
+                                    algorithms to linear models only to make them more understandable.
+                                    Instead, it's essential to consider the trade-offs that come with designing for
+                                    explainability.
+
                                 </p>
+                                <div class="img-wrapper">
+                                    
+                                    <img src="assets/article3-2.jpg">
+                                </div>
+                                <p class="article-about">
+                                    The deep learning paradigm, which is at the core of most cutting-edge ML models, is
+                                    an excellent example. It enables computers to autonomously explore, learn, and
+                                    retrieve the hierarchical representations of data required for segmentation and
+                                    classification tasks. This hierarchy of growing complexity enhances the systems'
+                                    predictive capability. It intrinsically lowers their power to explain its internal
+                                    workings and methods in most circumstances. <br>
+
+                                    As a result, the reasoning behind such actions becomes more challenging to
+                                    comprehend, making their projections more challenging to interpret. There is an
+                                    evident trade-off between a machine learning model's ability to deliver explainable
+                                    predictions and performance. In the end, decelerating and comprehending what is
+                                    being done could be the answer to constructing AI models we can trust. Rather than
+                                    rushing toward complexity to automate everything, it's better to examine people's
+                                    roles in the decision-making process.
+
+                                </p>
+                                <p class="bold-lg">
+                                    3. Why is Explainability Important
+                                </p>
+
+                                <p class="article-about">
+                                    Bias Reduction <br>
+                                    Bias may affect ML systems at any point in their development. Let's look at an
+                                    instance of how the environment around us may introduce historical bias into data:
+                                    Assume creating a predictive model to predict the next word in a textual series. A
+                                    data scientist <br>
+                                    gives every published article within the last ten years to ensure enough data to
+                                    train. We search "The Nurse's name is…. "and ask it to guess the following word in
+                                    the phrase. <br>
+                                    Then, people will observe and see that the model is considerably inclined to predict
+                                    female names than male names. What has occurred is that accidentally historical
+                                    preconceptions that exist in our culture were baked into the model.
+
+                                </p>
+                                <!-- <img src="" alt=""> -->
+                                <p class="article-about">
+                                    However, bias isn't limited to the data; it may also arise in the model.
+                                    An excellent example is training face recognition models and testing them using
+                                    photographs from TikTok. The bulk of TikTok users are between the ages of 10 and 29.
+                                    Hence, the model may have excellent accuracy on the test but will likely fail to
+                                    perform in the real world. The model is skewed towards a specific age range, and it
+                                    will underperform on older or younger people's faces.
+
+                                </p>
+
                             </div>
 
                         </div>

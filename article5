@@ -273,224 +273,148 @@
                             data-widget_type="heading.default">
                             <div style="width: calc(100% - 270px); text-align: left;"
                                 class="elementor-container blog-width">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">5 Ways AI Improve
-                                    Subscription-Based Businesses</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">How to Predict
+                                    Subscription Cancellation With the Help of AI</h2>
                             </div>
                         </div>
                         <div style="width: calc(100% - 270px);" class="blog-width">
                             <div class="flex">
                                 <div class="date ">
                                     <img src="assets/date_range.png" alt="">
-                                    <p>August 14, 2020</p>
+                                    <p>December 1, 2021</p>
                                 </div>
                                 <div class="time ">
                                     <img src="assets/time.png" alt="" srcset="">
-                                    <p>2 min read</p>
+                                    <p>4 min read</p>
                                 </div>
                             </div>
                             <div class="article-container">
                                 <p class="article-about">
-                                    Consumers Purchasing patterns changed from ownership to usership, growing
-                                    subscription business revenue by
-                                    <a target="blank"
-                                        href="https://www.businesswire.com/news/home/20210303005291/en/Subscription-Business-Revenue-Grows-437-Over-Nearly-a-Decade-as-Consumer-Buying-Preferences-Shift-from-Ownership-to-Usership">
-                                        437 percent in a decade
-                                    </a>
-                                    . Businesses are changing to
-                                    include usage-based product lines to shift from manufacturing to a service economy.
-                                    The software as a Service (SaaS) program is an example of a structure that allows
-                                    clients to self-subscribe while offering various payment options, including weekly,
-                                    monthly, and annual payments. The subscription solutions are further enticing by
-                                    using bundled service pricing models to lower the user's software expenditures.
-                                    Pay-as-you-go payment is typical for software services, and it's becoming a popular
-                                    billing approach due to its ease and convenience.
+                                    A lost customer has a global average worth of $243. Moreover, selling to an existing
+                                    client has a success rate of 60-70 percent, whereas selling to a new customer has a
+                                    success rate of only 5-20 percent! While companies hope that 100% of their consumers
+                                    will stay, it is unattainable due to customer churn. Customer churn is amongst the
+                                    essential vital metrics to measure in a company. It is a figure that can reveal the
+                                    hard facts about a company's client retention. Changes in a corporation's churn rate
+                                    may indicate that something is going well (if the number decreases) or something
+                                    needs to be addressed (if the rate increases). The churn rate is crucial for the
+                                    majority of SaaS and telecom products. Since they are subscription-based, the
+                                    business's income is determined by how many customers subscribe monthly, weekly, or
+                                    yearly.
                                 </p>
-                                <img src="assets/article-1-img-4.jpg">
+                                <div class="img-wrapper">
+                                    <img src="assets/article5-1.png">
+                                </div>
+                                <p class="bold-lg">
+                                    Why Should Companies Care About Their Churn Rate?
+                                </p>
                                 <p class="article-about">
-                                    Companies that leverage AI and data construct extremely successful conversion
-                                    models. Which increases user engagement, customer loyalty and, most crucially, turns
-                                    conversions into revenues. Those companies are at the vanguard of this shift.
+                                    It costs five to 25 times more to acquire a new client than to keep an existing one.
+                                    Every time a client departs, a large amount of investment is lost. It is necessary
+                                    to devote both time and effort to their replacement. By forecasting churn,
+                                    businesses can save time and money by not investing in acquiring new customers;
+                                    instead, they can focus on keeping those they already have satisfied. To put the
+                                    importance of churn in your business into perspective, consider the following: <br>
+                                    Increasing client retention rates by 5% boosts earnings by 25% to 95%. Furthermore,
+                                    if two firms expand at the same pace of 50% per year, with only a churn rate of 5%
+                                    vs. 15%, the greater churn rate would have lost nearly 50% of its potential revenue
+                                    after five years. As a result, knowing when a client is inclined to leave will save
+                                    organizations a lot of money. <br>
+                                    For instance each store, as the graph shows, has 100 clients buying a $10 item each
+                                    month. The purple shop theoretically retains 5% of those consumers each month,
+                                    whereas the dark purple store retains 10%. As you'll see, a 5% increase can lead to
+                                    significant expansion that is impossible to match through acquisition alone.
+
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article5-2.jpg">
+                                </div>
+                                <p class="bold-lg">
+                                    How Can AI Help?
+                                </p>
+                                <p class="article-about">
+                                    Having a warning on customers that are about to terminate their membership will be a
+                                    huge advantage for businesses. Artificial Intelligence (AI) can make subscription
+                                    business process management proactive rather than reactive. It incorporates
+                                    data-driven insight that can recommend appropriate action steps at the correct time
+                                    for the right department to act on the right lead or client. AI gives the most
+                                    assistance in keeping subscribers on the platform and contributing to the recurring
+                                    income stream. <br>
+                                    Machine Learning (ML) and Deep Learning (DL), as subsets of AI, are increasingly
+                                    utilized in subscription management to identify, predict, and mitigate threats to
+                                    recurring revenue growth, brand evolution, and company development.
+                                    Subscription-based companies can use AI-powered data to discover the reasoning
+                                    behind subscription cancellations and product attributes. <br>
+                                    Machine learning algorithms find and discover complicated patterns in
+                                    high-dimensional data related to one of two outcomes: whether or not the consumer
+                                    cancels. The learned patterns are then applied to current data in which the outcome
+                                    is unknown. A likelihood of one of the two outcomes will be shown based on how well
+                                    the patterns line up with the current data. It maximizes the performance by
+                                    maximizing the productivity and efficiency of product management, sales, marketing,
+                                    and support teams.
+                                </p>
+                                <p class="bold-lg">
+                                    What is Needed From Businesses?
+                                </p>
+
+                                <p class="article-about">
+                                    The results may be obtained without individuals knowing how to code or having a
+                                    technical understanding of machine learning. Companies are required to provide a
+                                    tabular dataset containing quantitative data. Pinsight is the pioneer in the
+                                    industry that works with companies raw and uncleaned data. The more data an
+                                    organization has, the more accurate its forecasts will be; also, rather than static
+                                    data, in a churn prediction model, it is better to use real-time data to assess the
+                                    probability of customers churning. It will be possible to identify a certain
+                                    proportion of at-risk clients using static data, but real-time data will allow more
+                                    precise forecasts. <br>
+                                    Moreover, a mix of the following will be required to make accurate predictions: <br>
+                                    ● Basic demographic: For each customer, Basic data such as location, gender, age is
+                                    collected <br>
+                                    ● Goods/service information: which product/service did people buy, and how much did
+                                    it cost? <br>
+                                    ● Customer behavior: includes the number of times a customer has visited, called,
+                                    accessed your website, and so on <br>
+                                    ● Time: When a consumer first became a customer and when previous clients departed.
                                     <br>
-                                    AI can help subscription-based businesses in the following ways to be at the
-                                    forefront of this shift: <br>
+                                    Other contextual variables with which it would be interesting to find connections
+                                    are: <br>
+                                    ● Overdue balances. <br>
+                                    ● Credit rating. <br>
+                                    ● Profits from users. <br>
+                                    ● Name of the business. <br>
+                                    ● Type of device. <br>
+                                    ● The utilized time for using the product. <br>
+
                                 </p>
                                 <p class="bold-lg">
-                                    1. Marketing and Sales
+                                    How Can Churn Prediction Improve the Productivity of Different Departments?
                                 </p>
-                                <br>
                                 <p class="article-about">
-                                    Sales and marketing departments frequently utilize AI-based solutions such as
-                                    Configure-Price-Quote (CPQ) and Marketing Automation. In the next two years, sales
-                                    executives forecast a
-                                    <a target="blank"
-                                        href="https://www.salesforce.com/form/pdf/state-of-sales-3rd-edition/?d=7010M000000NlJg">155
-                                        percent rise</a>
-                                    in AI uses across sales teams.
-                                </p>
-                                <img src="assets/article-1-img-1.jpg">
-                                <p class="article-about">
-                                    Artificial Intelligence (AI) and machine learning (ML) are essential marketing tools
-                                    for SaaS companies looking to grow revenue by providing tailored client experience.
-                                    Personalization of content and consumer experience are two of the most critical
-                                    growth factors supporting the deployment of AI inside these businesses. <br>
-                                    Customers have learned to demand individualized interactions and experiences in the
-                                    medium or platform. Receiving an automated message promoting a free trial that a
-                                    prospect has previously signed up for with a sales representative shows that the
-                                    company is not listening. Customers pull away for various reasons, the most common
-                                    of which is "irrelevant material." <br>
-                                    It's hard to engage hundreds of leads and consumers with targeted content without
-                                    empowering marketing teams with artificial intelligence. Predictive content
-                                    solutions driven by AI allow marketing teams to become more strategic while reducing
-                                    the workload. The AI-powered marketing tools can scan the business website for blog
-                                    posts, case studies, fact sheets, publications, podcasts, and other content—AI
-                                    forecasts which material will resonate with the prospect and eventually help them
-                                    convert. AI could leverage insights to attract visitors across email, online, and
-                                    social channels for a complete multi-channel strategy. Consequently, organizations
-                                    can offer one-to-one quality marketing that was previously impossible to deliver
-                                    without significant scalability. <br>
-                                    AI-based solutions are now
-                                    <a href="https://www.salesforce.com/form/conf/5th-state-of-marketing/?leadcreated=true&redirect=true&chapter=&DriverCampaignId=cta-body-promo-49&player=&FormCampaignId=7010M000000ZP24QAG&videoId=&playlistId=&mcloudHandlingInstructions=&landing_page=%2Fform%2Fpdf%2F5th-state-of-marketing"
-                                        target="_blank">used by 22% of marketing specialists</a>
+                                    Companies may focus on the consumers who are most likely to leave the firm with the
+                                    help of AI's machine learning algorithms, increasing client retention and directly
+                                    impacting the bottom line. Rather than wasting time and effort contacting all of
+                                    their clients to boost retention, it will be apparent what customer the company
+                                    should contact first. <br>
+                                    Pinsight can find links between user churning and product qualities using the
+                                    company's data. Product managers, customer success managers, sales teams, and
+                                    designers will all benefit from it. <br>
+                                    Companies will optimize their product/service to reduce churn and boost retention to
+                                    increase revenue once Pinsight detects connections between attributes.
 
-                                    , with another 57%
-                                    aiming to utilize them in the next two years. From tailored multichannel encounters
-                                    to programmable advertising and media purchasing to forecasted customer journeys.
-                                    The following graph shows nine major use cases that marketing teams are focusing on
-                                    right now.
-                                </p>
-                                <img src="assets/article-1-img-3.jpg">
-                                <p class="article-about">
-                                    On the sales front, AI is assisting businesses in increasing lead numbers while also
-                                    improving overall sales performance. <br>
-                                    Artificial intelligence in sales may help businesses expedite their sales process by
-                                    automating sales performance, tracking sales growth, and engaging with prospects,
-                                    all of which can help improve their conversion rates.
-                                    <br>
-                                    For example, AI automation in sales has assisted in automating purchasing through
-                                    bots, resulting
-                                    <a target="blank"
-                                        href="https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Driving%20impact%20at%20scale%20from%20automation%20and%20AI/Driving-impact-at-scale-from-automation-and-AI.ashx">in
-                                        a reduction of 15 to 20% of expenses</a>
-                                    sourced through e-platforms.
-                                    <br>
-                                    Companies who use artificial intelligence in sales have witnessed –
-                                    <a target="blank"
-                                        href="https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy">according
-                                        to McKinsey:</a>
-                                    <br>
-                                    Leads and appointments increased by 50%. <br>
-                                    Overall expenditures are reduced by 40-60%. <br>
-                                    Call time is reduced by 60-70 percent. <br>
-                                    AI revolutionizes how things are, and keeping up with the competition necessitates
-                                    automation.
                                 </p>
                                 <p class="bold-lg">
-                                    2. Conversational AI Improves Client Retention
+                                    How to Obtain State-of-the-Art Churn Predictions?
                                 </p>
                                 <p class="article-about">
-                                    Natural language processing (NLP) is combined with conventional tools such as
-                                    chatbots, voice assistants, or an engaging speech recognition system to serve
-                                    consumers via a spoken or written interface. <br>
-                                    How do users react when they are put on hold? Most likely, they aren't interested in
-                                    extending the conversation. If it frequently happens at any firm, the business will
-                                    probably lose prospective new and old consumers because of impatience and
-                                    irritation. <br>
-                                    By default, conversational AI replies instantaneously; however, some consumers
-                                    believe the virtual assistant answers too soon; hence conversational AI service
-                                    providers add
-                                    a 1-2 second delay makes the response look more "human." <br>
-                                    Several firms increase the hours their call centers are open to keep up with
-                                    clients. Consumers are becoming more demanding, expecting assistance when required,
-                                    not when the corporation believes it's convenient. <br>
-                                    At the first phase of total digitization, those that have effectively adopted
-                                    conversational AI are already beginning to reduce the necessity of their human
-                                    operators. They are enhancing client happiness by providing an always-accessible
-                                    corporate representative and, in turn, saving money. <br>
-                                    Most marketing specialists acknowledge how difficult it is to reclaim lost
-                                    customers, as well as the hefty expenditures involved. A contemporary marketing
-                                    team's toolset should include a warning system for consumers ready to quit their
-                                    subscription. Instead of being reactive, marketing teams should be proactive.
-                                    Moreover,
-                                    <a target="blank"
-                                        href="https://www.statista.com/statistics/915493/benefits-using-artificial-intelligence-marketing-personalization/">According
-                                        to 82 percent</a>
-                                    of marketing executives, increasing customer
-                                    experience is the most important aspect in their choice to use AI.
-                                </p>
-                                <img src="assets/article-1-img-2.jpg">
-
-                                <p class="article-about">
-                                    Service pauses or cancellations lower subscribers' future value and results in lost
-                                    revenue. <br>
-                                    How do companies get a heads-up on users who are "at-risk"? Users' online activity,
-                                    membership characteristics, and product replies may all be utilized to gauge how far
-                                    along their subscribers are in the cycle. The features are fed into a unique
-                                    clustering algorithm, which creates an "At-Risk" group targeted with marketing
-                                    efforts. Furthermore, there are updates daily and responses to every action taken by
-                                    the user.
-                                </p>
-
-                                <p class="bold-lg">
-                                    3. Estimate revenue growth and Anticipate Trends
-                                </p>
-                                <p class="article-about">
-                                    In every sector, the most excellent approach to obtaining a competitive advantage is
-                                    understanding more about the operations and market factors that impact the business
-                                    than your competitors. Market leaders are distinguished from other companies by
-                                    their increased competitive strength and capacity to do more in less time. <br>
-                                    Predictive analytics allows SaaS businesses to take advantage of chances to engage
-                                    proactively and anticipate results, allowing them to remain ahead of industry
-                                    trends. As a result, based on prior success, they can cross-sell or up-sell their
-                                    services. <br>
-                                    <a target="blank"
-                                        href="https://enterpriseirregulars.com/146504/5-proven-ways-manufacturers-can-get-started-with-analytics/">
-                                        In 2020, 69 percent</a>
-                                    of decision-makers felt analytics would be critical for
-                                    corporate success, and 15% say it is essential for running their organizations
-                                    currently. <br>
-                                    AI-enabled forecasting of trends and important events of interest is possible
-                                    because of the vast amounts of public data created every second worldwide. It opens
-                                    up significant new possibilities for anticipating and addressing challenges in
-                                    diverse marketplaces and proactively minimizing hostile digital risks to any
-                                    company, brand, or customer.
-                                </p>
-                                <p class="bold-lg">
-                                    4. Improving response times
-                                </p>
-
-                                <p class="article-about">
-                                    AI is being utilized to recognize a client's requirement and show the appropriate
-                                    information, resulting in best-in-class customer support.
-                                    Businesses have widely deployed AI chatbots to answer consumers' most commonly
-                                    requested inquiries. Companies can significantly enhance the customer experience
-                                    while lowering expenses by answering more than half of frequent queries from the
-                                    beginning. <br>
-                                    Bots are proving to be an excellent approach for many businesses to handle a large
-                                    volume of consumer queries. While it may take some time to set things up, test, and
-                                    improve accuracy, it is suggested to start the process if the company's workforce is
-                                    behind on responding to queries. Bots can also save a lot of money over time if used
-                                    correctly.
-                                </p>
-
-                                <p class="bold-lg">
-                                    5. Making Use of Natural Language Processing
-                                </p>
-                                <p class="article-about">
-                                    Collaborators may use language analysis technologies to gather essential information
-                                    from client feedback and adjust their message accordingly. <br>
-                                    Language analysis is a valuable tool for improving the quality of companies' contact
-                                    center experience. Your agents may use it to determine if the consumer they're
-                                    speaking with is pleased or dissatisfied and correspond to alter their tone and
-                                    actions. <br>
-                                    Behavioral and Analytics Tool (BEAT), an application built by Deloitte for a big
-                                    financial services organization, is a fantastic language analysis example. BEAT
-                                    listens to consumer phone conversations and translates the language and mood of the
-                                    discussion to assess if the client was vulnerable and at risk of a bad outcome.
-                                    Natural language understanding is one way for businesses to use AI (NLU). They can
-                                    comprehend the interaction between the customer care representative and the consumer
-                                    by employing real-time insight into consumer service calls, chats, and emails. AI
-                                    can help better the customer experience by determining the amount of irritation, the
-                                    necessity for referrals, and the speed of resolving problems.
+                                    The approach of making predictions in the machine learning realm would be to prepare
+                                    and clean data, develop a Logistic Regression model, train and test it, and then
+                                    start generating predictions. However, Pinsight adopts a more straightforward
+                                    technique: it takes companies' big data in raw format afterwards the user only has
+                                    to press a few buttons, and voila, they'll get their predictions. <br>
+                                    Most organizations do not have the resources or funding to implement AI in their
+                                    operations on their own, which is why Pinsight is an excellent tool since companies
+                                    can leverage
+                                    AI and machine learning without the hefty work, risk, or high implementation price.
                                 </p>
                             </div>
 

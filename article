@@ -281,11 +281,11 @@
                             <div class="flex">
                                 <div class="date ">
                                     <img src="assets/date_range.png" alt="">
-                                    <p>August 14, 2020</p>
+                                    <p>November 15, 2021</p>
                                 </div>
                                 <div class="time ">
                                     <img src="assets/time.png" alt="" srcset="">
-                                    <p>2 min read</p>
+                                    <p>7 min read</p>
                                 </div>
                             </div>
                             <div class="article-container">
@@ -305,7 +305,9 @@
                                     Pay-as-you-go payment is typical for software services, and it's becoming a popular
                                     billing approach due to its ease and convenience.
                                 </p>
-                                <img src="assets/article-1-img-4.jpg">
+                                <div class="img-wrapper">
+                                    <img src="assets/article-1-img-4.jpg">
+                                </div>
                                 <p class="article-about">
                                     Companies that leverage AI and data construct extremely successful conversion
                                     models. Which increases user engagement, customer loyalty and, most crucially, turns
@@ -358,7 +360,9 @@
                                     The following graph shows nine major use cases that marketing teams are focusing on
                                     right now.
                                 </p>
-                                <img src="assets/article-1-img-3.jpg">
+                                <div class="img-wrapper">
+                                    <img src="assets/article-1-img-3.jpg">
+                                </div>
                                 <p class="article-about">
                                     On the sales front, AI is assisting businesses in increasing lead numbers while also
                                     improving overall sales performance. <br>
@@ -417,8 +421,9 @@
                                     of marketing executives, increasing customer
                                     experience is the most important aspect in their choice to use AI.
                                 </p>
-                                <img src="assets/article-1-img-2.jpg">
-
+                                <div class="img-wrapper">
+                                    <img src="assets/article-1-img-2.jpg">
+                                </div>
                                 <p class="article-about">
                                     Service pauses or cancellations lower subscribers' future value and results in lost
                                     revenue. <br>
