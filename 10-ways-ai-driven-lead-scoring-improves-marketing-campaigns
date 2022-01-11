@@ -270,169 +270,124 @@
                         <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
-                            data-widget_type="heading.default" style="margin-bottom: 0 !important;">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Blog</h2>
+                            data-widget_type="heading.default">
+                            <div style="width: calc(100% - 270px); text-align: left;"
+                                class="elementor-container blog-width">
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">10 Ways AI-driven Lead Scoring Improves the Efficiency of Your Marketing Campaigns</h2>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
-                            data-id="80285bd" data-element_type="widget"
-                            data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                            data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator">
-                                    </span>
+                        <div style="width: calc(100% - 270px);" class="blog-width">
+                            <div class="flex">
+                                <div class="date ">
+                                    <img src="assets/date_range.png" alt="">
+                                    <p>November 1, 2021</p>
+                                </div>
+                                <div class="time ">
+                                    <img src="assets/time.png" alt="" srcset="">
+                                    <p>5 min read</p>
                                 </div>
                             </div>
-                        </div>
-                        <div style="width: calc(100% - 270px);"
-                            class="elementor-container elementor-column-gap-default blog-width">
-                            <ul class="article-list">
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-1.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Traditional Lead Scoring vs Predictive Lead
-                                            Scoring</span>
-                                        <span class="article-content"> According to a Hubspot survey, obtaining leads
-                                            and boosting revenue is the main difficulty for 65 percent of businesses.
-                                            Moreover, prospecting and lead qualifying are the main challenges...</span>
-                                        <span class="article-date">December 15, 2020</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container ">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="what-is-predictive-lead-scoring"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-5.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">How to Predict Subscription Cancellation With the
-                                            Help of AI</span>
-                                        <span class="article-content">A lost customer has a global average worth of
-                                            $243. Moreover, selling to an existing client has a success rate of 60-70
-                                            percent...</span>
-                                        <span class="article-date m10">December 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container mt-md">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="how-to-predict-subscribtion-cancellation-with-ai"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-3.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">5 Ways AI Improve Subscription-Based
-                                            Businesses</span>
-                                        <span class="article-content">Consumers Purchasing patterns changed from
-                                            ownership to usership, growing subscription business revenue by...</span>
-                                        <span class="article-date">November 15, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="mt-md elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="5-ways-ai-improves-subscription-based-businesses"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-2.jpg" alt="Photo by Tima Miroshnichenko from Pexels"
-                                            width="0" height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Ten Ways AI-driven Lead Scoring Improve the
-                                            Efficiency of Your Marketing Campaigns</span>
-                                        <span class="article-content">sales and marketing can suffer significantly due
-                                            to
-                                            poor lead prioritization, with
-                                            missed sales objectives, discouraged sales teams...</span>
-                                        <span class="article-date">November 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="10-ways-ai-driven-lead-scoring-improves-marketing-campaigns"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img down-img">
-                                        <img src="assets/article-4.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">3 Key Areas When Considering the Trade-off
-                                            BetweenAccuracy and Explainability. How Is It Solved?</span>
-                                        <span class="article-content">Gone were the days when election campaigns are
-                                            executed by communicating the same political message to groups of audiences
-                                            across...</span>
-                                        <span class="article-date">October 15, 2021</span>
-                                        <div class="absolute elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper ">
-                                                    <a href="accuracy-explainability-3-key-areas"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <div class="article-container">
+                                <p class="article-about">
+                                    Sales and marketing can suffer significantly due to poor lead prioritization, with
+                                    missed sales objectives, discouraged sales teams, and destroyed teamwork. While 61%
+                                    of marketing specialists rank lead generation as a primary challenge and dedicating
+                                    53% of their budget to it, poor lead quality can lead to sales burnout and high
+                                    turnover, requiring further training and the hiring of additional salespeople to
+                                    fill the pipeline. <br>
+                                    Companies have used different marketing approaches for years, one of which,
+                                    data-driven marketing, has developed to become the norm for improving lead
+                                    generation, validation, and engagement. Businesses have used this method to make
+                                    predictions about possible consumers based on criteria like demographics or
+                                    firmographics. This data is gathered and evaluated to create a picture of where this
+                                    lead is in their purchase process and what activities are required to help them
+                                    along. <br>
+                                    This method, along with a lead score system, has been used by marketing teams to
+                                    categorize leads based on their sales readiness and determine when a sales
+                                    professional must intervene and take over. <br>
+
+                                    Predictive lead scoring uses big data and ML algorithms to assess specific behaviors
+                                    of existing clients and prospects and rate them on a scale that can identify who is
+                                    more likely to convert, stay, or purchase the products and services. <br>
+                                </p>
+                                <!-- <img src="assets/article-1-img-4.jpg"> -->
+                                <p class="bold-lg">
+                                    1.Automation
+                                </p>
+                                <br>
+                                <p class="article-about">
+                                    Marketing specialists can use AI to automatically select the best leads for a
+                                    company and send them to the appropriate department. They may readily assess the
+                                    effectiveness of each advertising medium. Operations can analyze open-ended text to
+                                    automate and optimize each interaction. <br>
+                                    Sales representatives can focus their time and efforts on the ideal contacts who
+                                    will create the highest income, making their tasks much more efficient, thanks to AI
+                                    automation. Also they can spend more time creating unique campaigns and strategies
+                                    to expand their brand by automating routine work.
+
+                                </p>
+                                <!-- <img src="assets/article2-1.png"> -->
+
+                                <p class="bold-lg">
+                                    2.Faster Decision Making by Identifying Qualified Leads
+                                </p>
+                                <p class="article-about">
+                                    Predictive lead scoring driven by AI improves the efficiency of lead generation by
+                                    intuitively selecting the most engaged and qualified leads. Predictive lead score
+                                    analyzes how qualified a potential lead is based on demographics, social
+                                    information, and behavioral data. Instead of waiting for periodic and out-of-date
+                                    evaluations and recaps, companies can swiftly and efficiently modify the marketing
+                                    funnel and expenditure. <br> Therefore, both marketing and sales teams will
+                                    prioritize
+                                    the most significant prospects and can quickly uncover which sources provide leads
+                                    with the highest buying intent with enhanced lead scoring. Artificial intelligence
+                                    (AI) makes it easier to examine the marketing strategies and campaigns and identify
+                                    which features produce leads and which should not be included. The final results are
+                                    consistent and illustrates progress from one campaign to another. <br>
+                                    Consider the following scenario: The sales staff are working through 1,000 leads.
+                                    It's challenging to identify which leads to tackle first if they aren't scored. The
+                                    sales staff would know exactly how to approach the list with lead scoring backed by
+                                    machine learning algorithms. During the process timing is crucial since according to
+                                    a study, the sooner you contact a consumer, the more inclined they will be to set a
+                                    meeting and convert.
+                                </p>
+                                <!-- <img src="assets/article-1-img-3.jpg"> -->
+                                <p class="bold-lg">
+                                    3.Proper Lead Scoring Models
+                                </p>
+                                <p class="article-about">
+                                    When new leads are obtained, they are given a score that may not accurately reflect
+                                    the lead's preparedness or desire to meet with a sales representative. For instance,
+                                    a lead may obtain a high score if they engage with bottom-of-the-funnel content,
+                                    suggesting that they have completed their decision-making process and therefore are
+                                    ready to buy. It results in an immediate transfer to a sales professional, leading
+                                    to a 'false positive,' in which the lead is not prepared and was scored incorrectly,
+                                    resulting in the lead being turned off and the opportunity being lost. On the other
+                                    hand, a lead might be overlooked and therefore held at the top of the funnel,
+                                    receiving no involvement from Marketing, resulting in a missed opportunity.
+                                </p>
+                                <img src="assets/article-1-img-2.jpg">
+                                <p class="bold-lg">
+                                    4.Sales Forecasting Based on Scored Leads
+                                </p>
+                                <p class="article-about">
+                                    Forecasting what and when consumers will buy improves planning at all levels in the
+                                    company. With the insight derived from Pinsight, companies can tailor their business
+                                    appropriately to their customers’ needs. <br>
+                                    Conventional forecasting involves a lot of time and human labor, data engineering,
+                                    and analytical knowledge. Even for non-technical teams, AI makes forecasting simple,
+                                    allowing companies to plan, anticipate campaign results, and develop smarter
+                                    budgeting plans. <br>
+                                    With the abundance of accessible client data, AI can customize the entire procedure
+                                    depending on past purchase history. Many organizations employ artificial
+                                    intelligence (AI) in marketing to guide clients through a tailored sales funnel.
+                                    Moreover, Sales funnel optimization is a terrific approach to make salesperson job
+                                    simpler, by discovering bottlenecks in the funnel. Companies that use AI-powered
+                                    sales funnel optimization will inevitably have an edge over their rivals.
+                                </p>
+
+                            </div>
+
                         </div>
                     </section>
 

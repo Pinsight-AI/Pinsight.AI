@@ -270,169 +270,153 @@
                         <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
-                            data-widget_type="heading.default" style="margin-bottom: 0 !important;">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Blog</h2>
+                            data-widget_type="heading.default">
+                            <div style="width: calc(100% - 270px); text-align: left;"
+                                class="elementor-container blog-width">
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">How to Predict Subscription Cancellation With the Help of AI</h2>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
-                            data-id="80285bd" data-element_type="widget"
-                            data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                            data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator">
-                                    </span>
+                        <div style="width: calc(100% - 270px);" class="blog-width">
+                            <div class="flex">
+                                <div class="date ">
+                                    <img src="assets/date_range.png" alt="">
+                                    <p>December 1, 2021</p>
+                                </div>
+                                <div class="time ">
+                                    <img src="assets/time.png" alt="" srcset="">
+                                    <p>4 min read</p>
                                 </div>
                             </div>
-                        </div>
-                        <div style="width: calc(100% - 270px);"
-                            class="elementor-container elementor-column-gap-default blog-width">
-                            <ul class="article-list">
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-1.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Traditional Lead Scoring vs Predictive Lead
-                                            Scoring</span>
-                                        <span class="article-content"> According to a Hubspot survey, obtaining leads
-                                            and boosting revenue is the main difficulty for 65 percent of businesses.
-                                            Moreover, prospecting and lead qualifying are the main challenges...</span>
-                                        <span class="article-date">December 15, 2020</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container ">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="what-is-predictive-lead-scoring"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-5.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">How to Predict Subscription Cancellation With the
-                                            Help of AI</span>
-                                        <span class="article-content">A lost customer has a global average worth of
-                                            $243. Moreover, selling to an existing client has a success rate of 60-70
-                                            percent...</span>
-                                        <span class="article-date m10">December 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container mt-md">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="how-to-predict-subscribtion-cancellation-with-ai"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-3.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">5 Ways AI Improve Subscription-Based
-                                            Businesses</span>
-                                        <span class="article-content">Consumers Purchasing patterns changed from
-                                            ownership to usership, growing subscription business revenue by...</span>
-                                        <span class="article-date">November 15, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="mt-md elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="5-ways-ai-improves-subscription-based-businesses"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-2.jpg" alt="Photo by Tima Miroshnichenko from Pexels"
-                                            width="0" height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Ten Ways AI-driven Lead Scoring Improve the
-                                            Efficiency of Your Marketing Campaigns</span>
-                                        <span class="article-content">sales and marketing can suffer significantly due
-                                            to
-                                            poor lead prioritization, with
-                                            missed sales objectives, discouraged sales teams...</span>
-                                        <span class="article-date">November 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="10-ways-ai-driven-lead-scoring-improves-marketing-campaigns"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img down-img">
-                                        <img src="assets/article-4.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">3 Key Areas When Considering the Trade-off
-                                            BetweenAccuracy and Explainability. How Is It Solved?</span>
-                                        <span class="article-content">Gone were the days when election campaigns are
-                                            executed by communicating the same political message to groups of audiences
-                                            across...</span>
-                                        <span class="article-date">October 15, 2021</span>
-                                        <div class="absolute elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper ">
-                                                    <a href="accuracy-explainability-3-key-areas"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <div class="article-container">
+                                <p class="article-about">
+                                    A lost customer has a global average worth of $243. Moreover, selling to an existing
+                                    client has a success rate of 60-70 percent, whereas selling to a new customer has a
+                                    success rate of only 5-20 percent! While companies hope that 100% of their consumers
+                                    will stay, it is unattainable due to customer churn. Customer churn is amongst the
+                                    essential vital metrics to measure in a company. It is a figure that can reveal the
+                                    hard facts about a company's client retention. Changes in a corporation's churn rate
+                                    may indicate that something is going well (if the number decreases) or something
+                                    needs to be addressed (if the rate increases). The churn rate is crucial for the
+                                    majority of SaaS and telecom products. Since they are subscription-based, the
+                                    business's income is determined by how many customers subscribe monthly, weekly, or
+                                    yearly.
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article5-1.png">
+                                </div>
+                                <p class="bold-lg">
+                                    Why Should Companies Care About Their Churn Rate?
+                                </p>
+                                <p class="article-about">
+                                    It costs five to 25 times more to acquire a new client than to keep an existing one.
+                                    Every time a client departs, a large amount of investment is lost. It is necessary
+                                    to devote both time and effort to their replacement. By forecasting churn,
+                                    businesses can save time and money by not investing in acquiring new customers;
+                                    instead, they can focus on keeping those they already have satisfied. To put the
+                                    importance of churn in your business into perspective, consider the following: <br>
+                                    Increasing client retention rates by 5% boosts earnings by 25% to 95%. Furthermore,
+                                    if two firms expand at the same pace of 50% per year, with only a churn rate of 5%
+                                    vs. 15%, the greater churn rate would have lost nearly 50% of its potential revenue
+                                    after five years. As a result, knowing when a client is inclined to leave will save
+                                    organizations a lot of money. <br>
+                                    For instance each store, as the graph shows, has 100 clients buying a $10 item each
+                                    month. The purple shop theoretically retains 5% of those consumers each month,
+                                    whereas the dark purple store retains 10%. As you'll see, a 5% increase can lead to
+                                    significant expansion that is impossible to match through acquisition alone.
+
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article5-2.jpg">
+                                </div>
+                                <p class="bold-lg">
+                                    How Can AI Help?
+                                </p>
+                                <p class="article-about">
+                                    Having a warning on customers that are about to terminate their membership will be a
+                                    huge advantage for businesses. Artificial Intelligence (AI) can make subscription
+                                    business process management proactive rather than reactive. It incorporates
+                                    data-driven insight that can recommend appropriate action steps at the correct time
+                                    for the right department to act on the right lead or client. AI gives the most
+                                    assistance in keeping subscribers on the platform and contributing to the recurring
+                                    income stream. <br>
+                                    Machine Learning (ML) and Deep Learning (DL), as subsets of AI, are increasingly
+                                    utilized in subscription management to identify, predict, and mitigate threats to
+                                    recurring revenue growth, brand evolution, and company development.
+                                    Subscription-based companies can use AI-powered data to discover the reasoning
+                                    behind subscription cancellations and product attributes. <br>
+                                    Machine learning algorithms find and discover complicated patterns in
+                                    high-dimensional data related to one of two outcomes: whether or not the consumer
+                                    cancels. The learned patterns are then applied to current data in which the outcome
+                                    is unknown. A likelihood of one of the two outcomes will be shown based on how well
+                                    the patterns line up with the current data. It maximizes the performance by
+                                    maximizing the productivity and efficiency of product management, sales, marketing,
+                                    and support teams.
+                                </p>
+                                <p class="bold-lg">
+                                    What is Needed From Businesses?
+                                </p>
+
+                                <p class="article-about">
+                                    The results may be obtained without individuals knowing how to code or having a
+                                    technical understanding of machine learning. Companies are required to provide a
+                                    tabular dataset containing quantitative data. Pinsight is the pioneer in the
+                                    industry that works with companies raw and uncleaned data. The more data an
+                                    organization has, the more accurate its forecasts will be; also, rather than static
+                                    data, in a churn prediction model, it is better to use real-time data to assess the
+                                    probability of customers churning. It will be possible to identify a certain
+                                    proportion of at-risk clients using static data, but real-time data will allow more
+                                    precise forecasts. <br>
+                                    Moreover, a mix of the following will be required to make accurate predictions: <br>
+                                    ● Basic demographic: For each customer, Basic data such as location, gender, age is
+                                    collected <br>
+                                    ● Goods/service information: which product/service did people buy, and how much did
+                                    it cost? <br>
+                                    ● Customer behavior: includes the number of times a customer has visited, called,
+                                    accessed your website, and so on <br>
+                                    ● Time: When a consumer first became a customer and when previous clients departed.
+                                    <br>
+                                    Other contextual variables with which it would be interesting to find connections
+                                    are: <br>
+                                    ● Overdue balances. <br>
+                                    ● Credit rating. <br>
+                                    ● Profits from users. <br>
+                                    ● Name of the business. <br>
+                                    ● Type of device. <br>
+                                    ● The utilized time for using the product. <br>
+
+                                </p>
+                                <p class="bold-lg">
+                                    How Can Churn Prediction Improve the Productivity of Different Departments?
+                                </p>
+                                <p class="article-about">
+                                    Companies may focus on the consumers who are most likely to leave the firm with the
+                                    help of AI's machine learning algorithms, increasing client retention and directly
+                                    impacting the bottom line. Rather than wasting time and effort contacting all of
+                                    their clients to boost retention, it will be apparent what customer the company
+                                    should contact first. <br>
+                                    Pinsight can find links between user churning and product qualities using the
+                                    company's data. Product managers, customer success managers, sales teams, and
+                                    designers will all benefit from it. <br>
+                                    Companies will optimize their product/service to reduce churn and boost retention to
+                                    increase revenue once Pinsight detects connections between attributes.
+
+                                </p>
+                                <p class="bold-lg">
+                                    How to Obtain State-of-the-Art Churn Predictions?
+                                </p>
+                                <p class="article-about">
+                                    The approach of making predictions in the machine learning realm would be to prepare
+                                    and clean data, develop a Logistic Regression model, train and test it, and then
+                                    start generating predictions. However, Pinsight adopts a more straightforward
+                                    technique: it takes companies' big data in raw format afterwards the user only has
+                                    to press a few buttons, and voila, they'll get their predictions. <br>
+                                    Most organizations do not have the resources or funding to implement AI in their
+                                    operations on their own, which is why Pinsight is an excellent tool since companies
+                                    can leverage
+                                    AI and machine learning without the hefty work, risk, or high implementation price.
+                                </p>
+                            </div>
+
                         </div>
                     </section>
 

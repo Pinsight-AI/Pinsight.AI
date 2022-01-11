@@ -270,169 +270,175 @@
                         <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
-                            data-widget_type="heading.default" style="margin-bottom: 0 !important;">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Blog</h2>
+                            data-widget_type="heading.default">
+                            <div style="width: calc(100% - 270px); text-align: left;"
+                                class="elementor-container blog-width">
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">3 Key Areas When Considering the Trade-off Between Accuracy and Explainability. How Is It Solved?
+                                </h2>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
-                            data-id="80285bd" data-element_type="widget"
-                            data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                            data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator">
-                                    </span>
+                        <div style="width: calc(100% - 270px);" class="blog-width">
+                            <div class="flex">
+                                <div class="date ">
+                                    <img src="assets/date_range.png" alt="">
+                                    <p>October 15, 2021</p>
+                                </div>
+                                <div class="time ">
+                                    <img src="assets/time.png" alt="" srcset="">
+                                    <p>6 min read</p>
                                 </div>
                             </div>
-                        </div>
-                        <div style="width: calc(100% - 270px);"
-                            class="elementor-container elementor-column-gap-default blog-width">
-                            <ul class="article-list">
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-1.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Traditional Lead Scoring vs Predictive Lead
-                                            Scoring</span>
-                                        <span class="article-content"> According to a Hubspot survey, obtaining leads
-                                            and boosting revenue is the main difficulty for 65 percent of businesses.
-                                            Moreover, prospecting and lead qualifying are the main challenges...</span>
-                                        <span class="article-date">December 15, 2020</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container ">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="what-is-predictive-lead-scoring"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-5.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">How to Predict Subscription Cancellation With the
-                                            Help of AI</span>
-                                        <span class="article-content">A lost customer has a global average worth of
-                                            $243. Moreover, selling to an existing client has a success rate of 60-70
-                                            percent...</span>
-                                        <span class="article-date m10">December 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container mt-md">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="how-to-predict-subscribtion-cancellation-with-ai"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-3.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">5 Ways AI Improve Subscription-Based
-                                            Businesses</span>
-                                        <span class="article-content">Consumers Purchasing patterns changed from
-                                            ownership to usership, growing subscription business revenue by...</span>
-                                        <span class="article-date">November 15, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="mt-md elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="5-ways-ai-improves-subscription-based-businesses"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-2.jpg" alt="Photo by Tima Miroshnichenko from Pexels"
-                                            width="0" height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Ten Ways AI-driven Lead Scoring Improve the
-                                            Efficiency of Your Marketing Campaigns</span>
-                                        <span class="article-content">sales and marketing can suffer significantly due
-                                            to
-                                            poor lead prioritization, with
-                                            missed sales objectives, discouraged sales teams...</span>
-                                        <span class="article-date">November 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="10-ways-ai-driven-lead-scoring-improves-marketing-campaigns"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img down-img">
-                                        <img src="assets/article-4.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">3 Key Areas When Considering the Trade-off
-                                            BetweenAccuracy and Explainability. How Is It Solved?</span>
-                                        <span class="article-content">Gone were the days when election campaigns are
-                                            executed by communicating the same political message to groups of audiences
-                                            across...</span>
-                                        <span class="article-date">October 15, 2021</span>
-                                        <div class="absolute elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper ">
-                                                    <a href="accuracy-explainability-3-key-areas"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <div class="article-container">
+                                <p class="article-about">
+                                    AI has seen many industrial uses in recent years, with machine learning systems
+                                    displaying superhuman capability in various activities. Machine Learning models with
+                                    more significant complications have frequently been used to boost performance,
+                                    generating confusion about how they work and, eventually, how they make judgments.
+                                    Unlike asking people how they arrived at a choice, most AI systems deliver results
+                                    without explicit reasoning for the outcome. <br>
+                                    It is challenging to trust algorithms whose conclusions are hard to explain.
+                                    Explainability aims to comprehend how a machine learning model creates predictions.
+                                    It entails questioning a model, obtaining data on why a particular forecast was
+                                    produced and then presenting that knowledge to people in an understandable way.
+                                    Without the component of explainability, the uncertainty makes it challenging for ML
+                                    systems to be implemented in sensitive yet vital fields, such as healthcare, or
+                                    self-driving vehicles, where the benefits may be enormous, but also ethical and
+                                    justice questions have inevitably emerged. <br>
+                                    The demand for reliable, fair, resilient, and high-performing models for real-world
+                                    applications resurrected the subject of explainable Artificial Intelligence. Many
+                                    firms are unwilling to trust AI technologies if they can't audit the algorithms. AI
+                                    systems that deliver forecasts and explanations would increase trust in the AI
+                                    system and allow the senior business management to participate actively in the
+                                    decision-making process. Hence, the focus of the research in Explainable Artificial
+                                    Intelligence (XAI) has accelerated in recent years. <br>
+
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article3-3.jpg">
+                                </div>
+
+                                <p class="article-about">
+                                    Many people are beginning to argue that individuals are entitled to comprehend the
+                                    algorithms that make decisions that impact them. Businesses must be able to
+                                    recognize when the AI models go wrong. Consider a scenario in which an AI system
+                                    with no explanation correctly forecasts a 28% drop in shop sales next month. The
+                                    business leadership team still requires a description of the AI system's
+                                    recommendation. To know the effecting factors and enhance them. <br>
+                                    Finding the appropriate balance between explaining what's happening in their
+                                    algorithms and developing them sophisticated enough to make correct conclusions is a
+                                    massive issue for data scientists. As AI becomes more integrated into our culture,
+                                    the judgments made by machine learning algorithms will become more critical. <br>
+                                    Simultaneously, the deep learning algorithms behind those judgments try to gather
+                                    insights from massive quantities of data in ways we don't fully comprehend. How can
+                                    we describe what happens within a neural network that analyzes terabytes of data and
+                                    draws conclusions?
+
+
+                                </p>
+                                <p class="bold-lg">
+                                    1. Black Box Vs. Glass Box
+                                </p>
+
+                                <p class="article-about">
+                                    While trying to describe how a model works, people will usually find themselves in
+                                    one of two situations: <br>
+                                    1. The black box model where people don't have access to knowledge of the underlying
+                                    model. <br> They can only create an explanation using the model's inputs and
+                                    outputs. <br>
+                                    2. The glass box where people have access to the underlying model, and it's much
+                                    easier to explain why AI made a particular prediction.
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article3-1.jpg">
+                                </div>
+                                <p class="article-about">
+                                    Moreover, when it comes to explainability, we're usually looking for one of two
+                                    things: <br>
+                                    View of the model. What characteristics are more significant to the model than
+                                    others? <br>
+                                    View by Instance. What variables influence a particular prediction?
+                                    The explainability strategies vary depending on whether the model is a black box or
+                                    a white box and the data people are looking at. Overall, "white box" (glass box)
+                                    models are simpler in design. They are more explainable and understandable. They
+                                    also yield explainable results and are often done intentionally to make it easier to
+                                    create explanations—typical examples are linear and decision tree-based models.
+                                    The disadvantage is that simplified, more understandable models are not as powerful
+                                    and therefore fall short of achieving state-of-the-art performance compared to the
+                                    black box methods that represent the complexity of the connections in data. This
+                                    trade-off forces people to choose between interpretability and performance.
+
+                                </p>
+                                <p class="bold-lg">
+                                    2. Double Edge Sword
+                                </p>
+                                <p class="article-about">
+                                    AI more explainable systems are less accurate, whereas more accurate models are less
+                                    explainable. More complex algorithms have become capable of extracting information
+                                    from more extensive data sets, contextualizing it, and formulating more complex
+                                    answers. Also, it has been used to produce higher accuracy. Hence, AI explainability
+                                    becomes a two-edged sword: although it improves the ability to check and question
+                                    the results, it also raises the risk of inaccuracies. The simplified algorithm can
+                                    generate more consistent results, but it might cause less accurate results if it's
+                                    not appropriately calibrated since it takes in fewer data inputs. As a result,
+                                    businesses impacted by derived judgments may not consider increased explainability a
+                                    good thing. In the opinion of some experts, Businesses shouldn't simplify down all
+                                    algorithms to linear models only to make them more understandable.
+                                    Instead, it's essential to consider the trade-offs that come with designing for
+                                    explainability.
+
+                                </p>
+                                <div class="img-wrapper">
+                                    
+                                    <img src="assets/article3-2.jpg">
+                                </div>
+                                <p class="article-about">
+                                    The deep learning paradigm, which is at the core of most cutting-edge ML models, is
+                                    an excellent example. It enables computers to autonomously explore, learn, and
+                                    retrieve the hierarchical representations of data required for segmentation and
+                                    classification tasks. This hierarchy of growing complexity enhances the systems'
+                                    predictive capability. It intrinsically lowers their power to explain its internal
+                                    workings and methods in most circumstances. <br>
+
+                                    As a result, the reasoning behind such actions becomes more challenging to
+                                    comprehend, making their projections more challenging to interpret. There is an
+                                    evident trade-off between a machine learning model's ability to deliver explainable
+                                    predictions and performance. In the end, decelerating and comprehending what is
+                                    being done could be the answer to constructing AI models we can trust. Rather than
+                                    rushing toward complexity to automate everything, it's better to examine people's
+                                    roles in the decision-making process.
+
+                                </p>
+                                <p class="bold-lg">
+                                    3. Why is Explainability Important
+                                </p>
+
+                                <p class="article-about">
+                                    Bias Reduction <br>
+                                    Bias may affect ML systems at any point in their development. Let's look at an
+                                    instance of how the environment around us may introduce historical bias into data:
+                                    Assume creating a predictive model to predict the next word in a textual series. A
+                                    data scientist <br>
+                                    gives every published article within the last ten years to ensure enough data to
+                                    train. We search "The Nurse's name is…. "and ask it to guess the following word in
+                                    the phrase. <br>
+                                    Then, people will observe and see that the model is considerably inclined to predict
+                                    female names than male names. What has occurred is that accidentally historical
+                                    preconceptions that exist in our culture were baked into the model.
+
+                                </p>
+                                <!-- <img src="" alt=""> -->
+                                <p class="article-about">
+                                    However, bias isn't limited to the data; it may also arise in the model.
+                                    An excellent example is training face recognition models and testing them using
+                                    photographs from TikTok. The bulk of TikTok users are between the ages of 10 and 29.
+                                    Hence, the model may have excellent accuracy on the test but will likely fail to
+                                    perform in the real world. The model is skewed towards a specific age range, and it
+                                    will underperform on older or younger people's faces.
+
+                                </p>
+
+                            </div>
+
                         </div>
                     </section>
 

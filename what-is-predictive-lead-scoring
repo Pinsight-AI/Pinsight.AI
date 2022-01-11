@@ -270,169 +270,146 @@
                         <div class="elementor-element elementor-element-2972368 elementor-invisible elementor-widget elementor-widget-heading"
                             data-id="2972368" data-element_type="widget"
                             data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
-                            data-widget_type="heading.default" style="margin-bottom: 0 !important;">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default" id="about">Blog</h2>
+                            data-widget_type="heading.default"
+                            style="text-align: left; width: 83%">
+                            <div class="elementor-container blog-width">
+                                <h2 class="elementor-heading-title elementor-size-default" id="about">
+                                    What is Predictive Lead Scoring?
+                                </h2>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-80285bd elementor-invisible elementor-widget elementor-widget-divider"
-                            data-id="80285bd" data-element_type="widget"
-                            data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                            data-widget_type="divider.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-divider">
-                                    <span class="elementor-divider-separator">
-                                    </span>
+                        <div style="width: calc(100% - 270px);" class="blog-width">
+                            <div class="flex">
+                                <div class="date ">
+                                    <img src="assets/date_range.png" alt="">
+                                    <p>December 15, 2021</p>
+                                </div>
+                                <div class="time ">
+                                    <img src="assets/time.png" alt="" srcset="">
+                                    <p>4 min read</p>
                                 </div>
                             </div>
-                        </div>
-                        <div style="width: calc(100% - 270px);"
-                            class="elementor-container elementor-column-gap-default blog-width">
-                            <ul class="article-list">
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-1.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Traditional Lead Scoring vs Predictive Lead
-                                            Scoring</span>
-                                        <span class="article-content"> According to a Hubspot survey, obtaining leads
-                                            and boosting revenue is the main difficulty for 65 percent of businesses.
-                                            Moreover, prospecting and lead qualifying are the main challenges...</span>
-                                        <span class="article-date">December 15, 2020</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container ">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="what-is-predictive-lead-scoring"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-5.jpg" alt="Photo by Pixabay from Pexels" width="0"
-                                            height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">How to Predict Subscription Cancellation With the
-                                            Help of AI</span>
-                                        <span class="article-content">A lost customer has a global average worth of
-                                            $243. Moreover, selling to an existing client has a success rate of 60-70
-                                            percent...</span>
-                                        <span class="article-date m10">December 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container mt-md">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="how-to-predict-subscribtion-cancellation-with-ai"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-3.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">5 Ways AI Improve Subscription-Based
-                                            Businesses</span>
-                                        <span class="article-content">Consumers Purchasing patterns changed from
-                                            ownership to usership, growing subscription business revenue by...</span>
-                                        <span class="article-date">November 15, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="mt-md elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="5-ways-ai-improves-subscription-based-businesses"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="grey-bg animated fadeInUp p-zero">
-                                    <div class="article-img">
-                                        <img src="assets/article-2.jpg" alt="Photo by Tima Miroshnichenko from Pexels"
-                                            width="0" height="218" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">Ten Ways AI-driven Lead Scoring Improve the
-                                            Efficiency of Your Marketing Campaigns</span>
-                                        <span class="article-content">sales and marketing can suffer significantly due
-                                            to
-                                            poor lead prioritization, with
-                                            missed sales objectives, discouraged sales teams...</span>
-                                        <span class="article-date">November 1, 2021</span>
-                                        <div class="elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="10-ways-ai-driven-lead-scoring-improves-marketing-campaigns"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="animated fadeInUp p-zero">
-                                    <div class="article-img down-img">
-                                        <img src="assets/article-4.jpg" alt="" srcset="">
-                                    </div>
-                                    <div class="article-description">
-                                        <span class="article-title">3 Key Areas When Considering the Trade-off
-                                            BetweenAccuracy and Explainability. How Is It Solved?</span>
-                                        <span class="article-content">Gone were the days when election campaigns are
-                                            executed by communicating the same political message to groups of audiences
-                                            across...</span>
-                                        <span class="article-date">October 15, 2021</span>
-                                        <div class="absolute elementor-element elementor-element-827f7cb button-pulse-animation elementor-tablet-align-center elementor-widget elementor-widget-button"
-                                            data-id="827f7cb" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper ">
-                                                    <a href="accuracy-explainability-3-key-areas"
-                                                        class="elementor-button-link elementor-button button-small elementor-size-sm elementor-animation-buzz-out"
-                                                        role="button">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span class="elementor-button-text">Read More</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <div class="article-container">
+                                <p class="article-about">
+                                    According to a Hubspot survey, obtaining leads and boosting revenue is the main
+                                    difficulty for 65 percent of businesses. Moreover, prospecting and lead qualifying
+                                    are the main challenges for salespeople, according to 34% of respondents. This is
+                                    one reason why many companies have shifted to a predictive lead scoring marketing
+                                    strategy. Predictive lead scoring is a scoring methodology powered by AI and backed
+                                    by customers' historical data and activity to foretell future events. It helps to
+                                    determine quality leads and drive effective marketing campaigns. Though it is
+                                    similar to traditional lead scoring, there are some apparent differences.
+
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article4-1.png">
+                                </div>
+                                <p class="bold-lg">
+                                    Traditional Lead Scoring vs. Predictive Lead Scoring
+                                </p>
+                                <p class="article-about">
+                                    Traditional Lead Scoring deals with data gathered from prospective customers. Since
+                                    it is done manually by humans, it utilizes fewer data and manual filters to
+                                    determine which prospect is more likely to purchase. The problem with this system is
+                                    the low accuracy since humans cannot analyze large datasets
+                                </p>
+                                <div class="img-wrapper">
+                                    <img src="assets/article4-2.png">
+                                </div>
+
+                                <p class="article-about">
+                                    and make their decisions on a small number of factors which introduces a lot of room
+                                    for errors. Traditional lead scoring is also time-consuming and can't be adjusted to
+                                    suit the rapid-changing market trends. <br>
+
+                                    Thus, marketing teams lose critical statistics to generate quality leads and
+                                    significant revenue. On the other hand, Predictive Lead Scoring uses an adaptive
+                                    algorithm programmed to update the system with new stats and quality leads. The
+                                    advantage is that predictive lead scoring easily adapts to the ever-changing markets
+                                    and can predict great tips in real-time. This gives a marketing edge to companies
+                                    and results in significant ROI.
+
+                                </p>
+                                <p class="bold-lg">
+                                    The Importance and Value of Predictive Analytics and Predictive Lead Scoring
+                                </p>
+                                <p class="article-about">
+                                    Predictive Analytics involves the use of gathered data to anticipate future events.
+                                    Some AI methodologies used on data are data mining and predictive modeling to
+                                    forecast future events. In marketing, predictive lead scoring uses the data derived
+                                    from predictive analytics to determine which lead is more likely to make a purchase.
+                                    This is done by AI automatically scoring leads. Lead scores give insight into the
+                                    prospect's level of interest, engagement, and purchasing intent.
+
+                                </p>
+                                <p class="bold-lg">
+                                    What Can Marketers Do with Lead Scoring Insights?
+                                </p>
+
+                                <p class="article-about">
+                                    Marketing teams can use lead scoring insights to drive marketing strategies and
+                                    anticipate future marketing trends. With these insights, marketers can determine
+                                    excellent prospects from average ones. Then they can spend their energy and
+                                    resources converting those leads into purchasing customers. Marketers can also use
+                                    lead scoring insights to design a marketing strategy that will best suit average
+                                    leads and help to convert them.
+
+                                </p>
+                                <p class="bold-lg">
+                                    How Does Lead Scoring Increase Sales and Effective Marketing Campaign?
+                                </p>
+                                <p class="article-about">
+                                    With Lead Scoring, no lead is left unattended in the sales funnel. This is because
+                                    the scoring system tells the interest and intent of each lead. It also gives the
+                                    best avenue to engage with a lead (like phone calls, text messages, or emails). This
+                                    converts more prospects which drives more sales. Available stats indicate
+                                    organizations that have employed a lead scoring system have experienced over 77%
+                                    increase in lead generation and ROI.
+
+                                </p>
+                                <p class="bold-lg">
+                                    Importance of Data Insights and Predictions for Business Revenue Growth and
+                                    Marketing Campaign Effectiveness.
+                                </p>
+                                <p class="article-about">
+                                    Data-driven Insights and analytics can help to tailor recommendations to specific
+                                    prospects. For example, data analytics would recommend more cars to a prospect who
+                                    has already been searching the internet for vehicles. Such a lead is more likely to
+                                    purchase a car than a lead who has been checking out baby foods. <br>
+
+                                    Thus, marketers can use data insights to predict a prospect's interest and recommend
+                                    lasting solutions. Companies that use data insights and predictions see more success
+                                    because they can predict exactly what a prospect wants and communicate effectively.
+                                    <br>
+                                    Predictive analysis helps businesses identify what interests an active customer and
+                                    direct marketing strategies to keep them hooked.
+                                </p>
+                                <p class="bold-lg">
+                                    AI Makes Lead Scoring Easy
+                                </p>
+                                <p class="article-about">
+                                    All this is made easy by software which cuts out the tedious work of identifying and
+                                    assigning values to great leads. This software is armed with algorithms to predict
+                                    quality leads and recommend effective marketing solutions. Unfortunately, they come
+                                    with crippling prices that many businesses may not afford. As if that is not enough,
+                                    one has to have some training in machine learning to use this software.
+                                </p>
+                                <p class="bold-lg">
+                                    The Pinsight Advantage
+                                </p>
+                                <p class="article-about">
+                                    That is where our predictive lead scoring tool, Pinsight, comes in. Pinsight equips
+                                    analysts with AI-powered insights into customer interests and engagements. With the
+                                    single click of a button, marketers can access predictive insights to drive their
+                                    marketing campaigns. The whole process is automated, so marketers don't need to have
+                                    skills in machine learning. <br>
+
+                                    The best news is that Pinsight is affordable and easy to use. All you need to do is
+                                    tell the AI what your goals are, and you're assured of excellent results. Why don't
+                                    you give us a try today?
+                                </p>
+                            </div>
+
                         </div>
                     </section>
 
